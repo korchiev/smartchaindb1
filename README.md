@@ -20,7 +20,7 @@ tripti samal
 
 # SmartchainDB Server
 
-BigchainDB is the blockchain database. This repository is for _BigchainDB Server_.
+SmartchainDB is the blockchain database. This repository is for _BigchainDB Server_.
 
 ## The Basics
 
@@ -28,7 +28,7 @@ BigchainDB is the blockchain database. This repository is for _BigchainDB Server
 * [Read the BigchainDB 2.0 whitepaper](https://www.bigchaindb.com/whitepaper/)
 * [Check out the _Hitchiker's Guide to BigchainDB_](https://www.bigchaindb.com/developers/guide/)
 
-## Run and Test BigchainDB Server from the `master` Branch
+## Run and Test SmartchainDB Server from the `scdb-dev` Branch
 
 Running and testing the latest version of BigchainDB Server is easy. Make sure you have a recent version of [Docker Compose](https://docs.docker.com/compose/install/) installed. When you are ready, fire up a terminal and run:
 
