@@ -20,30 +20,33 @@ tripti samal
 
 # SmartchainDB Server
 
-SmartchainDB is the blockchain database. This repository is for _BigchainDB Server_.
+SmartchainDB is the blockchain database. This repository is for _SmartchainDB Server_.
 
-## The Basics
+## Background
 
-* [Try the Quickstart](https://docs.bigchaindb.com/projects/server/en/latest/quickstart.html)
-* [Read the BigchainDB 2.0 whitepaper](https://www.bigchaindb.com/whitepaper/)
+* [Try the Quickstart to get familiar with BigchainDB](https://docs.bigchaindb.com/projects/server/en/latest/quickstart.html) 
 * [Check out the _Hitchiker's Guide to BigchainDB_](https://www.bigchaindb.com/developers/guide/)
 
-## Run and Test SmartchainDB Server from the `scdb-dev` Branch
+## The Basics
+* [Read the SmartchainDB paper](https://drive.google.com/file/d/1HOYbvWb7_jxfu6WajqKYglpb9d9TKtFT/view?usp=sharing)
+
+
+## Run and Test SmartchainDB Server
 
 Running and testing the latest version of BigchainDB Server is easy. Make sure you have a recent version of [Docker Compose](https://docs.docker.com/compose/install/) installed. When you are ready, fire up a terminal and run:
 
 ```text
-git clone https://github.com/bigchaindb/bigchaindb.git
-cd bigchaindb
-make run
+git clone https://github.com/korchiev/smartchaindb.git
+cd smartchaindb-server
+sudo docker-compose up bigchaindb
 ```
 
-BigchainDB should be reachable now on `http://localhost:9984/`.
+SmartchainDB server should be reachable now on `http://localhost:9984/`.
 
 There are also other commands you can execute:
 
-* `make start`: Run BigchainDB from source and daemonize it (stop it with `make stop`).
-* `make stop`: Stop BigchainDB.
+* `make start`: Run SmartchainDB from source and daemonize it (stop it with `make stop`).
+* `make stop`: Stop SmartchainDB.
 * `make logs`: Attach to the logs.
 * `make test`: Run all unit and acceptance tests.
 * `make test-unit-watch`: Run all tests and wait. Every time you change code, tests will be run again.
@@ -54,6 +57,7 @@ There are also other commands you can execute:
 
 To view all commands available, run `make`.
 
+<!---
 ## Links for Everyone
 
 * [BigchainDB.com](https://www.bigchaindb.com/) - the main BigchainDB website, including newsletter signup
@@ -76,3 +80,4 @@ To view all commands available, run `make`.
 * [Licenses](LICENSES.md) - open source & open content
 * [Imprint](https://www.bigchaindb.com/imprint/)
 * [Contact Us](https://www.bigchaindb.com/contact/)
+--->
