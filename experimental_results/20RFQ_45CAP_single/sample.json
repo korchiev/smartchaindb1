@@ -1,0 +1,86 @@
+{
+  "inputs": [
+    {
+      "owners_before": [
+        "J6VeNTZ9RdRLFBcSCe74WPihz2ErcezjYF3ckV2WsuQV"
+      ],
+      "fulfills": null,
+      "fulfillment": "pGSAIP3--FMSyCgCH_ciS6gB7TpVisMAQl_off65t6rLo_ZigUCg0yq7sFzsu8zvvSoQ4DqW1G2fV0vxvSO4SnUgoCOzTyMZihB57xyJFcfSM5Z-ojSpikMP2tJBjaIYmZsktp4B"
+    }
+  ],
+  "outputs": [
+    {
+      "public_keys": [
+        "J6VeNTZ9RdRLFBcSCe74WPihz2ErcezjYF3ckV2WsuQV"
+      ],
+      "condition": {
+        "details": {
+          "type": "ed25519-sha-256",
+          "public_key": "J6VeNTZ9RdRLFBcSCe74WPihz2ErcezjYF3ckV2WsuQV"
+        },
+        "uri": "ni:///sha-256;TzQQR0GnJld3z69nuwDPXDa2JZ6s0MdEHZGIXcRuBhg?fpt=ed25519-sha-256&cost=131072"
+      },
+      "amount": "1"
+    }
+  ],
+  "operation": "REQUEST_FOR_QUOTE",
+  "metadata": {
+    "capability": [
+      "Flipping",
+      "Positioning",
+      "Gluing",
+      "Riveting",
+      "Shrinking",
+      "Picking",
+      "ColdWelding",
+      "Nailing",
+      "SpringFastening",
+      "TorchSoldering",
+      "ThermalCuring",
+      "Mating",
+      "Stapling",
+      "LaserWelding",
+      "TapeFeeding",
+      "Sewing",
+      "ResistanceWelding",
+      "Pressing",
+      "Wedging",
+      "Bending",
+      "Taping",
+      "Folding",
+      "HeatedAirWelding",
+      "Hammering",
+      "UV-curing",
+      "MetalWelding",
+      "Twisting",
+      "ArcWelding",
+      "Grasping",
+      "Placing",
+      "Holding",
+      "TrayFeeding",
+      "Clamping",
+      "DipSoldering",
+      "Orienting",
+      "TighteningFromSide",
+      "ThreadRunning",
+      "TubeFeeding",
+      "IronSoldering",
+      "UltrasonicWelding",
+      "Screwing",
+      "Clipping",
+      "PlasticWelding",
+      "FrictionWelding",
+      "BulkFeeding"
+    ],
+    "kafkaInTimestamp": "2022-11-30T05:21:05.856",
+    "requestCreationTimestamp": "2022-11-30T05:21:05.856"
+  },
+  "asset": {
+    "data": {
+      "deadline": "2021-02-21",
+      "pre_request_id": null
+    }
+  },
+  "version": "2.0",
+  "id": "c9828cf3b908c6941d4b9c1d1e1068c04ca241991edbd2452b6bfc43d40a0925"
+}

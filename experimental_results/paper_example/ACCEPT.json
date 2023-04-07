@@ -1,0 +1,38 @@
+{
+  "inputs": [
+    {
+      "owners_before": [
+        "YM2sd4hnKgMgmCetHdTnQ44WSCQzWrbuoofAGfgYATb"
+      ],
+      "fulfills": null,
+      "fulfillment": "pGSAIAgHp9mL5Z8gMKSufqCh42PdOw6CWaZlVVVwQelAqUCSgUAt1bojJ80kxPKuUeZLccnVbonN7A2T98VlEFNc6AUurvQd3I3SKKPAumkrIVPnX-mh23amyqg6dzg94qsbP78B"
+    }
+  ],
+  "outputs": [
+    {
+      "public_keys": [
+        "YM2sd4hnKgMgmCetHdTnQ44WSCQzWrbuoofAGfgYATb"
+      ],
+      "condition": {
+        "details": {
+          "type": "ed25519-sha-256",
+          "public_key": "YM2sd4hnKgMgmCetHdTnQ44WSCQzWrbuoofAGfgYATb"
+        },
+        "uri": "ni:///sha-256;IVNS8bk4syag1A1MW8kRTSC8L-o7URq5n_bz3sTCChk?fpt=ed25519-sha-256&cost=131072"
+      },
+      "amount": "1"
+    }
+  ],
+  "operation": "ACCEPT",
+  "metadata": {
+    "requestCreationTimestamp": "2023-03-09T23:55:46.547"
+  },
+  "asset": {
+    "data": {
+      "rfq_id": "6ae4726071a7ccf2bff3e083f4dec4b0dbcaac815cb9752441b176e78aa6eb3f",
+      "winner_bid_id": "95879865d3805d9f560fc3112a488c8ba9d9b4f4a15ed35fc42040fe2a04dca1"
+    }
+  },
+  "version": "2.0",
+  "id": "b64c6c7b77dcc79ec3dd9cd3d0eff7a75c8d2912b95cf074743e630f3c662efc"
+}

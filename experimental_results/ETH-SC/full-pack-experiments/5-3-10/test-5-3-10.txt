@@ -1,0 +1,163 @@
+
+  Contract: smartAuction
+Start: 1669922136224
+End: 1669922136455
+RFQ Id: 106 Account num: 0xaA96E3942e9f307C07D1170dd05EB953f0e4f577
+    ✓ should create rfq #1  231 , 362775 gas)
+Start: 1669922136689
+End: 1669922136820
+Asset Id: 201 Account num: 6
+    ✓ should create asset #1  132 , 338377 gas)
+Start: 1669922137025
+End: 1669922138328
+Asset Id: 201 RFQ Id: 106 Account num: 6
+    ✓ should create bid #1  1304 , 818385 gas)
+Start: 1669922138517
+End: 1669922138629
+Asset Id: 202 Account num: 7
+    ✓ should create asset #2  112 , 338377 gas)
+Start: 1669922138815
+End: 1669922139957
+Asset Id: 202 RFQ Id: 106 Account num: 7
+    ✓ should create bid #2  1142 , 786985 gas)
+Start: 1669922140165
+End: 1669922140270
+Asset Id: 203 Account num: 8
+    ✓ should create asset #3  105 , 338377 gas)
+Start: 1669922140470
+End: 1669922141498
+Asset Id: 203 RFQ Id: 106 Account num: 8
+    ✓ should create bid #3  1028 , 786985 gas)
+Start: 1669922141655
+End: 1669922141713
+RFQ Id: 106 Asset Id: 203 Account num: 0xaA96E3942e9f307C07D1170dd05EB953f0e4f577
+    ✓ should activate accept #1  60 , 55637 gas)
+Start: 1669922141858
+End: 1669922141974
+RFQ Id: 106 Account num: 0x6c074eA9C7C8ed02Cae7F7019916f6d3088c3e9F
+    ✓ should create rfq #2  116 , 84975 gas)
+Start: 1669922142130
+End: 1669922142232
+Asset Id: 204 Account num: 9
+    ✓ should create asset #1  102 , 338377 gas)
+Start: 1669922142391
+End: 1669922143436
+Asset Id: 204 RFQ Id: 106 Account num: 9
+    ✓ should create bid #1  1045 , 804085 gas)
+Start: 1669922143597
+End: 1669922143696
+Asset Id: 205 Account num: 10
+    ✓ should create asset #2  99 , 338377 gas)
+Start: 1669922143888
+End: 1669922144925
+Asset Id: 205 RFQ Id: 106 Account num: 10
+    ✓ should create bid #2  1037 , 786985 gas)
+Start: 1669922145088
+End: 1669922145196
+Asset Id: 206 Account num: 11
+    ✓ should create asset #3  109 , 338377 gas)
+Start: 1669922145363
+End: 1669922146409
+Asset Id: 206 RFQ Id: 106 Account num: 11
+    ✓ should create bid #3  1046 , 786985 gas)
+Start: 1669922146569
+End: 1669922146637
+RFQ Id: 106 Asset Id: 206 Account num: 0x6c074eA9C7C8ed02Cae7F7019916f6d3088c3e9F
+    ✓ should activate accept #2  68 , 53034 gas)
+Start: 1669922146804
+End: 1669922146924
+RFQ Id: 106 Account num: 0x064F7854f68356Fe709d11121461F07489966DE9
+    ✓ should create rfq #3  120 , 84975 gas)
+Start: 1669922147095
+End: 1669922147198
+Asset Id: 207 Account num: 12
+    ✓ should create asset #1  103 , 338377 gas)
+Start: 1669922147365
+End: 1669922148414
+Asset Id: 207 RFQ Id: 106 Account num: 12
+    ✓ should create bid #1  1049 , 804085 gas)
+Start: 1669922148593
+End: 1669922148695
+Asset Id: 208 Account num: 13
+    ✓ should create asset #2  102 , 338377 gas)
+Start: 1669922148855
+End: 1669922149922
+Asset Id: 208 RFQ Id: 106 Account num: 13
+    ✓ should create bid #2  1068 , 786985 gas)
+Start: 1669922150075
+End: 1669922150172
+Asset Id: 209 Account num: 14
+    ✓ should create asset #3  97 , 338377 gas)
+Start: 1669922150339
+End: 1669922151420
+Asset Id: 209 RFQ Id: 106 Account num: 14
+    ✓ should create bid #3  1081 , 786985 gas)
+Start: 1669922151577
+End: 1669922151789
+RFQ Id: 106 Asset Id: 209 Account num: 0x064F7854f68356Fe709d11121461F07489966DE9
+    ✓ should activate accept #3  212 , 50234 gas)
+Start: 1669922151946
+End: 1669922152055
+RFQ Id: 106 Account num: 0xB19c301E737621fe8fa606Fc506eC9a0613F3CBf
+    ✓ should create rfq #4  110 , 84975 gas)
+Start: 1669922152217
+End: 1669922152311
+Asset Id: 210 Account num: 15
+    ✓ should create asset #1  94 , 338377 gas)
+Start: 1669922152471
+End: 1669922153538
+Asset Id: 210 RFQ Id: 106 Account num: 15
+    ✓ should create bid #1  1068 , 804085 gas)
+Start: 1669922153709
+End: 1669922153806
+Asset Id: 211 Account num: 16
+    ✓ should create asset #2  97 , 338377 gas)
+Start: 1669922153970
+End: 1669922155057
+Asset Id: 211 RFQ Id: 106 Account num: 16
+    ✓ should create bid #2  1088 , 786985 gas)
+Start: 1669922155217
+End: 1669922155312
+Asset Id: 212 Account num: 17
+    ✓ should create asset #3  95 , 338377 gas)
+Start: 1669922155475
+End: 1669922156552
+Asset Id: 212 RFQ Id: 106 Account num: 17
+    ✓ should create bid #3  1077 , 786985 gas)
+Start: 1669922156719
+End: 1669922156942
+RFQ Id: 106 Asset Id: 212 Account num: 0xB19c301E737621fe8fa606Fc506eC9a0613F3CBf
+    ✓ should activate accept #4  223 , 50234 gas)
+Start: 1669922157100
+End: 1669922157210
+RFQ Id: 106 Account num: 0xA88e99e8A40D937d8175F17bcF12DEfCAc2a6a3C
+    ✓ should create rfq #5  110 , 84975 gas)
+Start: 1669922157372
+End: 1669922157494
+Asset Id: 213 Account num: 18
+    ✓ should create asset #1  122 , 338377 gas)
+Start: 1669922157656
+End: 1669922158741
+Asset Id: 213 RFQ Id: 106 Account num: 18
+    ✓ should create bid #1  1085 , 804085 gas)
+Start: 1669922158916
+End: 1669922159015
+Asset Id: 214 Account num: 19
+    ✓ should create asset #2  99 , 338377 gas)
+Start: 1669922159189
+End: 1669922160349
+Asset Id: 214 RFQ Id: 106 Account num: 19
+    ✓ should create bid #2  1160 , 786985 gas)
+Start: 1669922160516
+End: 1669922160610
+Asset Id: 215 Account num: 20
+    ✓ should create asset #3  94 , 338377 gas)
+Start: 1669922160777
+End: 1669922161882
+Asset Id: 215 RFQ Id: 106 Account num: 20
+    ✓ should create bid #3  1105 , 786985 gas)
+Start: 1669922162047
+End: 1669922162278
+RFQ Id: 106 Asset Id: 215 Account num: 0xA88e99e8A40D937d8175F17bcF12DEfCAc2a6a3C
+    ✓ should activate accept #5  231 , 50234 gas)
+

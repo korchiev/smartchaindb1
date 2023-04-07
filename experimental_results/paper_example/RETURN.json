@@ -1,0 +1,41 @@
+{
+  "inputs": [
+    {
+      "owners_before": [
+        "7EAsHUGQ15LdS2NoX9543bgEoZg7BmkVqdxSmiSda3Dv"
+      ],
+      "fulfills": {
+        "transaction_id": "8fac4e9dab132f02445d9a98238f3515c577e79fea76a362e8c52fd74dfeb49b",
+        "output_index": 0
+      },
+      "fulfillment": "pGSAIFyF1CT1IbTwme5puHp1V00lHojQ2c8-ZBgg0Yj7Onx9gUAsvSXM9j0VsQDVv4-S4ucaoxSFGEv1cV4RHQtlyHRl8btbgGeydMcHx3yhy0T03Npdo7cMYsKEDRiW2cczDI8I"
+    }
+  ],
+  "outputs": [
+    {
+      "public_keys": [
+        "YM2sd4hnKgMgmCetHdTnQ44WSCQzWrbuoofAGfgYATb"
+      ],
+      "condition": {
+        "details": {
+          "type": "ed25519-sha-256",
+          "public_key": "YM2sd4hnKgMgmCetHdTnQ44WSCQzWrbuoofAGfgYATb"
+        },
+        "uri": "ni:///sha-256;IVNS8bk4syag1A1MW8kRTSC8L-o7URq5n_bz3sTCChk?fpt=ed25519-sha-256&cost=131072"
+      },
+      "amount": "1"
+    }
+  ],
+  "operation": "RETURN",
+  "metadata": {
+    "requestCreationTimestamp": "2023-03-09T23:55:46.820932"
+  },
+  "asset": {
+    "data": {
+      "bid_id": "8fac4e9dab132f02445d9a98238f3515c577e79fea76a362e8c52fd74dfeb49b",
+      "accept_id": "b64c6c7b77dcc79ec3dd9cd3d0eff7a75c8d2912b95cf074743e630f3c662efc"
+    }
+  },
+  "version": "2.0",
+  "id": "514185ee6f8c92dc773dd6c4d4524e1877456f6fd4fcb8e29e32cece5dd69fda"
+}

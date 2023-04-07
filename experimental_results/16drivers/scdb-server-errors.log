@@ -1,0 +1,205 @@
+[2023-02-25 13:26:24] [ERROR] (asyncio) unhandled exception during asyncio.run() shutdown
+task: <Task finished coro=<_run_app() done, defined at /usr/local/lib/python3.6/site-packages/aiohttp/web.py:289> exception=RuntimeError('web.Application instance initialized with different loop',)> (bigchaindb_ws - pid: 36)
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/aiohttp/web.py", line 516, in run_app
+    loop.run_until_complete(main_task)
+  File "/usr/local/lib/python3.6/asyncio/base_events.py", line 488, in run_until_complete
+    return future.result()
+  File "/usr/local/lib/python3.6/site-packages/aiohttp/web.py", line 323, in _run_app
+    await runner.setup()
+  File "/usr/local/lib/python3.6/site-packages/aiohttp/web_runner.py", line 279, in setup
+    self._server = await self._make_server()
+  File "/usr/local/lib/python3.6/site-packages/aiohttp/web_runner.py", line 373, in _make_server
+    self._app._set_loop(loop)
+  File "/usr/local/lib/python3.6/site-packages/aiohttp/web_app.py", line 224, in _set_loop
+    "web.Application instance initialized with different loop"
+RuntimeError: web.Application instance initialized with different loop
+[2023-02-25 14:11:18] [ERROR] (flask.app) Exception on /api/v1/transactions [POST] (bigchaindb_webapi - pid: 54)
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/flask/app.py", line 1805, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.6/site-packages/flask/app.py", line 1791, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python3.6/site-packages/flask_restful/__init__.py", line 467, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/flask/views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/flask_restful/__init__.py", line 582, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/usr/src/app/bigchaindb/web/views/transactions.py", line 113, in post
+    None
+  File "/usr/src/app/bigchaindb/utils.py", line 256, in log_metric
+    requestCreationTimestamp, "%Y-%m-%dT%H:%M:%S.%f"
+  File "/usr/local/lib/python3.6/_strptime.py", line 565, in _strptime_datetime
+    tt, fraction = _strptime(data_string, format)
+  File "/usr/local/lib/python3.6/_strptime.py", line 362, in _strptime
+    (data_string, format))
+ValueError: time data '2023-02-25T14:11:18' does not match format '%Y-%m-%dT%H:%M:%S.%f'
+[2023-02-25 14:18:27] [ERROR] (flask.app) Exception on /api/v1/transactions [POST] (bigchaindb_webapi - pid: 49)
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/flask/app.py", line 1805, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.6/site-packages/flask/app.py", line 1791, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python3.6/site-packages/flask_restful/__init__.py", line 467, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/flask/views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/flask_restful/__init__.py", line 582, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/usr/src/app/bigchaindb/web/views/transactions.py", line 113, in post
+    None
+  File "/usr/src/app/bigchaindb/utils.py", line 256, in log_metric
+    requestCreationTimestamp, "%Y-%m-%dT%H:%M:%S.%f"
+  File "/usr/local/lib/python3.6/_strptime.py", line 565, in _strptime_datetime
+    tt, fraction = _strptime(data_string, format)
+  File "/usr/local/lib/python3.6/_strptime.py", line 362, in _strptime
+    (data_string, format))
+ValueError: time data '2023-02-25T14:18:27' does not match format '%Y-%m-%dT%H:%M:%S.%f'
+[2023-02-25 14:20:10] [ERROR] (flask.app) Exception on /api/v1/transactions [POST] (bigchaindb_webapi - pid: 45)
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/flask/app.py", line 1805, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.6/site-packages/flask/app.py", line 1791, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python3.6/site-packages/flask_restful/__init__.py", line 467, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/flask/views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/flask_restful/__init__.py", line 582, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/usr/src/app/bigchaindb/web/views/transactions.py", line 113, in post
+    None
+  File "/usr/src/app/bigchaindb/utils.py", line 256, in log_metric
+    requestCreationTimestamp, "%Y-%m-%dT%H:%M:%S.%f"
+  File "/usr/local/lib/python3.6/_strptime.py", line 565, in _strptime_datetime
+    tt, fraction = _strptime(data_string, format)
+  File "/usr/local/lib/python3.6/_strptime.py", line 362, in _strptime
+    (data_string, format))
+ValueError: time data '2023-02-25T14:20:10' does not match format '%Y-%m-%dT%H:%M:%S.%f'
+[2023-02-25 14:24:03] [ERROR] (flask.app) Exception on /api/v1/transactions [POST] (bigchaindb_webapi - pid: 45)
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/flask/app.py", line 1805, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.6/site-packages/flask/app.py", line 1791, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python3.6/site-packages/flask_restful/__init__.py", line 467, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/flask/views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/flask_restful/__init__.py", line 582, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/usr/src/app/bigchaindb/web/views/transactions.py", line 113, in post
+    None
+  File "/usr/src/app/bigchaindb/utils.py", line 256, in log_metric
+    requestCreationTimestamp, "%Y-%m-%dT%H:%M:%S.%f"
+  File "/usr/local/lib/python3.6/_strptime.py", line 565, in _strptime_datetime
+    tt, fraction = _strptime(data_string, format)
+  File "/usr/local/lib/python3.6/_strptime.py", line 362, in _strptime
+    (data_string, format))
+ValueError: time data '2023-02-25T14:24:03' does not match format '%Y-%m-%dT%H:%M:%S.%f'
+[2023-02-25 14:40:55] [ERROR] (flask.app) Exception on /api/v1/transactions [POST] (bigchaindb_webapi - pid: 29)
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/flask/app.py", line 1805, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.6/site-packages/flask/app.py", line 1791, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python3.6/site-packages/flask_restful/__init__.py", line 467, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/flask/views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/flask_restful/__init__.py", line 582, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/usr/src/app/bigchaindb/web/views/transactions.py", line 113, in post
+    None
+  File "/usr/src/app/bigchaindb/utils.py", line 256, in log_metric
+    requestCreationTimestamp, "%Y-%m-%dT%H:%M:%S.%f"
+  File "/usr/local/lib/python3.6/_strptime.py", line 565, in _strptime_datetime
+    tt, fraction = _strptime(data_string, format)
+  File "/usr/local/lib/python3.6/_strptime.py", line 362, in _strptime
+    (data_string, format))
+ValueError: time data '2023-02-25T14:40:55' does not match format '%Y-%m-%dT%H:%M:%S.%f'
+[2023-02-25 14:46:34] [ERROR] (flask.app) Exception on /api/v1/transactions [POST] (bigchaindb_webapi - pid: 38)
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/flask/app.py", line 1805, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.6/site-packages/flask/app.py", line 1791, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python3.6/site-packages/flask_restful/__init__.py", line 467, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/flask/views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/flask_restful/__init__.py", line 582, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/usr/src/app/bigchaindb/web/views/transactions.py", line 113, in post
+    None
+  File "/usr/src/app/bigchaindb/utils.py", line 256, in log_metric
+    requestCreationTimestamp, "%Y-%m-%dT%H:%M:%S.%f"
+  File "/usr/local/lib/python3.6/_strptime.py", line 565, in _strptime_datetime
+    tt, fraction = _strptime(data_string, format)
+  File "/usr/local/lib/python3.6/_strptime.py", line 362, in _strptime
+    (data_string, format))
+ValueError: time data '2023-02-25T14:46:34' does not match format '%Y-%m-%dT%H:%M:%S.%f'
+[2023-02-25 14:48:59] [ERROR] (flask.app) Exception on /api/v1/transactions [POST] (bigchaindb_webapi - pid: 23)
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/flask/app.py", line 1805, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.6/site-packages/flask/app.py", line 1791, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python3.6/site-packages/flask_restful/__init__.py", line 467, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/flask/views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/flask_restful/__init__.py", line 582, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/usr/src/app/bigchaindb/web/views/transactions.py", line 113, in post
+    None
+  File "/usr/src/app/bigchaindb/utils.py", line 256, in log_metric
+    requestCreationTimestamp, "%Y-%m-%dT%H:%M:%S.%f"
+  File "/usr/local/lib/python3.6/_strptime.py", line 565, in _strptime_datetime
+    tt, fraction = _strptime(data_string, format)
+  File "/usr/local/lib/python3.6/_strptime.py", line 362, in _strptime
+    (data_string, format))
+ValueError: time data '2023-02-25T14:48:59' does not match format '%Y-%m-%dT%H:%M:%S.%f'
+[2023-02-25 14:49:41] [ERROR] (flask.app) Exception on /api/v1/transactions [POST] (bigchaindb_webapi - pid: 38)
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/flask/app.py", line 1805, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.6/site-packages/flask/app.py", line 1791, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python3.6/site-packages/flask_restful/__init__.py", line 467, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/flask/views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/flask_restful/__init__.py", line 582, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/usr/src/app/bigchaindb/web/views/transactions.py", line 113, in post
+    None
+  File "/usr/src/app/bigchaindb/utils.py", line 256, in log_metric
+    requestCreationTimestamp, "%Y-%m-%dT%H:%M:%S.%f"
+  File "/usr/local/lib/python3.6/_strptime.py", line 565, in _strptime_datetime
+    tt, fraction = _strptime(data_string, format)
+  File "/usr/local/lib/python3.6/_strptime.py", line 362, in _strptime
+    (data_string, format))
+ValueError: time data '2023-02-25T14:49:41' does not match format '%Y-%m-%dT%H:%M:%S.%f'
+[2023-02-25 14:54:52] [ERROR] (flask.app) Exception on /api/v1/transactions [POST] (bigchaindb_webapi - pid: 51)
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/flask/app.py", line 1805, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.6/site-packages/flask/app.py", line 1791, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python3.6/site-packages/flask_restful/__init__.py", line 467, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/flask/views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/flask_restful/__init__.py", line 582, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/usr/src/app/bigchaindb/web/views/transactions.py", line 113, in post
+    None
+  File "/usr/src/app/bigchaindb/utils.py", line 256, in log_metric
+    requestCreationTimestamp, "%Y-%m-%dT%H:%M:%S.%f"
+  File "/usr/local/lib/python3.6/_strptime.py", line 565, in _strptime_datetime
+    tt, fraction = _strptime(data_string, format)
+  File "/usr/local/lib/python3.6/_strptime.py", line 362, in _strptime
+    (data_string, format))
+ValueError: time data '2023-02-25T14:54:52' does not match format '%Y-%m-%dT%H:%M:%S.%f'

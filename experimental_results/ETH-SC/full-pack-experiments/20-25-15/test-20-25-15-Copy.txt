@@ -1,0 +1,4195 @@
+Using network 'development'.
+
+
+Compiling your contracts...
+===========================
+> Everything is up to date, there is nothing to compile.
+
+  Contract: smartAuction
+Start: 1669785661611
+End: 1669785661859
+RFQ Id: 121 Account num: 0x6d6eEf8F3E4317c134F7474eb1530Bc3Ad21d458
+    ✓ should create rfq #1 (249ms, 486375 gas)
+Start: 1669785662049
+End: 1669785662217
+Asset Id: 201 Account num: 21
+    ✓ should create asset #1 (168ms, 461976 gas)
+Start: 1669785662407
+End: 1669785664699
+Asset Id: 201 RFQ Id: 121 Account num: 21
+    ✓ should create bid #1 (2292ms, 1337653 gas)
+Start: 1669785664861
+End: 1669785664982
+Asset Id: 202 Account num: 22
+    ✓ should create asset #2 (121ms, 461976 gas)
+Start: 1669785665156
+End: 1669785667293
+Asset Id: 202 RFQ Id: 121 Account num: 22
+    ✓ should create bid #2 (2137ms, 1306253 gas)
+Start: 1669785667441
+End: 1669785667580
+Asset Id: 203 Account num: 23
+    ✓ should create asset #3 (139ms, 461976 gas)
+Start: 1669785667744
+End: 1669785669782
+Asset Id: 203 RFQ Id: 121 Account num: 23
+    ✓ should create bid #3 (2038ms, 1306253 gas)
+Start: 1669785669931
+End: 1669785670055
+Asset Id: 204 Account num: 24
+    ✓ should create asset #4 (124ms, 461976 gas)
+Start: 1669785670201
+End: 1669785672380
+Asset Id: 204 RFQ Id: 121 Account num: 24
+    ✓ should create bid #4 (2179ms, 1306253 gas)
+Start: 1669785672533
+End: 1669785672662
+Asset Id: 205 Account num: 25
+    ✓ should create asset #5 (130ms, 461976 gas)
+Start: 1669785672816
+End: 1669785675026
+Asset Id: 205 RFQ Id: 121 Account num: 25
+    ✓ should create bid #5 (2210ms, 1306253 gas)
+Start: 1669785675183
+End: 1669785675309
+Asset Id: 206 Account num: 26
+    ✓ should create asset #6 (127ms, 461976 gas)
+Start: 1669785675474
+End: 1669785677593
+Asset Id: 206 RFQ Id: 121 Account num: 26
+    ✓ should create bid #6 (2119ms, 1306253 gas)
+Start: 1669785677742
+End: 1669785677859
+Asset Id: 207 Account num: 27
+    ✓ should create asset #7 (117ms, 461976 gas)
+Start: 1669785678005
+End: 1669785680155
+Asset Id: 207 RFQ Id: 121 Account num: 27
+    ✓ should create bid #7 (2150ms, 1306253 gas)
+Start: 1669785680304
+End: 1669785680427
+Asset Id: 208 Account num: 28
+    ✓ should create asset #8 (123ms, 461976 gas)
+Start: 1669785680583
+End: 1669785682708
+Asset Id: 208 RFQ Id: 121 Account num: 28
+    ✓ should create bid #8 (2125ms, 1306253 gas)
+Start: 1669785682858
+End: 1669785682984
+Asset Id: 209 Account num: 29
+    ✓ should create asset #9 (126ms, 461976 gas)
+Start: 1669785683128
+End: 1669785685316
+Asset Id: 209 RFQ Id: 121 Account num: 29
+    ✓ should create bid #9 (2188ms, 1306253 gas)
+Start: 1669785685473
+End: 1669785685592
+Asset Id: 210 Account num: 30
+    ✓ should create asset #10 (120ms, 461976 gas)
+Start: 1669785685760
+End: 1669785687831
+Asset Id: 210 RFQ Id: 121 Account num: 30
+    ✓ should create bid #10 (2071ms, 1306253 gas)
+Start: 1669785687979
+End: 1669785688102
+Asset Id: 211 Account num: 31
+    ✓ should create asset #11 (123ms, 461976 gas)
+Start: 1669785688246
+End: 1669785690355
+Asset Id: 211 RFQ Id: 121 Account num: 31
+    ✓ should create bid #11 (2109ms, 1306253 gas)
+Start: 1669785690506
+End: 1669785690623
+Asset Id: 212 Account num: 32
+    ✓ should create asset #12 (117ms, 461976 gas)
+Start: 1669785690788
+End: 1669785693007
+Asset Id: 212 RFQ Id: 121 Account num: 32
+    ✓ should create bid #12 (2219ms, 1306253 gas)
+Start: 1669785693147
+End: 1669785693266
+Asset Id: 213 Account num: 33
+    ✓ should create asset #13 (120ms, 461976 gas)
+Start: 1669785693404
+End: 1669785695561
+Asset Id: 213 RFQ Id: 121 Account num: 33
+    ✓ should create bid #13 (2158ms, 1306253 gas)
+Start: 1669785695709
+End: 1669785695828
+Asset Id: 214 Account num: 34
+    ✓ should create asset #14 (119ms, 461976 gas)
+Start: 1669785695971
+End: 1669785698134
+Asset Id: 214 RFQ Id: 121 Account num: 34
+    ✓ should create bid #14 (2163ms, 1306253 gas)
+Start: 1669785698279
+End: 1669785698394
+Asset Id: 215 Account num: 35
+    ✓ should create asset #15 (115ms, 461976 gas)
+Start: 1669785698538
+End: 1669785700748
+Asset Id: 215 RFQ Id: 121 Account num: 35
+    ✓ should create bid #15 (2210ms, 1306253 gas)
+Start: 1669785700888
+End: 1669785701006
+Asset Id: 216 Account num: 36
+    ✓ should create asset #16 (118ms, 461976 gas)
+Start: 1669785701150
+End: 1669785703389
+Asset Id: 216 RFQ Id: 121 Account num: 36
+    ✓ should create bid #16 (2239ms, 1306253 gas)
+Start: 1669785703532
+End: 1669785703648
+Asset Id: 217 Account num: 37
+    ✓ should create asset #17 (117ms, 461976 gas)
+Start: 1669785703797
+End: 1669785706128
+Asset Id: 217 RFQ Id: 121 Account num: 37
+    ✓ should create bid #17 (2332ms, 1306253 gas)
+Start: 1669785706270
+End: 1669785706385
+Asset Id: 218 Account num: 38
+    ✓ should create asset #18 (115ms, 461976 gas)
+Start: 1669785706536
+End: 1669785708662
+Asset Id: 218 RFQ Id: 121 Account num: 38
+    ✓ should create bid #18 (2127ms, 1306253 gas)
+Start: 1669785708810
+End: 1669785708923
+Asset Id: 219 Account num: 39
+    ✓ should create asset #19 (113ms, 461976 gas)
+Start: 1669785709073
+End: 1669785711305
+Asset Id: 219 RFQ Id: 121 Account num: 39
+    ✓ should create bid #19 (2232ms, 1306253 gas)
+Start: 1669785711444
+End: 1669785711563
+Asset Id: 220 Account num: 40
+    ✓ should create asset #20 (119ms, 461976 gas)
+Start: 1669785711712
+End: 1669785714094
+Asset Id: 220 RFQ Id: 121 Account num: 40
+    ✓ should create bid #20 (2382ms, 1306253 gas)
+Start: 1669785714239
+End: 1669785714364
+Asset Id: 221 Account num: 41
+    ✓ should create asset #21 (125ms, 461976 gas)
+Start: 1669785714510
+End: 1669785716731
+Asset Id: 221 RFQ Id: 121 Account num: 41
+    ✓ should create bid #21 (2221ms, 1306253 gas)
+Start: 1669785716865
+End: 1669785716991
+Asset Id: 222 Account num: 42
+    ✓ should create asset #22 (127ms, 461976 gas)
+Start: 1669785717127
+End: 1669785719455
+Asset Id: 222 RFQ Id: 121 Account num: 42
+    ✓ should create bid #22 (2328ms, 1306253 gas)
+Start: 1669785719591
+End: 1669785719727
+Asset Id: 223 Account num: 43
+    ✓ should create asset #23 (136ms, 461976 gas)
+Start: 1669785719872
+End: 1669785722036
+Asset Id: 223 RFQ Id: 121 Account num: 43
+    ✓ should create bid #23 (2164ms, 1306253 gas)
+Start: 1669785722175
+End: 1669785722292
+Asset Id: 224 Account num: 44
+    ✓ should create asset #24 (117ms, 461976 gas)
+Start: 1669785722427
+End: 1669785724810
+Asset Id: 224 RFQ Id: 121 Account num: 44
+    ✓ should create bid #24 (2384ms, 1306253 gas)
+Start: 1669785724953
+End: 1669785725080
+Asset Id: 225 Account num: 45
+    ✓ should create asset #25 (127ms, 461976 gas)
+Start: 1669785725214
+End: 1669785727600
+Asset Id: 225 RFQ Id: 121 Account num: 45
+    ✓ should create bid #25 (2386ms, 1306253 gas)
+Start: 1669785727740
+End: 1669785728009
+RFQ Id: 121 Asset Id: 225 Account num: 0x6d6eEf8F3E4317c134F7474eb1530Bc3Ad21d458
+    ✓ should activate accept #1 (270ms, 293171 gas)
+Start: 1669785728145
+End: 1669785728284
+RFQ Id: 121 Account num: 0x70bb9501e0498a29Af8a77DCb5A8AC7D28A06F86
+    ✓ should create rfq #2 (139ms, 109075 gas)
+Start: 1669785728419
+End: 1669785728540
+Asset Id: 226 Account num: 46
+    ✓ should create asset #1 (121ms, 461976 gas)
+Start: 1669785728694
+End: 1669785731008
+Asset Id: 226 RFQ Id: 121 Account num: 46
+    ✓ should create bid #1 (2314ms, 1323353 gas)
+Start: 1669785731148
+End: 1669785731271
+Asset Id: 227 Account num: 47
+    ✓ should create asset #2 (123ms, 461976 gas)
+Start: 1669785731415
+End: 1669785733674
+Asset Id: 227 RFQ Id: 121 Account num: 47
+    ✓ should create bid #2 (2259ms, 1306253 gas)
+Start: 1669785733821
+End: 1669785733944
+Asset Id: 228 Account num: 48
+    ✓ should create asset #3 (123ms, 461976 gas)
+Start: 1669785734087
+End: 1669785736308
+Asset Id: 228 RFQ Id: 121 Account num: 48
+    ✓ should create bid #3 (2221ms, 1306253 gas)
+Start: 1669785736444
+End: 1669785736565
+Asset Id: 229 Account num: 49
+    ✓ should create asset #4 (121ms, 461976 gas)
+Start: 1669785736700
+End: 1669785738934
+Asset Id: 229 RFQ Id: 121 Account num: 49
+    ✓ should create bid #4 (2234ms, 1306253 gas)
+Start: 1669785739069
+End: 1669785739197
+Asset Id: 230 Account num: 50
+    ✓ should create asset #5 (128ms, 461976 gas)
+Start: 1669785739339
+End: 1669785741548
+Asset Id: 230 RFQ Id: 121 Account num: 50
+    ✓ should create bid #5 (2209ms, 1306253 gas)
+Start: 1669785741689
+End: 1669785741813
+Asset Id: 231 Account num: 51
+    ✓ should create asset #6 (124ms, 461976 gas)
+Start: 1669785741952
+End: 1669785744164
+Asset Id: 231 RFQ Id: 121 Account num: 51
+    ✓ should create bid #6 (2212ms, 1306253 gas)
+Start: 1669785744300
+End: 1669785744430
+Asset Id: 232 Account num: 52
+    ✓ should create asset #7 (130ms, 461976 gas)
+Start: 1669785744569
+End: 1669785746794
+Asset Id: 232 RFQ Id: 121 Account num: 52
+    ✓ should create bid #7 (2225ms, 1306253 gas)
+Start: 1669785746934
+End: 1669785747053
+Asset Id: 233 Account num: 53
+    ✓ should create asset #8 (119ms, 461976 gas)
+Start: 1669785747193
+End: 1669785749468
+Asset Id: 233 RFQ Id: 121 Account num: 53
+    ✓ should create bid #8 (2275ms, 1306253 gas)
+Start: 1669785749607
+End: 1669785749722
+Asset Id: 234 Account num: 54
+    ✓ should create asset #9 (116ms, 461976 gas)
+Start: 1669785749863
+End: 1669785752057
+Asset Id: 234 RFQ Id: 121 Account num: 54
+    ✓ should create bid #9 (2194ms, 1306253 gas)
+Start: 1669785752199
+End: 1669785752332
+Asset Id: 235 Account num: 55
+    ✓ should create asset #10 (134ms, 461976 gas)
+Start: 1669785752477
+End: 1669785754734
+Asset Id: 235 RFQ Id: 121 Account num: 55
+    ✓ should create bid #10 (2257ms, 1306253 gas)
+Start: 1669785754870
+End: 1669785754985
+Asset Id: 236 Account num: 56
+    ✓ should create asset #11 (115ms, 461976 gas)
+Start: 1669785755133
+End: 1669785757265
+Asset Id: 236 RFQ Id: 121 Account num: 56
+    ✓ should create bid #11 (2132ms, 1306253 gas)
+Start: 1669785757403
+End: 1669785757518
+Asset Id: 237 Account num: 57
+    ✓ should create asset #12 (115ms, 461976 gas)
+Start: 1669785757653
+End: 1669785759744
+Asset Id: 237 RFQ Id: 121 Account num: 57
+    ✓ should create bid #12 (2091ms, 1306253 gas)
+Start: 1669785759882
+End: 1669785759991
+Asset Id: 238 Account num: 58
+    ✓ should create asset #13 (109ms, 461976 gas)
+Start: 1669785760127
+End: 1669785762234
+Asset Id: 238 RFQ Id: 121 Account num: 58
+    ✓ should create bid #13 (2107ms, 1306253 gas)
+Start: 1669785762371
+End: 1669785762488
+Asset Id: 239 Account num: 59
+    ✓ should create asset #14 (117ms, 461976 gas)
+Start: 1669785762626
+End: 1669785764698
+Asset Id: 239 RFQ Id: 121 Account num: 59
+    ✓ should create bid #14 (2073ms, 1306253 gas)
+Start: 1669785764836
+End: 1669785764945
+Asset Id: 240 Account num: 60
+    ✓ should create asset #15 (110ms, 461976 gas)
+Start: 1669785765090
+End: 1669785767143
+Asset Id: 240 RFQ Id: 121 Account num: 60
+    ✓ should create bid #15 (2053ms, 1306253 gas)
+Start: 1669785767278
+End: 1669785767388
+Asset Id: 241 Account num: 61
+    ✓ should create asset #16 (110ms, 461976 gas)
+Start: 1669785767529
+End: 1669785769507
+Asset Id: 241 RFQ Id: 121 Account num: 61
+    ✓ should create bid #16 (1978ms, 1306253 gas)
+Start: 1669785769642
+End: 1669785769749
+Asset Id: 242 Account num: 62
+    ✓ should create asset #17 (107ms, 461976 gas)
+Start: 1669785769892
+End: 1669785771953
+Asset Id: 242 RFQ Id: 121 Account num: 62
+    ✓ should create bid #17 (2061ms, 1306253 gas)
+Start: 1669785772097
+End: 1669785772219
+Asset Id: 243 Account num: 63
+    ✓ should create asset #18 (122ms, 461976 gas)
+Start: 1669785772358
+End: 1669785774574
+Asset Id: 243 RFQ Id: 121 Account num: 63
+    ✓ should create bid #18 (2216ms, 1306253 gas)
+Start: 1669785774712
+End: 1669785774829
+Asset Id: 244 Account num: 64
+    ✓ should create asset #19 (117ms, 461976 gas)
+Start: 1669785774966
+End: 1669785777161
+Asset Id: 244 RFQ Id: 121 Account num: 64
+    ✓ should create bid #19 (2195ms, 1306253 gas)
+Start: 1669785777297
+End: 1669785777412
+Asset Id: 245 Account num: 65
+    ✓ should create asset #20 (115ms, 461976 gas)
+Start: 1669785777548
+End: 1669785779747
+Asset Id: 245 RFQ Id: 121 Account num: 65
+    ✓ should create bid #20 (2199ms, 1306253 gas)
+Start: 1669785779887
+End: 1669785780012
+Asset Id: 246 Account num: 66
+    ✓ should create asset #21 (125ms, 461976 gas)
+Start: 1669785780156
+End: 1669785782425
+Asset Id: 246 RFQ Id: 121 Account num: 66
+    ✓ should create bid #21 (2269ms, 1306253 gas)
+Start: 1669785782566
+End: 1669785782684
+Asset Id: 247 Account num: 67
+    ✓ should create asset #22 (118ms, 461976 gas)
+Start: 1669785782826
+End: 1669785785100
+Asset Id: 247 RFQ Id: 121 Account num: 67
+    ✓ should create bid #22 (2274ms, 1306253 gas)
+Start: 1669785785245
+End: 1669785785365
+Asset Id: 248 Account num: 68
+    ✓ should create asset #23 (120ms, 461976 gas)
+Start: 1669785785514
+End: 1669785787741
+Asset Id: 248 RFQ Id: 121 Account num: 68
+    ✓ should create bid #23 (2227ms, 1306253 gas)
+Start: 1669785787886
+End: 1669785788004
+Asset Id: 249 Account num: 69
+    ✓ should create asset #24 (118ms, 461976 gas)
+Start: 1669785788146
+End: 1669785790435
+Asset Id: 249 RFQ Id: 121 Account num: 69
+    ✓ should create bid #24 (2289ms, 1306253 gas)
+Start: 1669785790579
+End: 1669785790703
+Asset Id: 250 Account num: 70
+    ✓ should create asset #25 (124ms, 461976 gas)
+Start: 1669785790851
+End: 1669785793057
+Asset Id: 250 RFQ Id: 121 Account num: 70
+    ✓ should create bid #25 (2206ms, 1306253 gas)
+Start: 1669785793196
+End: 1669785793445
+RFQ Id: 121 Asset Id: 250 Account num: 0x70bb9501e0498a29Af8a77DCb5A8AC7D28A06F86
+    ✓ should activate accept #2 (249ms, 228968 gas)
+Start: 1669785793592
+End: 1669785793714
+RFQ Id: 121 Account num: 0x878A56bfFA9475CF239B16b755aC562e734801b6
+    ✓ should create rfq #3 (122ms, 109075 gas)
+Start: 1669785793848
+End: 1669785793982
+Asset Id: 251 Account num: 71
+    ✓ should create asset #1 (134ms, 461976 gas)
+Start: 1669785794156
+End: 1669785796291
+Asset Id: 251 RFQ Id: 121 Account num: 71
+    ✓ should create bid #1 (2135ms, 1323353 gas)
+Start: 1669785796426
+End: 1669785796546
+Asset Id: 252 Account num: 72
+    ✓ should create asset #2 (120ms, 461976 gas)
+Start: 1669785796686
+End: 1669785798832
+Asset Id: 252 RFQ Id: 121 Account num: 72
+    ✓ should create bid #2 (2146ms, 1306253 gas)
+Start: 1669785798973
+End: 1669785799089
+Asset Id: 253 Account num: 73
+    ✓ should create asset #3 (117ms, 461976 gas)
+Start: 1669785799232
+End: 1669785801458
+Asset Id: 253 RFQ Id: 121 Account num: 73
+    ✓ should create bid #3 (2226ms, 1306253 gas)
+Start: 1669785801608
+End: 1669785801726
+Asset Id: 254 Account num: 74
+    ✓ should create asset #4 (118ms, 461976 gas)
+Start: 1669785801872
+End: 1669785804101
+Asset Id: 254 RFQ Id: 121 Account num: 74
+    ✓ should create bid #4 (2229ms, 1306253 gas)
+Start: 1669785804269
+End: 1669785804380
+Asset Id: 255 Account num: 75
+    ✓ should create asset #5 (111ms, 461976 gas)
+Start: 1669785804539
+End: 1669785806481
+Asset Id: 255 RFQ Id: 121 Account num: 75
+    ✓ should create bid #5 (1943ms, 1306253 gas)
+Start: 1669785806626
+End: 1669785806740
+Asset Id: 256 Account num: 76
+    ✓ should create asset #6 (114ms, 461976 gas)
+Start: 1669785806876
+End: 1669785808951
+Asset Id: 256 RFQ Id: 121 Account num: 76
+    ✓ should create bid #6 (2075ms, 1306253 gas)
+Start: 1669785809090
+End: 1669785809202
+Asset Id: 257 Account num: 77
+    ✓ should create asset #7 (112ms, 461988 gas)
+Start: 1669785809347
+End: 1669785811433
+Asset Id: 257 RFQ Id: 121 Account num: 77
+    ✓ should create bid #7 (2086ms, 1306265 gas)
+Start: 1669785811569
+End: 1669785811681
+Asset Id: 258 Account num: 78
+    ✓ should create asset #8 (112ms, 461988 gas)
+Start: 1669785811820
+End: 1669785813926
+Asset Id: 258 RFQ Id: 121 Account num: 78
+    ✓ should create bid #8 (2106ms, 1306265 gas)
+Start: 1669785814063
+End: 1669785814174
+Asset Id: 259 Account num: 79
+    ✓ should create asset #9 (111ms, 461988 gas)
+Start: 1669785814321
+End: 1669785816475
+Asset Id: 259 RFQ Id: 121 Account num: 79
+    ✓ should create bid #9 (2154ms, 1306265 gas)
+Start: 1669785816624
+End: 1669785816736
+Asset Id: 260 Account num: 80
+    ✓ should create asset #10 (113ms, 461988 gas)
+Start: 1669785816876
+End: 1669785819017
+Asset Id: 260 RFQ Id: 121 Account num: 80
+    ✓ should create bid #10 (2141ms, 1306265 gas)
+Start: 1669785819167
+End: 1669785819291
+Asset Id: 261 Account num: 81
+    ✓ should create asset #11 (124ms, 461988 gas)
+Start: 1669785819457
+End: 1669785821524
+Asset Id: 261 RFQ Id: 121 Account num: 81
+    ✓ should create bid #11 (2068ms, 1306265 gas)
+Start: 1669785821666
+End: 1669785821781
+Asset Id: 262 Account num: 82
+    ✓ should create asset #12 (115ms, 461988 gas)
+Start: 1669785821918
+End: 1669785824027
+Asset Id: 262 RFQ Id: 121 Account num: 82
+    ✓ should create bid #12 (2109ms, 1306265 gas)
+Start: 1669785824173
+End: 1669785824288
+Asset Id: 263 Account num: 83
+    ✓ should create asset #13 (115ms, 461988 gas)
+Start: 1669785824432
+End: 1669785826645
+Asset Id: 263 RFQ Id: 121 Account num: 83
+    ✓ should create bid #13 (2213ms, 1306265 gas)
+Start: 1669785826804
+End: 1669785826920
+Asset Id: 264 Account num: 84
+    ✓ should create asset #14 (116ms, 461988 gas)
+Start: 1669785827056
+End: 1669785829289
+Asset Id: 264 RFQ Id: 121 Account num: 84
+    ✓ should create bid #14 (2233ms, 1306265 gas)
+Start: 1669785829432
+End: 1669785829549
+Asset Id: 265 Account num: 85
+    ✓ should create asset #15 (117ms, 461988 gas)
+Start: 1669785829705
+End: 1669785831897
+Asset Id: 265 RFQ Id: 121 Account num: 85
+    ✓ should create bid #15 (2192ms, 1306265 gas)
+Start: 1669785832049
+End: 1669785832166
+Asset Id: 266 Account num: 86
+    ✓ should create asset #16 (117ms, 461988 gas)
+Start: 1669785832317
+End: 1669785834420
+Asset Id: 266 RFQ Id: 121 Account num: 86
+    ✓ should create bid #16 (2103ms, 1306265 gas)
+Start: 1669785834565
+End: 1669785834676
+Asset Id: 267 Account num: 87
+    ✓ should create asset #17 (111ms, 461988 gas)
+Start: 1669785834809
+End: 1669785837045
+Asset Id: 267 RFQ Id: 121 Account num: 87
+    ✓ should create bid #17 (2236ms, 1306265 gas)
+Start: 1669785837183
+End: 1669785837305
+Asset Id: 268 Account num: 88
+    ✓ should create asset #18 (122ms, 461988 gas)
+Start: 1669785837443
+End: 1669785839718
+Asset Id: 268 RFQ Id: 121 Account num: 88
+    ✓ should create bid #18 (2275ms, 1306265 gas)
+Start: 1669785839855
+End: 1669785839975
+Asset Id: 269 Account num: 89
+    ✓ should create asset #19 (120ms, 461988 gas)
+Start: 1669785840114
+End: 1669785842497
+Asset Id: 269 RFQ Id: 121 Account num: 89
+    ✓ should create bid #19 (2383ms, 1306265 gas)
+Start: 1669785842634
+End: 1669785842748
+Asset Id: 270 Account num: 90
+    ✓ should create asset #20 (114ms, 461988 gas)
+Start: 1669785842879
+End: 1669785845184
+Asset Id: 270 RFQ Id: 121 Account num: 90
+    ✓ should create bid #20 (2306ms, 1306265 gas)
+Start: 1669785845326
+End: 1669785845441
+Asset Id: 271 Account num: 91
+    ✓ should create asset #21 (115ms, 461988 gas)
+Start: 1669785845587
+End: 1669785847814
+Asset Id: 271 RFQ Id: 121 Account num: 91
+    ✓ should create bid #21 (2227ms, 1306265 gas)
+Start: 1669785847944
+End: 1669785848065
+Asset Id: 272 Account num: 92
+    ✓ should create asset #22 (122ms, 461988 gas)
+Start: 1669785848198
+End: 1669785850444
+Asset Id: 272 RFQ Id: 121 Account num: 92
+    ✓ should create bid #22 (2247ms, 1306265 gas)
+Start: 1669785850580
+End: 1669785850709
+Asset Id: 273 Account num: 93
+    ✓ should create asset #23 (129ms, 461988 gas)
+Start: 1669785850850
+End: 1669785853237
+Asset Id: 273 RFQ Id: 121 Account num: 93
+    ✓ should create bid #23 (2387ms, 1306265 gas)
+Start: 1669785853368
+End: 1669785853495
+Asset Id: 274 Account num: 94
+    ✓ should create asset #24 (127ms, 461988 gas)
+Start: 1669785853630
+End: 1669785855975
+Asset Id: 274 RFQ Id: 121 Account num: 94
+    ✓ should create bid #24 (2345ms, 1306265 gas)
+Start: 1669785856108
+End: 1669785856228
+Asset Id: 275 Account num: 95
+    ✓ should create asset #25 (120ms, 461988 gas)
+Start: 1669785856365
+End: 1669785858612
+Asset Id: 275 RFQ Id: 121 Account num: 95
+    ✓ should create bid #25 (2247ms, 1306265 gas)
+Start: 1669785858745
+End: 1669785860030
+RFQ Id: 121 Asset Id: 275 Account num: 0x878A56bfFA9475CF239B16b755aC562e734801b6
+    ✓ should activate accept #3 (1285ms, 226180 gas)
+Start: 1669785860165
+End: 1669785860295
+RFQ Id: 121 Account num: 0x8d5FB351DE3edA901ddD9e434d0B7523a0267cFc
+    ✓ should create rfq #4 (130ms, 109075 gas)
+Start: 1669785860429
+End: 1669785860550
+Asset Id: 276 Account num: 96
+    ✓ should create asset #1 (121ms, 461988 gas)
+Start: 1669785860681
+End: 1669785862999
+Asset Id: 276 RFQ Id: 121 Account num: 96
+    ✓ should create bid #1 (2318ms, 1323365 gas)
+Start: 1669785863134
+End: 1669785863258
+Asset Id: 277 Account num: 97
+    ✓ should create asset #2 (124ms, 461988 gas)
+Start: 1669785863393
+End: 1669785865607
+Asset Id: 277 RFQ Id: 121 Account num: 97
+    ✓ should create bid #2 (2214ms, 1306265 gas)
+Start: 1669785865746
+End: 1669785865871
+Asset Id: 278 Account num: 98
+    ✓ should create asset #3 (125ms, 461988 gas)
+Start: 1669785866006
+End: 1669785868417
+Asset Id: 278 RFQ Id: 121 Account num: 98
+    ✓ should create bid #3 (2411ms, 1306265 gas)
+Start: 1669785868558
+End: 1669785868680
+Asset Id: 279 Account num: 99
+    ✓ should create asset #4 (122ms, 461988 gas)
+Start: 1669785868811
+End: 1669785871141
+Asset Id: 279 RFQ Id: 121 Account num: 99
+    ✓ should create bid #4 (2330ms, 1306265 gas)
+Start: 1669785871283
+End: 1669785871400
+Asset Id: 280 Account num: 100
+    ✓ should create asset #5 (117ms, 461988 gas)
+Start: 1669785871539
+End: 1669785873776
+Asset Id: 280 RFQ Id: 121 Account num: 100
+    ✓ should create bid #5 (2237ms, 1306265 gas)
+Start: 1669785873911
+End: 1669785874026
+Asset Id: 281 Account num: 101
+    ✓ should create asset #6 (115ms, 461988 gas)
+Start: 1669785874161
+End: 1669785876334
+Asset Id: 281 RFQ Id: 121 Account num: 101
+    ✓ should create bid #6 (2173ms, 1306265 gas)
+Start: 1669785876475
+End: 1669785876592
+Asset Id: 282 Account num: 102
+    ✓ should create asset #7 (117ms, 461988 gas)
+Start: 1669785876728
+End: 1669785878874
+Asset Id: 282 RFQ Id: 121 Account num: 102
+    ✓ should create bid #7 (2146ms, 1306265 gas)
+Start: 1669785879013
+End: 1669785879126
+Asset Id: 283 Account num: 103
+    ✓ should create asset #8 (113ms, 461988 gas)
+Start: 1669785879263
+End: 1669785881397
+Asset Id: 283 RFQ Id: 121 Account num: 103
+    ✓ should create bid #8 (2134ms, 1306265 gas)
+Start: 1669785881531
+End: 1669785881645
+Asset Id: 284 Account num: 104
+    ✓ should create asset #9 (114ms, 461988 gas)
+Start: 1669785881778
+End: 1669785883947
+Asset Id: 284 RFQ Id: 121 Account num: 104
+    ✓ should create bid #9 (2169ms, 1306265 gas)
+Start: 1669785884089
+End: 1669785884206
+Asset Id: 285 Account num: 105
+    ✓ should create asset #10 (117ms, 461988 gas)
+Start: 1669785884350
+End: 1669785886696
+Asset Id: 285 RFQ Id: 121 Account num: 105
+    ✓ should create bid #10 (2346ms, 1306265 gas)
+Start: 1669785886847
+End: 1669785886968
+Asset Id: 286 Account num: 106
+    ✓ should create asset #11 (121ms, 461988 gas)
+Start: 1669785887109
+End: 1669785889420
+Asset Id: 286 RFQ Id: 121 Account num: 106
+    ✓ should create bid #11 (2311ms, 1306265 gas)
+Start: 1669785889556
+End: 1669785889673
+Asset Id: 287 Account num: 107
+    ✓ should create asset #12 (117ms, 461988 gas)
+Start: 1669785889812
+End: 1669785892219
+Asset Id: 287 RFQ Id: 121 Account num: 107
+    ✓ should create bid #12 (2407ms, 1306265 gas)
+Start: 1669785892355
+End: 1669785892471
+Asset Id: 288 Account num: 108
+    ✓ should create asset #13 (116ms, 461988 gas)
+Start: 1669785892608
+End: 1669785894820
+Asset Id: 288 RFQ Id: 121 Account num: 108
+    ✓ should create bid #13 (2212ms, 1306265 gas)
+Start: 1669785894958
+End: 1669785895077
+Asset Id: 289 Account num: 109
+    ✓ should create asset #14 (119ms, 461988 gas)
+Start: 1669785895216
+End: 1669785897516
+Asset Id: 289 RFQ Id: 121 Account num: 109
+    ✓ should create bid #14 (2300ms, 1306265 gas)
+Start: 1669785897652
+End: 1669785897771
+Asset Id: 290 Account num: 110
+    ✓ should create asset #15 (119ms, 461988 gas)
+Start: 1669785897902
+End: 1669785900120
+Asset Id: 290 RFQ Id: 121 Account num: 110
+    ✓ should create bid #15 (2218ms, 1306265 gas)
+Start: 1669785900260
+End: 1669785900376
+Asset Id: 291 Account num: 111
+    ✓ should create asset #16 (116ms, 461988 gas)
+Start: 1669785900511
+End: 1669785902882
+Asset Id: 291 RFQ Id: 121 Account num: 111
+    ✓ should create bid #16 (2371ms, 1306265 gas)
+Start: 1669785903018
+End: 1669785903132
+Asset Id: 292 Account num: 112
+    ✓ should create asset #17 (114ms, 461988 gas)
+Start: 1669785903270
+End: 1669785905489
+Asset Id: 292 RFQ Id: 121 Account num: 112
+    ✓ should create bid #17 (2219ms, 1306265 gas)
+Start: 1669785905623
+End: 1669785905739
+Asset Id: 293 Account num: 113
+    ✓ should create asset #18 (116ms, 461988 gas)
+Start: 1669785905877
+End: 1669785908082
+Asset Id: 293 RFQ Id: 121 Account num: 113
+    ✓ should create bid #18 (2205ms, 1306265 gas)
+Start: 1669785908218
+End: 1669785908338
+Asset Id: 294 Account num: 114
+    ✓ should create asset #19 (120ms, 461988 gas)
+Start: 1669785908471
+End: 1669785910760
+Asset Id: 294 RFQ Id: 121 Account num: 114
+    ✓ should create bid #19 (2289ms, 1306265 gas)
+Start: 1669785910903
+End: 1669785911025
+Asset Id: 295 Account num: 115
+    ✓ should create asset #20 (122ms, 461988 gas)
+Start: 1669785911169
+End: 1669785913337
+Asset Id: 295 RFQ Id: 121 Account num: 115
+    ✓ should create bid #20 (2168ms, 1306265 gas)
+Start: 1669785913477
+End: 1669785913598
+Asset Id: 296 Account num: 116
+    ✓ should create asset #21 (121ms, 461988 gas)
+Start: 1669785913733
+End: 1669785916013
+Asset Id: 296 RFQ Id: 121 Account num: 116
+    ✓ should create bid #21 (2281ms, 1306265 gas)
+Start: 1669785916154
+End: 1669785916274
+Asset Id: 297 Account num: 117
+    ✓ should create asset #22 (120ms, 461988 gas)
+Start: 1669785916409
+End: 1669785918639
+Asset Id: 297 RFQ Id: 121 Account num: 117
+    ✓ should create bid #22 (2231ms, 1306265 gas)
+Start: 1669785918781
+End: 1669785918894
+Asset Id: 298 Account num: 118
+    ✓ should create asset #23 (114ms, 461988 gas)
+Start: 1669785919029
+End: 1669785921304
+Asset Id: 298 RFQ Id: 121 Account num: 118
+    ✓ should create bid #23 (2275ms, 1306265 gas)
+Start: 1669785921442
+End: 1669785921556
+Asset Id: 299 Account num: 119
+    ✓ should create asset #24 (114ms, 461988 gas)
+Start: 1669785921694
+End: 1669785923815
+Asset Id: 299 RFQ Id: 121 Account num: 119
+    ✓ should create bid #24 (2121ms, 1306265 gas)
+Start: 1669785923966
+End: 1669785924083
+Asset Id: 300 Account num: 120
+    ✓ should create asset #25 (117ms, 461988 gas)
+Start: 1669785924229
+End: 1669785926415
+Asset Id: 300 RFQ Id: 121 Account num: 120
+    ✓ should create bid #25 (2186ms, 1306265 gas)
+Start: 1669785926564
+End: 1669785927677
+RFQ Id: 121 Asset Id: 300 Account num: 0x8d5FB351DE3edA901ddD9e434d0B7523a0267cFc
+    ✓ should activate accept #4 (1113ms, 226180 gas)
+Start: 1669785927814
+End: 1669785927950
+RFQ Id: 121 Account num: 0xDcCe17cfa48290D29c6C8001025F81588c6d4A64
+    ✓ should create rfq #5 (136ms, 109075 gas)
+Start: 1669785928085
+End: 1669785928201
+Asset Id: 301 Account num: 121
+    ✓ should create asset #1 (116ms, 461988 gas)
+Start: 1669785928343
+End: 1669785930491
+Asset Id: 301 RFQ Id: 121 Account num: 121
+    ✓ should create bid #1 (2148ms, 1323365 gas)
+Start: 1669785930633
+End: 1669785930747
+Asset Id: 302 Account num: 122
+    ✓ should create asset #2 (114ms, 461988 gas)
+Start: 1669785930882
+End: 1669785932952
+Asset Id: 302 RFQ Id: 121 Account num: 122
+    ✓ should create bid #2 (2070ms, 1306265 gas)
+Start: 1669785933091
+End: 1669785933202
+Asset Id: 303 Account num: 123
+    ✓ should create asset #3 (111ms, 461988 gas)
+Start: 1669785933338
+End: 1669785935732
+Asset Id: 303 RFQ Id: 121 Account num: 123
+    ✓ should create bid #3 (2394ms, 1306265 gas)
+Start: 1669785935878
+End: 1669785936000
+Asset Id: 304 Account num: 124
+    ✓ should create asset #4 (122ms, 461988 gas)
+Start: 1669785936137
+End: 1669785938494
+Asset Id: 304 RFQ Id: 121 Account num: 124
+    ✓ should create bid #4 (2357ms, 1306265 gas)
+Start: 1669785938632
+End: 1669785938755
+Asset Id: 305 Account num: 125
+    ✓ should create asset #5 (123ms, 461988 gas)
+Start: 1669785938894
+End: 1669785941318
+Asset Id: 305 RFQ Id: 121 Account num: 125
+    ✓ should create bid #5 (2425ms, 1306265 gas)
+Start: 1669785941457
+End: 1669785941582
+Asset Id: 306 Account num: 126
+    ✓ should create asset #6 (125ms, 461988 gas)
+Start: 1669785941723
+End: 1669785944120
+Asset Id: 306 RFQ Id: 121 Account num: 126
+    ✓ should create bid #6 (2397ms, 1306265 gas)
+Start: 1669785944256
+End: 1669785944384
+Asset Id: 307 Account num: 127
+    ✓ should create asset #7 (128ms, 461988 gas)
+Start: 1669785944524
+End: 1669785947052
+Asset Id: 307 RFQ Id: 121 Account num: 127
+    ✓ should create bid #7 (2528ms, 1306265 gas)
+Start: 1669785947207
+End: 1669785947325
+Asset Id: 308 Account num: 128
+    ✓ should create asset #8 (118ms, 461988 gas)
+Start: 1669785947469
+End: 1669785949837
+Asset Id: 308 RFQ Id: 121 Account num: 128
+    ✓ should create bid #8 (2368ms, 1306265 gas)
+Start: 1669785949979
+End: 1669785950104
+Asset Id: 309 Account num: 129
+    ✓ should create asset #9 (125ms, 461988 gas)
+Start: 1669785950241
+End: 1669785952625
+Asset Id: 309 RFQ Id: 121 Account num: 129
+    ✓ should create bid #9 (2384ms, 1306265 gas)
+Start: 1669785952765
+End: 1669785952880
+Asset Id: 310 Account num: 130
+    ✓ should create asset #10 (115ms, 461988 gas)
+Start: 1669785953022
+End: 1669785955255
+Asset Id: 310 RFQ Id: 121 Account num: 130
+    ✓ should create bid #10 (2233ms, 1306265 gas)
+Start: 1669785955396
+End: 1669785955519
+Asset Id: 311 Account num: 131
+    ✓ should create asset #11 (123ms, 461988 gas)
+Start: 1669785955655
+End: 1669785958227
+Asset Id: 311 RFQ Id: 121 Account num: 131
+    ✓ should create bid #11 (2572ms, 1306265 gas)
+Start: 1669785958367
+End: 1669785958489
+Asset Id: 312 Account num: 132
+    ✓ should create asset #12 (122ms, 461988 gas)
+Start: 1669785958630
+End: 1669785960910
+Asset Id: 312 RFQ Id: 121 Account num: 132
+    ✓ should create bid #12 (2280ms, 1306265 gas)
+Start: 1669785961049
+End: 1669785961168
+Asset Id: 313 Account num: 133
+    ✓ should create asset #13 (119ms, 461988 gas)
+Start: 1669785961302
+End: 1669785963624
+Asset Id: 313 RFQ Id: 121 Account num: 133
+    ✓ should create bid #13 (2322ms, 1306265 gas)
+Start: 1669785963766
+End: 1669785963885
+Asset Id: 314 Account num: 134
+    ✓ should create asset #14 (120ms, 461988 gas)
+Start: 1669785964025
+End: 1669785966381
+Asset Id: 314 RFQ Id: 121 Account num: 134
+    ✓ should create bid #14 (2356ms, 1306265 gas)
+Start: 1669785966523
+End: 1669785966646
+Asset Id: 315 Account num: 135
+    ✓ should create asset #15 (123ms, 461988 gas)
+Start: 1669785966786
+End: 1669785969270
+Asset Id: 315 RFQ Id: 121 Account num: 135
+    ✓ should create bid #15 (2484ms, 1306265 gas)
+Start: 1669785969419
+End: 1669785969545
+Asset Id: 316 Account num: 136
+    ✓ should create asset #16 (126ms, 461988 gas)
+Start: 1669785969689
+End: 1669785972314
+Asset Id: 316 RFQ Id: 121 Account num: 136
+    ✓ should create bid #16 (2625ms, 1306265 gas)
+Start: 1669785972459
+End: 1669785972591
+Asset Id: 317 Account num: 137
+    ✓ should create asset #17 (132ms, 461988 gas)
+Start: 1669785972728
+End: 1669785975107
+Asset Id: 317 RFQ Id: 121 Account num: 137
+    ✓ should create bid #17 (2379ms, 1306265 gas)
+Start: 1669785975248
+End: 1669785975365
+Asset Id: 318 Account num: 138
+    ✓ should create asset #18 (117ms, 461988 gas)
+Start: 1669785975503
+End: 1669785977864
+Asset Id: 318 RFQ Id: 121 Account num: 138
+    ✓ should create bid #18 (2362ms, 1306265 gas)
+Start: 1669785978001
+End: 1669785978122
+Asset Id: 319 Account num: 139
+    ✓ should create asset #19 (121ms, 461988 gas)
+Start: 1669785978255
+End: 1669785980699
+Asset Id: 319 RFQ Id: 121 Account num: 139
+    ✓ should create bid #19 (2444ms, 1306265 gas)
+Start: 1669785980837
+End: 1669785980967
+Asset Id: 320 Account num: 140
+    ✓ should create asset #20 (130ms, 461988 gas)
+Start: 1669785981102
+End: 1669785983540
+Asset Id: 320 RFQ Id: 121 Account num: 140
+    ✓ should create bid #20 (2439ms, 1306265 gas)
+Start: 1669785983696
+End: 1669785983824
+Asset Id: 321 Account num: 141
+    ✓ should create asset #21 (129ms, 461988 gas)
+Start: 1669785983958
+End: 1669785986333
+Asset Id: 321 RFQ Id: 121 Account num: 141
+    ✓ should create bid #21 (2375ms, 1306265 gas)
+Start: 1669785986468
+End: 1669785986591
+Asset Id: 322 Account num: 142
+    ✓ should create asset #22 (123ms, 461988 gas)
+Start: 1669785986733
+End: 1669785989116
+Asset Id: 322 RFQ Id: 121 Account num: 142
+    ✓ should create bid #22 (2383ms, 1306265 gas)
+Start: 1669785989255
+End: 1669785989375
+Asset Id: 323 Account num: 143
+    ✓ should create asset #23 (120ms, 461988 gas)
+Start: 1669785989516
+End: 1669785991786
+Asset Id: 323 RFQ Id: 121 Account num: 143
+    ✓ should create bid #23 (2270ms, 1306265 gas)
+Start: 1669785991930
+End: 1669785992065
+Asset Id: 324 Account num: 144
+    ✓ should create asset #24 (135ms, 461988 gas)
+Start: 1669785992204
+End: 1669785994559
+Asset Id: 324 RFQ Id: 121 Account num: 144
+    ✓ should create bid #24 (2355ms, 1306265 gas)
+Start: 1669785994697
+End: 1669785994813
+Asset Id: 325 Account num: 145
+    ✓ should create asset #25 (116ms, 461988 gas)
+Start: 1669785994948
+End: 1669785997218
+Asset Id: 325 RFQ Id: 121 Account num: 145
+    ✓ should create bid #25 (2271ms, 1306265 gas)
+Start: 1669785997358
+End: 1669785998589
+RFQ Id: 121 Asset Id: 325 Account num: 0xDcCe17cfa48290D29c6C8001025F81588c6d4A64
+    ✓ should activate accept #5 (1231ms, 226180 gas)
+Start: 1669785998727
+End: 1669785998858
+RFQ Id: 121 Account num: 0xD75F4FE036fA440213ada5c15d4E3D7654f25820
+    ✓ should create rfq #6 (131ms, 109075 gas)
+Start: 1669785998994
+End: 1669785999116
+Asset Id: 326 Account num: 146
+    ✓ should create asset #1 (123ms, 461988 gas)
+Start: 1669785999260
+End: 1669786001708
+Asset Id: 326 RFQ Id: 121 Account num: 146
+    ✓ should create bid #1 (2448ms, 1323365 gas)
+Start: 1669786001856
+End: 1669786001977
+Asset Id: 327 Account num: 147
+    ✓ should create asset #2 (121ms, 461988 gas)
+Start: 1669786002119
+End: 1669786004473
+Asset Id: 327 RFQ Id: 121 Account num: 147
+    ✓ should create bid #2 (2354ms, 1306265 gas)
+Start: 1669786004611
+End: 1669786004728
+Asset Id: 328 Account num: 148
+    ✓ should create asset #3 (117ms, 461988 gas)
+Start: 1669786004873
+End: 1669786007154
+Asset Id: 328 RFQ Id: 121 Account num: 148
+    ✓ should create bid #3 (2281ms, 1306265 gas)
+Start: 1669786007289
+End: 1669786007417
+Asset Id: 329 Account num: 149
+    ✓ should create asset #4 (128ms, 461988 gas)
+Start: 1669786007561
+End: 1669786009877
+Asset Id: 329 RFQ Id: 121 Account num: 149
+    ✓ should create bid #4 (2316ms, 1306265 gas)
+Start: 1669786010018
+End: 1669786010136
+Asset Id: 330 Account num: 150
+    ✓ should create asset #5 (118ms, 461988 gas)
+Start: 1669786010276
+End: 1669786012642
+Asset Id: 330 RFQ Id: 121 Account num: 150
+    ✓ should create bid #5 (2366ms, 1306265 gas)
+Start: 1669786012785
+End: 1669786012909
+Asset Id: 331 Account num: 151
+    ✓ should create asset #6 (124ms, 461988 gas)
+Start: 1669786013047
+End: 1669786015326
+Asset Id: 331 RFQ Id: 121 Account num: 151
+    ✓ should create bid #6 (2279ms, 1306265 gas)
+Start: 1669786015467
+End: 1669786015582
+Asset Id: 332 Account num: 152
+    ✓ should create asset #7 (115ms, 461988 gas)
+Start: 1669786015720
+End: 1669786018047
+Asset Id: 332 RFQ Id: 121 Account num: 152
+    ✓ should create bid #7 (2327ms, 1306265 gas)
+Start: 1669786018189
+End: 1669786018309
+Asset Id: 333 Account num: 153
+    ✓ should create asset #8 (120ms, 461988 gas)
+Start: 1669786018447
+End: 1669786020780
+Asset Id: 333 RFQ Id: 121 Account num: 153
+    ✓ should create bid #8 (2333ms, 1306265 gas)
+Start: 1669786020916
+End: 1669786021037
+Asset Id: 334 Account num: 154
+    ✓ should create asset #9 (121ms, 461988 gas)
+Start: 1669786021174
+End: 1669786023649
+Asset Id: 334 RFQ Id: 121 Account num: 154
+    ✓ should create bid #9 (2475ms, 1306265 gas)
+Start: 1669786023792
+End: 1669786023914
+Asset Id: 335 Account num: 155
+    ✓ should create asset #10 (122ms, 461988 gas)
+Start: 1669786024055
+End: 1669786026398
+Asset Id: 335 RFQ Id: 121 Account num: 155
+    ✓ should create bid #10 (2343ms, 1306265 gas)
+Start: 1669786026538
+End: 1669786026661
+Asset Id: 336 Account num: 156
+    ✓ should create asset #11 (123ms, 461988 gas)
+Start: 1669786026803
+End: 1669786029125
+Asset Id: 336 RFQ Id: 121 Account num: 156
+    ✓ should create bid #11 (2322ms, 1306265 gas)
+Start: 1669786029272
+End: 1669786029385
+Asset Id: 337 Account num: 157
+    ✓ should create asset #12 (113ms, 461988 gas)
+Start: 1669786029535
+End: 1669786031674
+Asset Id: 337 RFQ Id: 121 Account num: 157
+    ✓ should create bid #12 (2139ms, 1306265 gas)
+Start: 1669786031811
+End: 1669786031928
+Asset Id: 338 Account num: 158
+    ✓ should create asset #13 (117ms, 461988 gas)
+Start: 1669786032071
+End: 1669786034242
+Asset Id: 338 RFQ Id: 121 Account num: 158
+    ✓ should create bid #13 (2171ms, 1306265 gas)
+Start: 1669786034388
+End: 1669786034505
+Asset Id: 339 Account num: 159
+    ✓ should create asset #14 (117ms, 461988 gas)
+Start: 1669786034643
+End: 1669786036846
+Asset Id: 339 RFQ Id: 121 Account num: 159
+    ✓ should create bid #14 (2203ms, 1306265 gas)
+Start: 1669786036983
+End: 1669786037098
+Asset Id: 340 Account num: 160
+    ✓ should create asset #15 (115ms, 461988 gas)
+Start: 1669786037236
+End: 1669786039557
+Asset Id: 340 RFQ Id: 121 Account num: 160
+    ✓ should create bid #15 (2321ms, 1306265 gas)
+Start: 1669786039696
+End: 1669786039818
+Asset Id: 341 Account num: 161
+    ✓ should create asset #16 (122ms, 461988 gas)
+Start: 1669786039957
+End: 1669786042359
+Asset Id: 341 RFQ Id: 121 Account num: 161
+    ✓ should create bid #16 (2402ms, 1306265 gas)
+Start: 1669786042507
+End: 1669786042629
+Asset Id: 342 Account num: 162
+    ✓ should create asset #17 (123ms, 461988 gas)
+Start: 1669786042772
+End: 1669786045087
+Asset Id: 342 RFQ Id: 121 Account num: 162
+    ✓ should create bid #17 (2315ms, 1306265 gas)
+Start: 1669786045231
+End: 1669786045348
+Asset Id: 343 Account num: 163
+    ✓ should create asset #18 (117ms, 461988 gas)
+Start: 1669786045483
+End: 1669786047841
+Asset Id: 343 RFQ Id: 121 Account num: 163
+    ✓ should create bid #18 (2358ms, 1306265 gas)
+Start: 1669786047979
+End: 1669786048100
+Asset Id: 344 Account num: 164
+    ✓ should create asset #19 (121ms, 461988 gas)
+Start: 1669786048243
+End: 1669786050713
+Asset Id: 344 RFQ Id: 121 Account num: 164
+    ✓ should create bid #19 (2470ms, 1306265 gas)
+Start: 1669786050858
+End: 1669786050980
+Asset Id: 345 Account num: 165
+    ✓ should create asset #20 (122ms, 461988 gas)
+Start: 1669786051127
+End: 1669786053554
+Asset Id: 345 RFQ Id: 121 Account num: 165
+    ✓ should create bid #20 (2427ms, 1306265 gas)
+Start: 1669786053694
+End: 1669786053823
+Asset Id: 346 Account num: 166
+    ✓ should create asset #21 (129ms, 461988 gas)
+Start: 1669786053967
+End: 1669786056578
+Asset Id: 346 RFQ Id: 121 Account num: 166
+    ✓ should create bid #21 (2611ms, 1306265 gas)
+Start: 1669786056716
+End: 1669786056835
+Asset Id: 347 Account num: 167
+    ✓ should create asset #22 (119ms, 461988 gas)
+Start: 1669786056976
+End: 1669786059285
+Asset Id: 347 RFQ Id: 121 Account num: 167
+    ✓ should create bid #22 (2309ms, 1306265 gas)
+Start: 1669786059424
+End: 1669786059541
+Asset Id: 348 Account num: 168
+    ✓ should create asset #23 (117ms, 461988 gas)
+Start: 1669786059676
+End: 1669786061876
+Asset Id: 348 RFQ Id: 121 Account num: 168
+    ✓ should create bid #23 (2200ms, 1306265 gas)
+Start: 1669786062013
+End: 1669786062129
+Asset Id: 349 Account num: 169
+    ✓ should create asset #24 (116ms, 461988 gas)
+Start: 1669786062264
+End: 1669786064417
+Asset Id: 349 RFQ Id: 121 Account num: 169
+    ✓ should create bid #24 (2154ms, 1306265 gas)
+Start: 1669786064552
+End: 1669786064663
+Asset Id: 350 Account num: 170
+    ✓ should create asset #25 (111ms, 461988 gas)
+Start: 1669786064803
+End: 1669786066971
+Asset Id: 350 RFQ Id: 121 Account num: 170
+    ✓ should create bid #25 (2168ms, 1306265 gas)
+Start: 1669786067117
+End: 1669786068311
+RFQ Id: 121 Asset Id: 350 Account num: 0xD75F4FE036fA440213ada5c15d4E3D7654f25820
+    ✓ should activate accept #6 (1194ms, 226180 gas)
+Start: 1669786068451
+End: 1669786068575
+RFQ Id: 121 Account num: 0xf5Ef1AaC939f5e50EDf8b1aCC5A296FB52392A52
+    ✓ should create rfq #7 (124ms, 109075 gas)
+Start: 1669786068714
+End: 1669786068832
+Asset Id: 351 Account num: 171
+    ✓ should create asset #1 (119ms, 461988 gas)
+Start: 1669786068972
+End: 1669786071215
+Asset Id: 351 RFQ Id: 121 Account num: 171
+    ✓ should create bid #1 (2243ms, 1323365 gas)
+Start: 1669786071354
+End: 1669786071472
+Asset Id: 352 Account num: 172
+    ✓ should create asset #2 (119ms, 461988 gas)
+Start: 1669786071610
+End: 1669786073859
+Asset Id: 352 RFQ Id: 121 Account num: 172
+    ✓ should create bid #2 (2249ms, 1306265 gas)
+Start: 1669786073995
+End: 1669786074111
+Asset Id: 353 Account num: 173
+    ✓ should create asset #3 (116ms, 461988 gas)
+Start: 1669786074248
+End: 1669786076448
+Asset Id: 353 RFQ Id: 121 Account num: 173
+    ✓ should create bid #3 (2200ms, 1306265 gas)
+Start: 1669786076582
+End: 1669786076702
+Asset Id: 354 Account num: 174
+    ✓ should create asset #4 (120ms, 461988 gas)
+Start: 1669786076841
+End: 1669786079236
+Asset Id: 354 RFQ Id: 121 Account num: 174
+    ✓ should create bid #4 (2395ms, 1306265 gas)
+Start: 1669786079376
+End: 1669786079501
+Asset Id: 355 Account num: 175
+    ✓ should create asset #5 (125ms, 461988 gas)
+Start: 1669786079643
+End: 1669786081985
+Asset Id: 355 RFQ Id: 121 Account num: 175
+    ✓ should create bid #5 (2342ms, 1306265 gas)
+Start: 1669786082120
+End: 1669786082245
+Asset Id: 356 Account num: 176
+    ✓ should create asset #6 (125ms, 461988 gas)
+Start: 1669786082387
+End: 1669786084766
+Asset Id: 356 RFQ Id: 121 Account num: 176
+    ✓ should create bid #6 (2379ms, 1306265 gas)
+Start: 1669786084904
+End: 1669786085025
+Asset Id: 357 Account num: 177
+    ✓ should create asset #7 (123ms, 461988 gas)
+Start: 1669786085168
+End: 1669786087416
+Asset Id: 357 RFQ Id: 121 Account num: 177
+    ✓ should create bid #7 (2248ms, 1306265 gas)
+Start: 1669786087554
+End: 1669786087678
+Asset Id: 358 Account num: 178
+    ✓ should create asset #8 (124ms, 461988 gas)
+Start: 1669786087824
+End: 1669786090113
+Asset Id: 358 RFQ Id: 121 Account num: 178
+    ✓ should create bid #8 (2289ms, 1306265 gas)
+Start: 1669786090254
+End: 1669786090368
+Asset Id: 359 Account num: 179
+    ✓ should create asset #9 (114ms, 461988 gas)
+Start: 1669786090507
+End: 1669786092685
+Asset Id: 359 RFQ Id: 121 Account num: 179
+    ✓ should create bid #9 (2178ms, 1306265 gas)
+Start: 1669786092821
+End: 1669786092935
+Asset Id: 360 Account num: 180
+    ✓ should create asset #10 (114ms, 461988 gas)
+Start: 1669786093073
+End: 1669786095208
+Asset Id: 360 RFQ Id: 121 Account num: 180
+    ✓ should create bid #10 (2135ms, 1306265 gas)
+Start: 1669786095350
+End: 1669786095466
+Asset Id: 361 Account num: 181
+    ✓ should create asset #11 (116ms, 461988 gas)
+Start: 1669786095612
+End: 1669786098012
+Asset Id: 361 RFQ Id: 121 Account num: 181
+    ✓ should create bid #11 (2400ms, 1306265 gas)
+Start: 1669786098149
+End: 1669786098271
+Asset Id: 362 Account num: 182
+    ✓ should create asset #12 (122ms, 461988 gas)
+Start: 1669786098411
+End: 1669786100798
+Asset Id: 362 RFQ Id: 121 Account num: 182
+    ✓ should create bid #12 (2387ms, 1306265 gas)
+Start: 1669786100934
+End: 1669786101068
+Asset Id: 363 Account num: 183
+    ✓ should create asset #13 (134ms, 461988 gas)
+Start: 1669786101212
+End: 1669786103593
+Asset Id: 363 RFQ Id: 121 Account num: 183
+    ✓ should create bid #13 (2381ms, 1306265 gas)
+Start: 1669786103731
+End: 1669786103848
+Asset Id: 364 Account num: 184
+    ✓ should create asset #14 (117ms, 461988 gas)
+Start: 1669786103984
+End: 1669786106311
+Asset Id: 364 RFQ Id: 121 Account num: 184
+    ✓ should create bid #14 (2327ms, 1306265 gas)
+Start: 1669786106456
+End: 1669786106573
+Asset Id: 365 Account num: 185
+    ✓ should create asset #15 (118ms, 461988 gas)
+Start: 1669786106715
+End: 1669786109099
+Asset Id: 365 RFQ Id: 121 Account num: 185
+    ✓ should create bid #15 (2384ms, 1306265 gas)
+Start: 1669786109239
+End: 1669786109366
+Asset Id: 366 Account num: 186
+    ✓ should create asset #16 (127ms, 461988 gas)
+Start: 1669786109508
+End: 1669786111829
+Asset Id: 366 RFQ Id: 121 Account num: 186
+    ✓ should create bid #16 (2321ms, 1306265 gas)
+Start: 1669786111972
+End: 1669786112090
+Asset Id: 367 Account num: 187
+    ✓ should create asset #17 (118ms, 461988 gas)
+Start: 1669786112232
+End: 1669786114539
+Asset Id: 367 RFQ Id: 121 Account num: 187
+    ✓ should create bid #17 (2307ms, 1306265 gas)
+Start: 1669786114674
+End: 1669786114794
+Asset Id: 368 Account num: 188
+    ✓ should create asset #18 (120ms, 461988 gas)
+Start: 1669786114932
+End: 1669786117200
+Asset Id: 368 RFQ Id: 121 Account num: 188
+    ✓ should create bid #18 (2269ms, 1306265 gas)
+Start: 1669786117344
+End: 1669786117466
+Asset Id: 369 Account num: 189
+    ✓ should create asset #19 (122ms, 461988 gas)
+Start: 1669786117601
+End: 1669786119918
+Asset Id: 369 RFQ Id: 121 Account num: 189
+    ✓ should create bid #19 (2317ms, 1306265 gas)
+Start: 1669786120061
+End: 1669786120185
+Asset Id: 370 Account num: 190
+    ✓ should create asset #20 (124ms, 461988 gas)
+Start: 1669786120318
+End: 1669786122853
+Asset Id: 370 RFQ Id: 121 Account num: 190
+    ✓ should create bid #20 (2535ms, 1306265 gas)
+Start: 1669786122992
+End: 1669786123115
+Asset Id: 371 Account num: 191
+    ✓ should create asset #21 (123ms, 461988 gas)
+Start: 1669786123249
+End: 1669786125669
+Asset Id: 371 RFQ Id: 121 Account num: 191
+    ✓ should create bid #21 (2420ms, 1306265 gas)
+Start: 1669786125803
+End: 1669786125914
+Asset Id: 372 Account num: 192
+    ✓ should create asset #22 (112ms, 461988 gas)
+Start: 1669786126057
+End: 1669786128256
+Asset Id: 372 RFQ Id: 121 Account num: 192
+    ✓ should create bid #22 (2200ms, 1306265 gas)
+Start: 1669786128395
+End: 1669786128531
+Asset Id: 373 Account num: 193
+    ✓ should create asset #23 (137ms, 461988 gas)
+Start: 1669786128668
+End: 1669786130907
+Asset Id: 373 RFQ Id: 121 Account num: 193
+    ✓ should create bid #23 (2239ms, 1306265 gas)
+Start: 1669786131043
+End: 1669786131160
+Asset Id: 374 Account num: 194
+    ✓ should create asset #24 (117ms, 461988 gas)
+Start: 1669786131293
+End: 1669786133515
+Asset Id: 374 RFQ Id: 121 Account num: 194
+    ✓ should create bid #24 (2222ms, 1306265 gas)
+Start: 1669786133652
+End: 1669786133767
+Asset Id: 375 Account num: 195
+    ✓ should create asset #25 (115ms, 461988 gas)
+Start: 1669786133902
+End: 1669786136243
+Asset Id: 375 RFQ Id: 121 Account num: 195
+    ✓ should create bid #25 (2341ms, 1306265 gas)
+Start: 1669786136380
+End: 1669786137719
+RFQ Id: 121 Asset Id: 375 Account num: 0xf5Ef1AaC939f5e50EDf8b1aCC5A296FB52392A52
+    ✓ should activate accept #7 (1340ms, 226180 gas)
+Start: 1669786137859
+End: 1669786137991
+RFQ Id: 121 Account num: 0xE506c4470f941a76F19A9ff62f36AE8b90f7998d
+    ✓ should create rfq #8 (132ms, 109075 gas)
+Start: 1669786138128
+End: 1669786138253
+Asset Id: 376 Account num: 196
+    ✓ should create asset #1 (125ms, 461988 gas)
+Start: 1669786138392
+End: 1669786140868
+Asset Id: 376 RFQ Id: 121 Account num: 196
+    ✓ should create bid #1 (2476ms, 1323365 gas)
+Start: 1669786141005
+End: 1669786141129
+Asset Id: 377 Account num: 197
+    ✓ should create asset #2 (124ms, 461988 gas)
+Start: 1669786141263
+End: 1669786143656
+Asset Id: 377 RFQ Id: 121 Account num: 197
+    ✓ should create bid #2 (2394ms, 1306265 gas)
+Start: 1669786143803
+End: 1669786143924
+Asset Id: 378 Account num: 198
+    ✓ should create asset #3 (121ms, 461988 gas)
+Start: 1669786144064
+End: 1669786146413
+Asset Id: 378 RFQ Id: 121 Account num: 198
+    ✓ should create bid #3 (2349ms, 1306265 gas)
+Start: 1669786146552
+End: 1669786146672
+Asset Id: 379 Account num: 199
+    ✓ should create asset #4 (120ms, 461988 gas)
+Start: 1669786146808
+End: 1669786149173
+Asset Id: 379 RFQ Id: 121 Account num: 199
+    ✓ should create bid #4 (2365ms, 1306265 gas)
+Start: 1669786149317
+End: 1669786149440
+Asset Id: 380 Account num: 200
+    ✓ should create asset #5 (123ms, 461988 gas)
+Start: 1669786149591
+End: 1669786152165
+Asset Id: 380 RFQ Id: 121 Account num: 200
+    ✓ should create bid #5 (2574ms, 1306265 gas)
+Start: 1669786152304
+End: 1669786152438
+Asset Id: 381 Account num: 201
+    ✓ should create asset #6 (134ms, 461988 gas)
+Start: 1669786152582
+End: 1669786154822
+Asset Id: 381 RFQ Id: 121 Account num: 201
+    ✓ should create bid #6 (2240ms, 1306265 gas)
+Start: 1669786154961
+End: 1669786155082
+Asset Id: 382 Account num: 202
+    ✓ should create asset #7 (121ms, 461988 gas)
+Start: 1669786155236
+End: 1669786157939
+Asset Id: 382 RFQ Id: 121 Account num: 202
+    ✓ should create bid #7 (2703ms, 1306265 gas)
+Start: 1669786158093
+End: 1669786158211
+Asset Id: 383 Account num: 203
+    ✓ should create asset #8 (118ms, 461988 gas)
+Start: 1669786158351
+End: 1669786160713
+Asset Id: 383 RFQ Id: 121 Account num: 203
+    ✓ should create bid #8 (2363ms, 1306265 gas)
+Start: 1669786160857
+End: 1669786160976
+Asset Id: 384 Account num: 204
+    ✓ should create asset #9 (119ms, 461988 gas)
+Start: 1669786161112
+End: 1669786163483
+Asset Id: 384 RFQ Id: 121 Account num: 204
+    ✓ should create bid #9 (2371ms, 1306265 gas)
+Start: 1669786163621
+End: 1669786163739
+Asset Id: 385 Account num: 205
+    ✓ should create asset #10 (118ms, 461988 gas)
+Start: 1669786163876
+End: 1669786166110
+Asset Id: 385 RFQ Id: 121 Account num: 205
+    ✓ should create bid #10 (2234ms, 1306265 gas)
+Start: 1669786166253
+End: 1669786166387
+Asset Id: 386 Account num: 206
+    ✓ should create asset #11 (134ms, 461988 gas)
+Start: 1669786166530
+End: 1669786169031
+Asset Id: 386 RFQ Id: 121 Account num: 206
+    ✓ should create bid #11 (2501ms, 1306265 gas)
+Start: 1669786169169
+End: 1669786169290
+Asset Id: 387 Account num: 207
+    ✓ should create asset #12 (122ms, 461988 gas)
+Start: 1669786169435
+End: 1669786171813
+Asset Id: 387 RFQ Id: 121 Account num: 207
+    ✓ should create bid #12 (2378ms, 1306265 gas)
+Start: 1669786171950
+End: 1669786172069
+Asset Id: 388 Account num: 208
+    ✓ should create asset #13 (119ms, 461988 gas)
+Start: 1669786172210
+End: 1669786174565
+Asset Id: 388 RFQ Id: 121 Account num: 208
+    ✓ should create bid #13 (2355ms, 1306265 gas)
+Start: 1669786174704
+End: 1669786174820
+Asset Id: 389 Account num: 209
+    ✓ should create asset #14 (117ms, 461988 gas)
+Start: 1669786174955
+End: 1669786177153
+Asset Id: 389 RFQ Id: 121 Account num: 209
+    ✓ should create bid #14 (2198ms, 1306265 gas)
+Start: 1669786177298
+End: 1669786177414
+Asset Id: 390 Account num: 210
+    ✓ should create asset #15 (117ms, 461988 gas)
+Start: 1669786177560
+End: 1669786179737
+Asset Id: 390 RFQ Id: 121 Account num: 210
+    ✓ should create bid #15 (2177ms, 1306265 gas)
+Start: 1669786179878
+End: 1669786179993
+Asset Id: 391 Account num: 211
+    ✓ should create asset #16 (115ms, 461988 gas)
+Start: 1669786180131
+End: 1669786182341
+Asset Id: 391 RFQ Id: 121 Account num: 211
+    ✓ should create bid #16 (2210ms, 1306265 gas)
+Start: 1669786182482
+End: 1669786182597
+Asset Id: 392 Account num: 212
+    ✓ should create asset #17 (115ms, 461988 gas)
+Start: 1669786182740
+End: 1669786184842
+Asset Id: 392 RFQ Id: 121 Account num: 212
+    ✓ should create bid #17 (2102ms, 1306265 gas)
+Start: 1669786184988
+End: 1669786185100
+Asset Id: 393 Account num: 213
+    ✓ should create asset #18 (112ms, 461988 gas)
+Start: 1669786185240
+End: 1669786187367
+Asset Id: 393 RFQ Id: 121 Account num: 213
+    ✓ should create bid #18 (2127ms, 1306265 gas)
+Start: 1669786187509
+End: 1669786187622
+Asset Id: 394 Account num: 214
+    ✓ should create asset #19 (114ms, 461988 gas)
+Start: 1669786187761
+End: 1669786190022
+Asset Id: 394 RFQ Id: 121 Account num: 214
+    ✓ should create bid #19 (2261ms, 1306265 gas)
+Start: 1669786190164
+End: 1669786190282
+Asset Id: 395 Account num: 215
+    ✓ should create asset #20 (118ms, 461988 gas)
+Start: 1669786190425
+End: 1669786192773
+Asset Id: 395 RFQ Id: 121 Account num: 215
+    ✓ should create bid #20 (2348ms, 1306265 gas)
+Start: 1669786192912
+End: 1669786193031
+Asset Id: 396 Account num: 216
+    ✓ should create asset #21 (119ms, 461988 gas)
+Start: 1669786193167
+End: 1669786195421
+Asset Id: 396 RFQ Id: 121 Account num: 216
+    ✓ should create bid #21 (2254ms, 1306265 gas)
+Start: 1669786195561
+End: 1669786195680
+Asset Id: 397 Account num: 217
+    ✓ should create asset #22 (119ms, 461988 gas)
+Start: 1669786195821
+End: 1669786198118
+Asset Id: 397 RFQ Id: 121 Account num: 217
+    ✓ should create bid #22 (2297ms, 1306265 gas)
+Start: 1669786198257
+End: 1669786198374
+Asset Id: 398 Account num: 218
+    ✓ should create asset #23 (117ms, 461988 gas)
+Start: 1669786198518
+End: 1669786200845
+Asset Id: 398 RFQ Id: 121 Account num: 218
+    ✓ should create bid #23 (2327ms, 1306265 gas)
+Start: 1669786200982
+End: 1669786201101
+Asset Id: 399 Account num: 219
+    ✓ should create asset #24 (119ms, 461988 gas)
+Start: 1669786201257
+End: 1669786203565
+Asset Id: 399 RFQ Id: 121 Account num: 219
+    ✓ should create bid #24 (2308ms, 1306265 gas)
+Start: 1669786203704
+End: 1669786203841
+Asset Id: 400 Account num: 220
+    ✓ should create asset #25 (137ms, 461988 gas)
+Start: 1669786203983
+End: 1669786206224
+Asset Id: 400 RFQ Id: 121 Account num: 220
+    ✓ should create bid #25 (2241ms, 1306265 gas)
+Start: 1669786206368
+End: 1669786207570
+RFQ Id: 121 Asset Id: 400 Account num: 0xE506c4470f941a76F19A9ff62f36AE8b90f7998d
+    ✓ should activate accept #8 (1202ms, 226180 gas)
+Start: 1669786207710
+End: 1669786207837
+RFQ Id: 121 Account num: 0x10D723f0136E4477ff8118AaeCbCB64d9D43B912
+    ✓ should create rfq #9 (127ms, 109075 gas)
+Start: 1669786207975
+End: 1669786208095
+Asset Id: 401 Account num: 221
+    ✓ should create asset #1 (120ms, 461988 gas)
+Start: 1669786208232
+End: 1669786210458
+Asset Id: 401 RFQ Id: 121 Account num: 221
+    ✓ should create bid #1 (2226ms, 1323365 gas)
+Start: 1669786210605
+End: 1669786210724
+Asset Id: 402 Account num: 222
+    ✓ should create asset #2 (120ms, 461988 gas)
+Start: 1669786210872
+End: 1669786213099
+Asset Id: 402 RFQ Id: 121 Account num: 222
+    ✓ should create bid #2 (2227ms, 1306265 gas)
+Start: 1669786213238
+End: 1669786213355
+Asset Id: 403 Account num: 223
+    ✓ should create asset #3 (117ms, 461988 gas)
+Start: 1669786213491
+End: 1669786215810
+Asset Id: 403 RFQ Id: 121 Account num: 223
+    ✓ should create bid #3 (2319ms, 1306265 gas)
+Start: 1669786215950
+End: 1669786216070
+Asset Id: 404 Account num: 224
+    ✓ should create asset #4 (120ms, 461988 gas)
+Start: 1669786216210
+End: 1669786218540
+Asset Id: 404 RFQ Id: 121 Account num: 224
+    ✓ should create bid #4 (2330ms, 1306265 gas)
+Start: 1669786218681
+End: 1669786218805
+Asset Id: 405 Account num: 225
+    ✓ should create asset #5 (124ms, 461988 gas)
+Start: 1669786218942
+End: 1669786221252
+Asset Id: 405 RFQ Id: 121 Account num: 225
+    ✓ should create bid #5 (2311ms, 1306265 gas)
+Start: 1669786221388
+End: 1669786221511
+Asset Id: 406 Account num: 226
+    ✓ should create asset #6 (123ms, 461988 gas)
+Start: 1669786221642
+End: 1669786223683
+Asset Id: 406 RFQ Id: 121 Account num: 226
+    ✓ should create bid #6 (2041ms, 1306265 gas)
+Start: 1669786223817
+End: 1669786223935
+Asset Id: 407 Account num: 227
+    ✓ should create asset #7 (118ms, 461988 gas)
+Start: 1669786224072
+End: 1669786226153
+Asset Id: 407 RFQ Id: 121 Account num: 227
+    ✓ should create bid #7 (2081ms, 1306265 gas)
+Start: 1669786226288
+End: 1669786226403
+Asset Id: 408 Account num: 228
+    ✓ should create asset #8 (115ms, 461988 gas)
+Start: 1669786226539
+End: 1669786228594
+Asset Id: 408 RFQ Id: 121 Account num: 228
+    ✓ should create bid #8 (2056ms, 1306265 gas)
+Start: 1669786228731
+End: 1669786228847
+Asset Id: 409 Account num: 229
+    ✓ should create asset #9 (116ms, 461988 gas)
+Start: 1669786228987
+End: 1669786231166
+Asset Id: 409 RFQ Id: 121 Account num: 229
+    ✓ should create bid #9 (2179ms, 1306265 gas)
+Start: 1669786231307
+End: 1669786231425
+Asset Id: 410 Account num: 230
+    ✓ should create asset #10 (118ms, 461988 gas)
+Start: 1669786231557
+End: 1669786233870
+Asset Id: 410 RFQ Id: 121 Account num: 230
+    ✓ should create bid #10 (2314ms, 1306265 gas)
+Start: 1669786234008
+End: 1669786234125
+Asset Id: 411 Account num: 231
+    ✓ should create asset #11 (117ms, 461988 gas)
+Start: 1669786234259
+End: 1669786236623
+Asset Id: 411 RFQ Id: 121 Account num: 231
+    ✓ should create bid #11 (2364ms, 1306265 gas)
+Start: 1669786236760
+End: 1669786236878
+Asset Id: 412 Account num: 232
+    ✓ should create asset #12 (118ms, 461988 gas)
+Start: 1669786237027
+End: 1669786239322
+Asset Id: 412 RFQ Id: 121 Account num: 232
+    ✓ should create bid #12 (2295ms, 1306265 gas)
+Start: 1669786239460
+End: 1669786239577
+Asset Id: 413 Account num: 233
+    ✓ should create asset #13 (117ms, 461988 gas)
+Start: 1669786239725
+End: 1669786242041
+Asset Id: 413 RFQ Id: 121 Account num: 233
+    ✓ should create bid #13 (2316ms, 1306265 gas)
+Start: 1669786242180
+End: 1669786242307
+Asset Id: 414 Account num: 234
+    ✓ should create asset #14 (127ms, 461988 gas)
+Start: 1669786242448
+End: 1669786244786
+Asset Id: 414 RFQ Id: 121 Account num: 234
+    ✓ should create bid #14 (2338ms, 1306265 gas)
+Start: 1669786244929
+End: 1669786245051
+Asset Id: 415 Account num: 235
+    ✓ should create asset #15 (123ms, 461988 gas)
+Start: 1669786245200
+End: 1669786247630
+Asset Id: 415 RFQ Id: 121 Account num: 235
+    ✓ should create bid #15 (2430ms, 1306265 gas)
+Start: 1669786247775
+End: 1669786247895
+Asset Id: 416 Account num: 236
+    ✓ should create asset #16 (120ms, 461988 gas)
+Start: 1669786248033
+End: 1669786250433
+Asset Id: 416 RFQ Id: 121 Account num: 236
+    ✓ should create bid #16 (2400ms, 1306265 gas)
+Start: 1669786250575
+End: 1669786250693
+Asset Id: 417 Account num: 237
+    ✓ should create asset #17 (118ms, 461988 gas)
+Start: 1669786250841
+End: 1669786253187
+Asset Id: 417 RFQ Id: 121 Account num: 237
+    ✓ should create bid #17 (2346ms, 1306265 gas)
+Start: 1669786253327
+End: 1669786253451
+Asset Id: 418 Account num: 238
+    ✓ should create asset #18 (124ms, 461988 gas)
+Start: 1669786253588
+End: 1669786256024
+Asset Id: 418 RFQ Id: 121 Account num: 238
+    ✓ should create bid #18 (2436ms, 1306265 gas)
+Start: 1669786256165
+End: 1669786256293
+Asset Id: 419 Account num: 239
+    ✓ should create asset #19 (128ms, 461988 gas)
+Start: 1669786256441
+End: 1669786258954
+Asset Id: 419 RFQ Id: 121 Account num: 239
+    ✓ should create bid #19 (2513ms, 1306265 gas)
+Start: 1669786259093
+End: 1669786259218
+Asset Id: 420 Account num: 240
+    ✓ should create asset #20 (125ms, 461988 gas)
+Start: 1669786259355
+End: 1669786261817
+Asset Id: 420 RFQ Id: 121 Account num: 240
+    ✓ should create bid #20 (2462ms, 1306265 gas)
+Start: 1669786261950
+End: 1669786262076
+Asset Id: 421 Account num: 241
+    ✓ should create asset #21 (126ms, 461988 gas)
+Start: 1669786262218
+End: 1669786264701
+Asset Id: 421 RFQ Id: 121 Account num: 241
+    ✓ should create bid #21 (2483ms, 1306265 gas)
+Start: 1669786264833
+End: 1669786264956
+Asset Id: 422 Account num: 242
+    ✓ should create asset #22 (123ms, 461988 gas)
+Start: 1669786265092
+End: 1669786267497
+Asset Id: 422 RFQ Id: 121 Account num: 242
+    ✓ should create bid #22 (2405ms, 1306265 gas)
+Start: 1669786267638
+End: 1669786267769
+Asset Id: 423 Account num: 243
+    ✓ should create asset #23 (131ms, 461988 gas)
+Start: 1669786267904
+End: 1669786270321
+Asset Id: 423 RFQ Id: 121 Account num: 243
+    ✓ should create bid #23 (2417ms, 1306265 gas)
+Start: 1669786270459
+End: 1669786270588
+Asset Id: 424 Account num: 244
+    ✓ should create asset #24 (130ms, 461988 gas)
+Start: 1669786270735
+End: 1669786273123
+Asset Id: 424 RFQ Id: 121 Account num: 244
+    ✓ should create bid #24 (2388ms, 1306265 gas)
+Start: 1669786273268
+End: 1669786273397
+Asset Id: 425 Account num: 245
+    ✓ should create asset #25 (129ms, 461988 gas)
+Start: 1669786273537
+End: 1669786275910
+Asset Id: 425 RFQ Id: 121 Account num: 245
+    ✓ should create bid #25 (2373ms, 1306265 gas)
+Start: 1669786276045
+End: 1669786277380
+RFQ Id: 121 Asset Id: 425 Account num: 0x10D723f0136E4477ff8118AaeCbCB64d9D43B912
+    ✓ should activate accept #9 (1335ms, 226180 gas)
+Start: 1669786277522
+End: 1669786277653
+RFQ Id: 121 Account num: 0x1182058693a7a94A3D75e43BFF8f664D45fe8be3
+    ✓ should create rfq #10 (131ms, 109075 gas)
+Start: 1669786277789
+End: 1669786277909
+Asset Id: 426 Account num: 246
+    ✓ should create asset #1 (120ms, 461988 gas)
+Start: 1669786278050
+End: 1669786280439
+Asset Id: 426 RFQ Id: 121 Account num: 246
+    ✓ should create bid #1 (2389ms, 1323365 gas)
+Start: 1669786280578
+End: 1669786280697
+Asset Id: 427 Account num: 247
+    ✓ should create asset #2 (119ms, 461988 gas)
+Start: 1669786280834
+End: 1669786283041
+Asset Id: 427 RFQ Id: 121 Account num: 247
+    ✓ should create bid #2 (2207ms, 1306265 gas)
+Start: 1669786283190
+End: 1669786283308
+Asset Id: 428 Account num: 248
+    ✓ should create asset #3 (119ms, 461988 gas)
+Start: 1669786283442
+End: 1669786285744
+Asset Id: 428 RFQ Id: 121 Account num: 248
+    ✓ should create bid #3 (2302ms, 1306265 gas)
+Start: 1669786285879
+End: 1669786285996
+Asset Id: 429 Account num: 249
+    ✓ should create asset #4 (117ms, 461988 gas)
+Start: 1669786286135
+End: 1669786288418
+Asset Id: 429 RFQ Id: 121 Account num: 249
+    ✓ should create bid #4 (2284ms, 1306265 gas)
+Start: 1669786288554
+End: 1669786288678
+Asset Id: 430 Account num: 250
+    ✓ should create asset #5 (124ms, 461988 gas)
+Start: 1669786288814
+End: 1669786291151
+Asset Id: 430 RFQ Id: 121 Account num: 250
+    ✓ should create bid #5 (2337ms, 1306265 gas)
+Start: 1669786291292
+End: 1669786291414
+Asset Id: 431 Account num: 251
+    ✓ should create asset #6 (123ms, 461988 gas)
+Start: 1669786291571
+End: 1669786294000
+Asset Id: 431 RFQ Id: 121 Account num: 251
+    ✓ should create bid #6 (2429ms, 1306265 gas)
+Start: 1669786294138
+End: 1669786294270
+Asset Id: 432 Account num: 252
+    ✓ should create asset #7 (132ms, 461988 gas)
+Start: 1669786294411
+End: 1669786296998
+Asset Id: 432 RFQ Id: 121 Account num: 252
+    ✓ should create bid #7 (2587ms, 1306265 gas)
+Start: 1669786297142
+End: 1669786297267
+Asset Id: 433 Account num: 253
+    ✓ should create asset #8 (125ms, 461988 gas)
+Start: 1669786297404
+End: 1669786299906
+Asset Id: 433 RFQ Id: 121 Account num: 253
+    ✓ should create bid #8 (2502ms, 1306265 gas)
+Start: 1669786300046
+End: 1669786300169
+Asset Id: 434 Account num: 254
+    ✓ should create asset #9 (123ms, 461988 gas)
+Start: 1669786300310
+End: 1669786302491
+Asset Id: 434 RFQ Id: 121 Account num: 254
+    ✓ should create bid #9 (2181ms, 1306265 gas)
+Start: 1669786302636
+End: 1669786302752
+Asset Id: 435 Account num: 255
+    ✓ should create asset #10 (116ms, 461988 gas)
+Start: 1669786302892
+End: 1669786305076
+Asset Id: 435 RFQ Id: 121 Account num: 255
+    ✓ should create bid #10 (2184ms, 1306265 gas)
+Start: 1669786305218
+End: 1669786305343
+Asset Id: 436 Account num: 256
+    ✓ should create asset #11 (125ms, 461988 gas)
+Start: 1669786305480
+End: 1669786307851
+Asset Id: 436 RFQ Id: 121 Account num: 256
+    ✓ should create bid #11 (2371ms, 1306265 gas)
+Start: 1669786307991
+End: 1669786308113
+Asset Id: 437 Account num: 257
+    ✓ should create asset #12 (122ms, 461988 gas)
+Start: 1669786308254
+End: 1669786310637
+Asset Id: 437 RFQ Id: 121 Account num: 257
+    ✓ should create bid #12 (2383ms, 1306265 gas)
+Start: 1669786310775
+End: 1669786310894
+Asset Id: 438 Account num: 258
+    ✓ should create asset #13 (120ms, 461988 gas)
+Start: 1669786311031
+End: 1669786313203
+Asset Id: 438 RFQ Id: 121 Account num: 258
+    ✓ should create bid #13 (2172ms, 1306265 gas)
+Start: 1669786313343
+End: 1669786313457
+Asset Id: 439 Account num: 259
+    ✓ should create asset #14 (114ms, 461988 gas)
+Start: 1669786313594
+End: 1669786315840
+Asset Id: 439 RFQ Id: 121 Account num: 259
+    ✓ should create bid #14 (2246ms, 1306265 gas)
+Start: 1669786315976
+End: 1669786316097
+Asset Id: 440 Account num: 260
+    ✓ should create asset #15 (122ms, 461988 gas)
+Start: 1669786316237
+End: 1669786318426
+Asset Id: 440 RFQ Id: 121 Account num: 260
+    ✓ should create bid #15 (2189ms, 1306265 gas)
+Start: 1669786318571
+End: 1669786318693
+Asset Id: 441 Account num: 261
+    ✓ should create asset #16 (122ms, 461988 gas)
+Start: 1669786318829
+End: 1669786320991
+Asset Id: 441 RFQ Id: 121 Account num: 261
+    ✓ should create bid #16 (2162ms, 1306265 gas)
+Start: 1669786321127
+End: 1669786321243
+Asset Id: 442 Account num: 262
+    ✓ should create asset #17 (116ms, 461988 gas)
+Start: 1669786321380
+End: 1669786323670
+Asset Id: 442 RFQ Id: 121 Account num: 262
+    ✓ should create bid #17 (2290ms, 1306265 gas)
+Start: 1669786323809
+End: 1669786323926
+Asset Id: 443 Account num: 263
+    ✓ should create asset #18 (117ms, 461988 gas)
+Start: 1669786324065
+End: 1669786326372
+Asset Id: 443 RFQ Id: 121 Account num: 263
+    ✓ should create bid #18 (2307ms, 1306265 gas)
+Start: 1669786326517
+End: 1669786326632
+Asset Id: 444 Account num: 264
+    ✓ should create asset #19 (115ms, 461988 gas)
+Start: 1669786326774
+End: 1669786328948
+Asset Id: 444 RFQ Id: 121 Account num: 264
+    ✓ should create bid #19 (2174ms, 1306265 gas)
+Start: 1669786329091
+End: 1669786329216
+Asset Id: 445 Account num: 265
+    ✓ should create asset #20 (125ms, 461988 gas)
+Start: 1669786329356
+End: 1669786331685
+Asset Id: 445 RFQ Id: 121 Account num: 265
+    ✓ should create bid #20 (2329ms, 1306265 gas)
+Start: 1669786331830
+End: 1669786331947
+Asset Id: 446 Account num: 266
+    ✓ should create asset #21 (117ms, 461988 gas)
+Start: 1669786332092
+End: 1669786334495
+Asset Id: 446 RFQ Id: 121 Account num: 266
+    ✓ should create bid #21 (2403ms, 1306265 gas)
+Start: 1669786334633
+End: 1669786334756
+Asset Id: 447 Account num: 267
+    ✓ should create asset #22 (123ms, 461988 gas)
+Start: 1669786334897
+End: 1669786337355
+Asset Id: 447 RFQ Id: 121 Account num: 267
+    ✓ should create bid #22 (2458ms, 1306265 gas)
+Start: 1669786337501
+End: 1669786337626
+Asset Id: 448 Account num: 268
+    ✓ should create asset #23 (125ms, 461988 gas)
+Start: 1669786337762
+End: 1669786340166
+Asset Id: 448 RFQ Id: 121 Account num: 268
+    ✓ should create bid #23 (2404ms, 1306265 gas)
+Start: 1669786340308
+End: 1669786340429
+Asset Id: 449 Account num: 269
+    ✓ should create asset #24 (121ms, 461988 gas)
+Start: 1669786340578
+End: 1669786342999
+Asset Id: 449 RFQ Id: 121 Account num: 269
+    ✓ should create bid #24 (2421ms, 1306265 gas)
+Start: 1669786343150
+End: 1669786343282
+Asset Id: 450 Account num: 270
+    ✓ should create asset #25 (132ms, 461988 gas)
+Start: 1669786343421
+End: 1669786345831
+Asset Id: 450 RFQ Id: 121 Account num: 270
+    ✓ should create bid #25 (2410ms, 1306265 gas)
+Start: 1669786345977
+End: 1669786347339
+RFQ Id: 121 Asset Id: 450 Account num: 0x1182058693a7a94A3D75e43BFF8f664D45fe8be3
+    ✓ should activate accept #10 (1362ms, 226180 gas)
+Start: 1669786347484
+End: 1669786347614
+RFQ Id: 121 Account num: 0x9aE2371CaC1Aa740be535Ed67a8a50d85B574AAf
+    ✓ should create rfq #11 (130ms, 109075 gas)
+Start: 1669786347757
+End: 1669786347878
+Asset Id: 451 Account num: 271
+    ✓ should create asset #1 (121ms, 461988 gas)
+Start: 1669786348018
+End: 1669786350399
+Asset Id: 451 RFQ Id: 121 Account num: 271
+    ✓ should create bid #1 (2381ms, 1323365 gas)
+Start: 1669786350541
+End: 1669786350658
+Asset Id: 452 Account num: 272
+    ✓ should create asset #2 (117ms, 461988 gas)
+Start: 1669786350799
+End: 1669786353046
+Asset Id: 452 RFQ Id: 121 Account num: 272
+    ✓ should create bid #2 (2247ms, 1306265 gas)
+Start: 1669786353184
+End: 1669786353306
+Asset Id: 453 Account num: 273
+    ✓ should create asset #3 (122ms, 461988 gas)
+Start: 1669786353453
+End: 1669786355860
+Asset Id: 453 RFQ Id: 121 Account num: 273
+    ✓ should create bid #3 (2407ms, 1306265 gas)
+Start: 1669786355999
+End: 1669786356141
+Asset Id: 454 Account num: 274
+    ✓ should create asset #4 (142ms, 461988 gas)
+Start: 1669786356285
+End: 1669786358713
+Asset Id: 454 RFQ Id: 121 Account num: 274
+    ✓ should create bid #4 (2428ms, 1306265 gas)
+Start: 1669786358853
+End: 1669786358978
+Asset Id: 455 Account num: 275
+    ✓ should create asset #5 (125ms, 461988 gas)
+Start: 1669786359117
+End: 1669786361556
+Asset Id: 455 RFQ Id: 121 Account num: 275
+    ✓ should create bid #5 (2439ms, 1306265 gas)
+Start: 1669786361698
+End: 1669786361820
+Asset Id: 456 Account num: 276
+    ✓ should create asset #6 (122ms, 461988 gas)
+Start: 1669786361963
+End: 1669786364290
+Asset Id: 456 RFQ Id: 121 Account num: 276
+    ✓ should create bid #6 (2327ms, 1306265 gas)
+Start: 1669786364429
+End: 1669786364553
+Asset Id: 457 Account num: 277
+    ✓ should create asset #7 (124ms, 461988 gas)
+Start: 1669786364691
+End: 1669786367650
+Asset Id: 457 RFQ Id: 121 Account num: 277
+    ✓ should create bid #7 (2959ms, 1306265 gas)
+Start: 1669786367793
+End: 1669786367930
+Asset Id: 458 Account num: 278
+    ✓ should create asset #8 (137ms, 461988 gas)
+Start: 1669786368069
+End: 1669786370488
+Asset Id: 458 RFQ Id: 121 Account num: 278
+    ✓ should create bid #8 (2419ms, 1306265 gas)
+Start: 1669786370643
+End: 1669786370767
+Asset Id: 459 Account num: 279
+    ✓ should create asset #9 (125ms, 461988 gas)
+Start: 1669786370909
+End: 1669786373245
+Asset Id: 459 RFQ Id: 121 Account num: 279
+    ✓ should create bid #9 (2336ms, 1306265 gas)
+Start: 1669786373383
+End: 1669786373505
+Asset Id: 460 Account num: 280
+    ✓ should create asset #10 (122ms, 461988 gas)
+Start: 1669786373646
+End: 1669786376071
+Asset Id: 460 RFQ Id: 121 Account num: 280
+    ✓ should create bid #10 (2425ms, 1306265 gas)
+Start: 1669786376213
+End: 1669786376340
+Asset Id: 461 Account num: 281
+    ✓ should create asset #11 (127ms, 461988 gas)
+Start: 1669786376486
+End: 1669786378820
+Asset Id: 461 RFQ Id: 121 Account num: 281
+    ✓ should create bid #11 (2334ms, 1306265 gas)
+Start: 1669786378962
+End: 1669786379087
+Asset Id: 462 Account num: 282
+    ✓ should create asset #12 (125ms, 461988 gas)
+Start: 1669786379238
+End: 1669786381692
+Asset Id: 462 RFQ Id: 121 Account num: 282
+    ✓ should create bid #12 (2454ms, 1306265 gas)
+Start: 1669786381835
+End: 1669786381959
+Asset Id: 463 Account num: 283
+    ✓ should create asset #13 (124ms, 461988 gas)
+Start: 1669786382098
+End: 1669786384761
+Asset Id: 463 RFQ Id: 121 Account num: 283
+    ✓ should create bid #13 (2663ms, 1306265 gas)
+Start: 1669786384907
+End: 1669786385038
+Asset Id: 464 Account num: 284
+    ✓ should create asset #14 (131ms, 461988 gas)
+Start: 1669786385181
+End: 1669786387893
+Asset Id: 464 RFQ Id: 121 Account num: 284
+    ✓ should create bid #14 (2712ms, 1306265 gas)
+Start: 1669786388032
+End: 1669786388161
+Asset Id: 465 Account num: 285
+    ✓ should create asset #15 (129ms, 461988 gas)
+Start: 1669786388300
+End: 1669786390959
+Asset Id: 465 RFQ Id: 121 Account num: 285
+    ✓ should create bid #15 (2659ms, 1306265 gas)
+Start: 1669786391100
+End: 1669786391224
+Asset Id: 466 Account num: 286
+    ✓ should create asset #16 (124ms, 461988 gas)
+Start: 1669786391368
+End: 1669786393892
+Asset Id: 466 RFQ Id: 121 Account num: 286
+    ✓ should create bid #16 (2524ms, 1306265 gas)
+Start: 1669786394034
+End: 1669786394159
+Asset Id: 467 Account num: 287
+    ✓ should create asset #17 (125ms, 461988 gas)
+Start: 1669786394309
+End: 1669786396739
+Asset Id: 467 RFQ Id: 121 Account num: 287
+    ✓ should create bid #17 (2431ms, 1306265 gas)
+Start: 1669786396881
+End: 1669786397013
+Asset Id: 468 Account num: 288
+    ✓ should create asset #18 (132ms, 461988 gas)
+Start: 1669786397172
+End: 1669786399698
+Asset Id: 468 RFQ Id: 121 Account num: 288
+    ✓ should create bid #18 (2526ms, 1306265 gas)
+Start: 1669786399853
+End: 1669786399986
+Asset Id: 469 Account num: 289
+    ✓ should create asset #19 (133ms, 461988 gas)
+Start: 1669786400156
+End: 1669786402610
+Asset Id: 469 RFQ Id: 121 Account num: 289
+    ✓ should create bid #19 (2454ms, 1306265 gas)
+Start: 1669786402765
+End: 1669786402886
+Asset Id: 470 Account num: 290
+    ✓ should create asset #20 (122ms, 461988 gas)
+Start: 1669786403025
+End: 1669786405448
+Asset Id: 470 RFQ Id: 121 Account num: 290
+    ✓ should create bid #20 (2423ms, 1306265 gas)
+Start: 1669786405588
+End: 1669786405715
+Asset Id: 471 Account num: 291
+    ✓ should create asset #21 (127ms, 461988 gas)
+Start: 1669786405854
+End: 1669786408378
+Asset Id: 471 RFQ Id: 121 Account num: 291
+    ✓ should create bid #21 (2524ms, 1306265 gas)
+Start: 1669786408521
+End: 1669786408642
+Asset Id: 472 Account num: 292
+    ✓ should create asset #22 (122ms, 461988 gas)
+Start: 1669786408785
+End: 1669786411194
+Asset Id: 472 RFQ Id: 121 Account num: 292
+    ✓ should create bid #22 (2409ms, 1306265 gas)
+Start: 1669786411334
+End: 1669786411457
+Asset Id: 473 Account num: 293
+    ✓ should create asset #23 (123ms, 461988 gas)
+Start: 1669786411604
+End: 1669786414104
+Asset Id: 473 RFQ Id: 121 Account num: 293
+    ✓ should create bid #23 (2500ms, 1306265 gas)
+Start: 1669786414249
+End: 1669786414372
+Asset Id: 474 Account num: 294
+    ✓ should create asset #24 (123ms, 461988 gas)
+Start: 1669786414513
+End: 1669786416995
+Asset Id: 474 RFQ Id: 121 Account num: 294
+    ✓ should create bid #24 (2482ms, 1306265 gas)
+Start: 1669786417146
+End: 1669786417271
+Asset Id: 475 Account num: 295
+    ✓ should create asset #25 (126ms, 461988 gas)
+Start: 1669786417415
+End: 1669786419911
+Asset Id: 475 RFQ Id: 121 Account num: 295
+    ✓ should create bid #25 (2496ms, 1306265 gas)
+Start: 1669786420051
+End: 1669786421383
+RFQ Id: 121 Asset Id: 475 Account num: 0x9aE2371CaC1Aa740be535Ed67a8a50d85B574AAf
+    ✓ should activate accept #11 (1332ms, 226180 gas)
+Start: 1669786421531
+End: 1669786421664
+RFQ Id: 121 Account num: 0x5D607F82050882801eFa9461293c4C15063A9D04
+    ✓ should create rfq #12 (133ms, 109075 gas)
+Start: 1669786421803
+End: 1669786421923
+Asset Id: 476 Account num: 296
+    ✓ should create asset #1 (121ms, 461988 gas)
+Start: 1669786422064
+End: 1669786424413
+Asset Id: 476 RFQ Id: 121 Account num: 296
+    ✓ should create bid #1 (2349ms, 1323365 gas)
+Start: 1669786424559
+End: 1669786424687
+Asset Id: 477 Account num: 297
+    ✓ should create asset #2 (128ms, 461988 gas)
+Start: 1669786424828
+End: 1669786427251
+Asset Id: 477 RFQ Id: 121 Account num: 297
+    ✓ should create bid #2 (2423ms, 1306265 gas)
+Start: 1669786427385
+End: 1669786427506
+Asset Id: 478 Account num: 298
+    ✓ should create asset #3 (121ms, 461988 gas)
+Start: 1669786427645
+End: 1669786429933
+Asset Id: 478 RFQ Id: 121 Account num: 298
+    ✓ should create bid #3 (2288ms, 1306265 gas)
+Start: 1669786430071
+End: 1669786430189
+Asset Id: 479 Account num: 299
+    ✓ should create asset #4 (118ms, 461988 gas)
+Start: 1669786430329
+End: 1669786432703
+Asset Id: 479 RFQ Id: 121 Account num: 299
+    ✓ should create bid #4 (2374ms, 1306265 gas)
+Start: 1669786432842
+End: 1669786432963
+Asset Id: 480 Account num: 300
+    ✓ should create asset #5 (121ms, 461988 gas)
+Start: 1669786433104
+End: 1669786435539
+Asset Id: 480 RFQ Id: 121 Account num: 300
+    ✓ should create bid #5 (2435ms, 1306265 gas)
+Start: 1669786435683
+End: 1669786435808
+Asset Id: 481 Account num: 301
+    ✓ should create asset #6 (125ms, 461988 gas)
+Start: 1669786435945
+End: 1669786438341
+Asset Id: 481 RFQ Id: 121 Account num: 301
+    ✓ should create bid #6 (2396ms, 1306265 gas)
+Start: 1669786438491
+End: 1669786438611
+Asset Id: 482 Account num: 302
+    ✓ should create asset #7 (120ms, 461988 gas)
+Start: 1669786438764
+End: 1669786440836
+Asset Id: 482 RFQ Id: 121 Account num: 302
+    ✓ should create bid #7 (2072ms, 1306265 gas)
+Start: 1669786440975
+End: 1669786441090
+Asset Id: 483 Account num: 303
+    ✓ should create asset #8 (115ms, 461988 gas)
+Start: 1669786441231
+End: 1669786443301
+Asset Id: 483 RFQ Id: 121 Account num: 303
+    ✓ should create bid #8 (2070ms, 1306265 gas)
+Start: 1669786443444
+End: 1669786443556
+Asset Id: 484 Account num: 304
+    ✓ should create asset #9 (113ms, 461988 gas)
+Start: 1669786443695
+End: 1669786445678
+Asset Id: 484 RFQ Id: 121 Account num: 304
+    ✓ should create bid #9 (1983ms, 1306265 gas)
+Start: 1669786445819
+End: 1669786445930
+Asset Id: 485 Account num: 305
+    ✓ should create asset #10 (111ms, 461988 gas)
+Start: 1669786446074
+End: 1669786448159
+Asset Id: 485 RFQ Id: 121 Account num: 305
+    ✓ should create bid #10 (2085ms, 1306265 gas)
+Start: 1669786448300
+End: 1669786448417
+Asset Id: 486 Account num: 306
+    ✓ should create asset #11 (117ms, 461988 gas)
+Start: 1669786448561
+End: 1669786450688
+Asset Id: 486 RFQ Id: 121 Account num: 306
+    ✓ should create bid #11 (2127ms, 1306265 gas)
+Start: 1669786450841
+End: 1669786450966
+Asset Id: 487 Account num: 307
+    ✓ should create asset #12 (125ms, 461988 gas)
+Start: 1669786451108
+End: 1669786453615
+Asset Id: 487 RFQ Id: 121 Account num: 307
+    ✓ should create bid #12 (2507ms, 1306265 gas)
+Start: 1669786453756
+End: 1669786453891
+Asset Id: 488 Account num: 308
+    ✓ should create asset #13 (135ms, 461988 gas)
+Start: 1669786454031
+End: 1669786456424
+Asset Id: 488 RFQ Id: 121 Account num: 308
+    ✓ should create bid #13 (2393ms, 1306265 gas)
+Start: 1669786456563
+End: 1669786456686
+Asset Id: 489 Account num: 309
+    ✓ should create asset #14 (124ms, 461988 gas)
+Start: 1669786456828
+End: 1669786459240
+Asset Id: 489 RFQ Id: 121 Account num: 309
+    ✓ should create bid #14 (2412ms, 1306265 gas)
+Start: 1669786459386
+End: 1669786459507
+Asset Id: 490 Account num: 310
+    ✓ should create asset #15 (121ms, 461988 gas)
+Start: 1669786459647
+End: 1669786462071
+Asset Id: 490 RFQ Id: 121 Account num: 310
+    ✓ should create bid #15 (2424ms, 1306265 gas)
+Start: 1669786462212
+End: 1669786462332
+Asset Id: 491 Account num: 311
+    ✓ should create asset #16 (120ms, 461988 gas)
+Start: 1669786462478
+End: 1669786464902
+Asset Id: 491 RFQ Id: 121 Account num: 311
+    ✓ should create bid #16 (2424ms, 1306265 gas)
+Start: 1669786465039
+End: 1669786465162
+Asset Id: 492 Account num: 312
+    ✓ should create asset #17 (123ms, 461988 gas)
+Start: 1669786465301
+End: 1669786467594
+Asset Id: 492 RFQ Id: 121 Account num: 312
+    ✓ should create bid #17 (2294ms, 1306265 gas)
+Start: 1669786467740
+End: 1669786467859
+Asset Id: 493 Account num: 313
+    ✓ should create asset #18 (119ms, 461988 gas)
+Start: 1669786467998
+End: 1669786470333
+Asset Id: 493 RFQ Id: 121 Account num: 313
+    ✓ should create bid #18 (2336ms, 1306265 gas)
+Start: 1669786470475
+End: 1669786470597
+Asset Id: 494 Account num: 314
+    ✓ should create asset #19 (122ms, 461988 gas)
+Start: 1669786470740
+End: 1669786473042
+Asset Id: 494 RFQ Id: 121 Account num: 314
+    ✓ should create bid #19 (2302ms, 1306265 gas)
+Start: 1669786473182
+End: 1669786473302
+Asset Id: 495 Account num: 315
+    ✓ should create asset #20 (120ms, 461988 gas)
+Start: 1669786473442
+End: 1669786475859
+Asset Id: 495 RFQ Id: 121 Account num: 315
+    ✓ should create bid #20 (2417ms, 1306265 gas)
+Start: 1669786476001
+End: 1669786476124
+Asset Id: 496 Account num: 316
+    ✓ should create asset #21 (123ms, 461988 gas)
+Start: 1669786476261
+End: 1669786478605
+Asset Id: 496 RFQ Id: 121 Account num: 316
+    ✓ should create bid #21 (2344ms, 1306265 gas)
+Start: 1669786478743
+End: 1669786478861
+Asset Id: 497 Account num: 317
+    ✓ should create asset #22 (118ms, 461988 gas)
+Start: 1669786479002
+End: 1669786481405
+Asset Id: 497 RFQ Id: 121 Account num: 317
+    ✓ should create bid #22 (2403ms, 1306265 gas)
+Start: 1669786481546
+End: 1669786481664
+Asset Id: 498 Account num: 318
+    ✓ should create asset #23 (118ms, 461988 gas)
+Start: 1669786481807
+End: 1669786484152
+Asset Id: 498 RFQ Id: 121 Account num: 318
+    ✓ should create bid #23 (2345ms, 1306265 gas)
+Start: 1669786484288
+End: 1669786484409
+Asset Id: 499 Account num: 319
+    ✓ should create asset #24 (121ms, 461988 gas)
+Start: 1669786484556
+End: 1669786487034
+Asset Id: 499 RFQ Id: 121 Account num: 319
+    ✓ should create bid #24 (2479ms, 1306265 gas)
+Start: 1669786487188
+End: 1669786487335
+Asset Id: 500 Account num: 320
+    ✓ should create asset #25 (147ms, 461988 gas)
+Start: 1669786487474
+End: 1669786489741
+Asset Id: 500 RFQ Id: 121 Account num: 320
+    ✓ should create bid #25 (2267ms, 1306265 gas)
+Start: 1669786489883
+End: 1669786491222
+RFQ Id: 121 Asset Id: 500 Account num: 0x5D607F82050882801eFa9461293c4C15063A9D04
+    ✓ should activate accept #12 (1340ms, 226180 gas)
+Start: 1669786491364
+End: 1669786491497
+RFQ Id: 121 Account num: 0x49b57b998b20058e6FC73d9229e56d1Aa1504b96
+    ✓ should create rfq #13 (134ms, 109075 gas)
+Start: 1669786491637
+End: 1669786491761
+Asset Id: 501 Account num: 321
+    ✓ should create asset #1 (124ms, 461988 gas)
+Start: 1669786491902
+End: 1669786494263
+Asset Id: 501 RFQ Id: 121 Account num: 321
+    ✓ should create bid #1 (2361ms, 1323365 gas)
+Start: 1669786494405
+End: 1669786494527
+Asset Id: 502 Account num: 322
+    ✓ should create asset #2 (122ms, 461988 gas)
+Start: 1669786494669
+End: 1669786497095
+Asset Id: 502 RFQ Id: 121 Account num: 322
+    ✓ should create bid #2 (2427ms, 1306265 gas)
+Start: 1669786497240
+End: 1669786497361
+Asset Id: 503 Account num: 323
+    ✓ should create asset #3 (121ms, 461988 gas)
+Start: 1669786497509
+End: 1669786499910
+Asset Id: 503 RFQ Id: 121 Account num: 323
+    ✓ should create bid #3 (2401ms, 1306265 gas)
+Start: 1669786500046
+End: 1669786500166
+Asset Id: 504 Account num: 324
+    ✓ should create asset #4 (120ms, 461988 gas)
+Start: 1669786500309
+End: 1669786502757
+Asset Id: 504 RFQ Id: 121 Account num: 324
+    ✓ should create bid #4 (2448ms, 1306265 gas)
+Start: 1669786502898
+End: 1669786503023
+Asset Id: 505 Account num: 325
+    ✓ should create asset #5 (125ms, 461988 gas)
+Start: 1669786503167
+End: 1669786505569
+Asset Id: 505 RFQ Id: 121 Account num: 325
+    ✓ should create bid #5 (2402ms, 1306265 gas)
+Start: 1669786505707
+End: 1669786505826
+Asset Id: 506 Account num: 326
+    ✓ should create asset #6 (119ms, 461988 gas)
+Start: 1669786505964
+End: 1669786508350
+Asset Id: 506 RFQ Id: 121 Account num: 326
+    ✓ should create bid #6 (2386ms, 1306265 gas)
+Start: 1669786508495
+End: 1669786508621
+Asset Id: 507 Account num: 327
+    ✓ should create asset #7 (126ms, 461988 gas)
+Start: 1669786508763
+End: 1669786511183
+Asset Id: 507 RFQ Id: 121 Account num: 327
+    ✓ should create bid #7 (2420ms, 1306265 gas)
+Start: 1669786511324
+End: 1669786511446
+Asset Id: 508 Account num: 328
+    ✓ should create asset #8 (122ms, 461988 gas)
+Start: 1669786511602
+End: 1669786514049
+Asset Id: 508 RFQ Id: 121 Account num: 328
+    ✓ should create bid #8 (2447ms, 1306265 gas)
+Start: 1669786514190
+End: 1669786514316
+Asset Id: 509 Account num: 329
+    ✓ should create asset #9 (126ms, 461988 gas)
+Start: 1669786514455
+End: 1669786516723
+Asset Id: 509 RFQ Id: 121 Account num: 329
+    ✓ should create bid #9 (2268ms, 1306265 gas)
+Start: 1669786516868
+End: 1669786516990
+Asset Id: 510 Account num: 330
+    ✓ should create asset #10 (122ms, 461988 gas)
+Start: 1669786517133
+End: 1669786519424
+Asset Id: 510 RFQ Id: 121 Account num: 330
+    ✓ should create bid #10 (2291ms, 1306265 gas)
+Start: 1669786519564
+End: 1669786519681
+Asset Id: 511 Account num: 331
+    ✓ should create asset #11 (117ms, 461988 gas)
+Start: 1669786519822
+End: 1669786522120
+Asset Id: 511 RFQ Id: 121 Account num: 331
+    ✓ should create bid #11 (2298ms, 1306265 gas)
+Start: 1669786522263
+End: 1669786522383
+Asset Id: 512 Account num: 332
+    ✓ should create asset #12 (120ms, 461976 gas)
+Start: 1669786522525
+End: 1669786524854
+Asset Id: 512 RFQ Id: 121 Account num: 332
+    ✓ should create bid #12 (2329ms, 1306253 gas)
+Start: 1669786524996
+End: 1669786525118
+Asset Id: 513 Account num: 333
+    ✓ should create asset #13 (122ms, 461988 gas)
+Start: 1669786525259
+End: 1669786527617
+Asset Id: 513 RFQ Id: 121 Account num: 333
+    ✓ should create bid #13 (2358ms, 1306265 gas)
+Start: 1669786527756
+End: 1669786527877
+Asset Id: 514 Account num: 334
+    ✓ should create asset #14 (121ms, 461988 gas)
+Start: 1669786528017
+End: 1669786530484
+Asset Id: 514 RFQ Id: 121 Account num: 334
+    ✓ should create bid #14 (2467ms, 1306265 gas)
+Start: 1669786530630
+End: 1669786530748
+Asset Id: 515 Account num: 335
+    ✓ should create asset #15 (118ms, 461988 gas)
+Start: 1669786530889
+End: 1669786533280
+Asset Id: 515 RFQ Id: 121 Account num: 335
+    ✓ should create bid #15 (2391ms, 1306265 gas)
+Start: 1669786533424
+End: 1669786533548
+Asset Id: 516 Account num: 336
+    ✓ should create asset #16 (124ms, 461988 gas)
+Start: 1669786533694
+End: 1669786536352
+Asset Id: 516 RFQ Id: 121 Account num: 336
+    ✓ should create bid #16 (2658ms, 1306265 gas)
+Start: 1669786536493
+End: 1669786536632
+Asset Id: 517 Account num: 337
+    ✓ should create asset #17 (139ms, 461988 gas)
+Start: 1669786536777
+End: 1669786539253
+Asset Id: 517 RFQ Id: 121 Account num: 337
+    ✓ should create bid #17 (2476ms, 1306265 gas)
+Start: 1669786539405
+End: 1669786539529
+Asset Id: 518 Account num: 338
+    ✓ should create asset #18 (124ms, 461988 gas)
+Start: 1669786539672
+End: 1669786542158
+Asset Id: 518 RFQ Id: 121 Account num: 338
+    ✓ should create bid #18 (2486ms, 1306265 gas)
+Start: 1669786542300
+End: 1669786542420
+Asset Id: 519 Account num: 339
+    ✓ should create asset #19 (120ms, 461988 gas)
+Start: 1669786542576
+End: 1669786545127
+Asset Id: 519 RFQ Id: 121 Account num: 339
+    ✓ should create bid #19 (2551ms, 1306265 gas)
+Start: 1669786545296
+End: 1669786545430
+Asset Id: 520 Account num: 340
+    ✓ should create asset #20 (134ms, 461988 gas)
+Start: 1669786545578
+End: 1669786548235
+Asset Id: 520 RFQ Id: 121 Account num: 340
+    ✓ should create bid #20 (2657ms, 1306265 gas)
+Start: 1669786548384
+End: 1669786548511
+Asset Id: 521 Account num: 341
+    ✓ should create asset #21 (127ms, 461988 gas)
+Start: 1669786548683
+End: 1669786551189
+Asset Id: 521 RFQ Id: 121 Account num: 341
+    ✓ should create bid #21 (2506ms, 1306265 gas)
+Start: 1669786551329
+End: 1669786551456
+Asset Id: 522 Account num: 342
+    ✓ should create asset #22 (127ms, 461988 gas)
+Start: 1669786551596
+End: 1669786554270
+Asset Id: 522 RFQ Id: 121 Account num: 342
+    ✓ should create bid #22 (2674ms, 1306265 gas)
+Start: 1669786554423
+End: 1669786554557
+Asset Id: 523 Account num: 343
+    ✓ should create asset #23 (134ms, 461988 gas)
+Start: 1669786554729
+End: 1669786557395
+Asset Id: 523 RFQ Id: 121 Account num: 343
+    ✓ should create bid #23 (2667ms, 1306265 gas)
+Start: 1669786557543
+End: 1669786557677
+Asset Id: 524 Account num: 344
+    ✓ should create asset #24 (134ms, 461988 gas)
+Start: 1669786557827
+End: 1669786560529
+Asset Id: 524 RFQ Id: 121 Account num: 344
+    ✓ should create bid #24 (2702ms, 1306265 gas)
+Start: 1669786560669
+End: 1669786560798
+Asset Id: 525 Account num: 345
+    ✓ should create asset #25 (129ms, 461988 gas)
+Start: 1669786560943
+End: 1669786563589
+Asset Id: 525 RFQ Id: 121 Account num: 345
+    ✓ should create bid #25 (2646ms, 1306265 gas)
+Start: 1669786563736
+End: 1669786565219
+RFQ Id: 121 Asset Id: 525 Account num: 0x49b57b998b20058e6FC73d9229e56d1Aa1504b96
+    ✓ should activate accept #13 (1483ms, 226180 gas)
+Start: 1669786565373
+End: 1669786565520
+RFQ Id: 121 Account num: 0x49F9421415598457C262b617B93857237a83e7e5
+    ✓ should create rfq #14 (147ms, 109075 gas)
+Start: 1669786565668
+End: 1669786565806
+Asset Id: 526 Account num: 346
+    ✓ should create asset #1 (138ms, 461988 gas)
+Start: 1669786565962
+End: 1669786568363
+Asset Id: 526 RFQ Id: 121 Account num: 346
+    ✓ should create bid #1 (2401ms, 1323365 gas)
+Start: 1669786568507
+End: 1669786568635
+Asset Id: 527 Account num: 347
+    ✓ should create asset #2 (128ms, 461988 gas)
+Start: 1669786568776
+End: 1669786571173
+Asset Id: 527 RFQ Id: 121 Account num: 347
+    ✓ should create bid #2 (2397ms, 1306265 gas)
+Start: 1669786571315
+End: 1669786571437
+Asset Id: 528 Account num: 348
+    ✓ should create asset #3 (122ms, 461988 gas)
+Start: 1669786571587
+End: 1669786573977
+Asset Id: 528 RFQ Id: 121 Account num: 348
+    ✓ should create bid #3 (2390ms, 1306265 gas)
+Start: 1669786574113
+End: 1669786574230
+Asset Id: 529 Account num: 349
+    ✓ should create asset #4 (117ms, 461988 gas)
+Start: 1669786574375
+End: 1669786576768
+Asset Id: 529 RFQ Id: 121 Account num: 349
+    ✓ should create bid #4 (2394ms, 1306265 gas)
+Start: 1669786576911
+End: 1669786577037
+Asset Id: 530 Account num: 350
+    ✓ should create asset #5 (126ms, 461988 gas)
+Start: 1669786577194
+End: 1669786579685
+Asset Id: 530 RFQ Id: 121 Account num: 350
+    ✓ should create bid #5 (2491ms, 1306265 gas)
+Start: 1669786579829
+End: 1669786579950
+Asset Id: 531 Account num: 351
+    ✓ should create asset #6 (121ms, 461988 gas)
+Start: 1669786580096
+End: 1669786582837
+Asset Id: 531 RFQ Id: 121 Account num: 351
+    ✓ should create bid #6 (2741ms, 1306265 gas)
+Start: 1669786582982
+End: 1669786583112
+Asset Id: 532 Account num: 352
+    ✓ should create asset #7 (130ms, 461988 gas)
+Start: 1669786583250
+End: 1669786585998
+Asset Id: 532 RFQ Id: 121 Account num: 352
+    ✓ should create bid #7 (2748ms, 1306265 gas)
+Start: 1669786586138
+End: 1669786586269
+Asset Id: 533 Account num: 353
+    ✓ should create asset #8 (131ms, 461988 gas)
+Start: 1669786586414
+End: 1669786588843
+Asset Id: 533 RFQ Id: 121 Account num: 353
+    ✓ should create bid #8 (2429ms, 1306265 gas)
+Start: 1669786588986
+End: 1669786589120
+Asset Id: 534 Account num: 354
+    ✓ should create asset #9 (135ms, 461988 gas)
+Start: 1669786589268
+End: 1669786591758
+Asset Id: 534 RFQ Id: 121 Account num: 354
+    ✓ should create bid #9 (2490ms, 1306265 gas)
+Start: 1669786591908
+End: 1669786592046
+Asset Id: 535 Account num: 355
+    ✓ should create asset #10 (138ms, 461988 gas)
+Start: 1669786592188
+End: 1669786594613
+Asset Id: 535 RFQ Id: 121 Account num: 355
+    ✓ should create bid #10 (2425ms, 1306265 gas)
+Start: 1669786594754
+End: 1669786594872
+Asset Id: 536 Account num: 356
+    ✓ should create asset #11 (118ms, 461988 gas)
+Start: 1669786595017
+End: 1669786597384
+Asset Id: 536 RFQ Id: 121 Account num: 356
+    ✓ should create bid #11 (2367ms, 1306265 gas)
+Start: 1669786597527
+End: 1669786597651
+Asset Id: 537 Account num: 357
+    ✓ should create asset #12 (124ms, 461988 gas)
+Start: 1669786597794
+End: 1669786600087
+Asset Id: 537 RFQ Id: 121 Account num: 357
+    ✓ should create bid #12 (2294ms, 1306265 gas)
+Start: 1669786600229
+End: 1669786600350
+Asset Id: 538 Account num: 358
+    ✓ should create asset #13 (121ms, 461988 gas)
+Start: 1669786600487
+End: 1669786602822
+Asset Id: 538 RFQ Id: 121 Account num: 358
+    ✓ should create bid #13 (2335ms, 1306265 gas)
+Start: 1669786602961
+End: 1669786603081
+Asset Id: 539 Account num: 359
+    ✓ should create asset #14 (120ms, 461988 gas)
+Start: 1669786603227
+End: 1669786605621
+Asset Id: 539 RFQ Id: 121 Account num: 359
+    ✓ should create bid #14 (2395ms, 1306265 gas)
+Start: 1669786605763
+End: 1669786605880
+Asset Id: 540 Account num: 360
+    ✓ should create asset #15 (117ms, 461988 gas)
+Start: 1669786606019
+End: 1669786608343
+Asset Id: 540 RFQ Id: 121 Account num: 360
+    ✓ should create bid #15 (2324ms, 1306265 gas)
+Start: 1669786608480
+End: 1669786608598
+Asset Id: 541 Account num: 361
+    ✓ should create asset #16 (118ms, 461988 gas)
+Start: 1669786608737
+End: 1669786611126
+Asset Id: 541 RFQ Id: 121 Account num: 361
+    ✓ should create bid #16 (2389ms, 1306265 gas)
+Start: 1669786611271
+End: 1669786611394
+Asset Id: 542 Account num: 362
+    ✓ should create asset #17 (123ms, 461988 gas)
+Start: 1669786611537
+End: 1669786613917
+Asset Id: 542 RFQ Id: 121 Account num: 362
+    ✓ should create bid #17 (2380ms, 1306265 gas)
+Start: 1669786614064
+End: 1669786614190
+Asset Id: 543 Account num: 363
+    ✓ should create asset #18 (126ms, 461988 gas)
+Start: 1669786614345
+End: 1669786616680
+Asset Id: 543 RFQ Id: 121 Account num: 363
+    ✓ should create bid #18 (2335ms, 1306265 gas)
+Start: 1669786616827
+End: 1669786616948
+Asset Id: 544 Account num: 364
+    ✓ should create asset #19 (121ms, 461988 gas)
+Start: 1669786617104
+End: 1669786619521
+Asset Id: 544 RFQ Id: 121 Account num: 364
+    ✓ should create bid #19 (2417ms, 1306265 gas)
+Start: 1669786619661
+End: 1669786619782
+Asset Id: 545 Account num: 365
+    ✓ should create asset #20 (121ms, 461988 gas)
+Start: 1669786619928
+End: 1669786622377
+Asset Id: 545 RFQ Id: 121 Account num: 365
+    ✓ should create bid #20 (2449ms, 1306265 gas)
+Start: 1669786622525
+End: 1669786622653
+Asset Id: 546 Account num: 366
+    ✓ should create asset #21 (128ms, 461988 gas)
+Start: 1669786622793
+End: 1669786625232
+Asset Id: 546 RFQ Id: 121 Account num: 366
+    ✓ should create bid #21 (2439ms, 1306265 gas)
+Start: 1669786625373
+End: 1669786625496
+Asset Id: 547 Account num: 367
+    ✓ should create asset #22 (123ms, 461988 gas)
+Start: 1669786625636
+End: 1669786628082
+Asset Id: 547 RFQ Id: 121 Account num: 367
+    ✓ should create bid #22 (2446ms, 1306265 gas)
+Start: 1669786628223
+End: 1669786628345
+Asset Id: 548 Account num: 368
+    ✓ should create asset #23 (122ms, 461988 gas)
+Start: 1669786628486
+End: 1669786630975
+Asset Id: 548 RFQ Id: 121 Account num: 368
+    ✓ should create bid #23 (2489ms, 1306265 gas)
+Start: 1669786631118
+End: 1669786631247
+Asset Id: 549 Account num: 369
+    ✓ should create asset #24 (129ms, 461988 gas)
+Start: 1669786631385
+End: 1669786633860
+Asset Id: 549 RFQ Id: 121 Account num: 369
+    ✓ should create bid #24 (2475ms, 1306265 gas)
+Start: 1669786634008
+End: 1669786634129
+Asset Id: 550 Account num: 370
+    ✓ should create asset #25 (121ms, 461988 gas)
+Start: 1669786634271
+End: 1669786636707
+Asset Id: 550 RFQ Id: 121 Account num: 370
+    ✓ should create bid #25 (2436ms, 1306265 gas)
+Start: 1669786636849
+End: 1669786638232
+RFQ Id: 121 Asset Id: 550 Account num: 0x49F9421415598457C262b617B93857237a83e7e5
+    ✓ should activate accept #14 (1383ms, 226180 gas)
+Start: 1669786638376
+End: 1669786638527
+RFQ Id: 121 Account num: 0xD51e969E13a88d87A6fe6003b042A19014fB6922
+    ✓ should create rfq #15 (151ms, 109075 gas)
+Start: 1669786638671
+End: 1669786638794
+Asset Id: 551 Account num: 371
+    ✓ should create asset #1 (123ms, 461988 gas)
+Start: 1669786638934
+End: 1669786641410
+Asset Id: 551 RFQ Id: 121 Account num: 371
+    ✓ should create bid #1 (2476ms, 1323365 gas)
+Start: 1669786641557
+End: 1669786641681
+Asset Id: 552 Account num: 372
+    ✓ should create asset #2 (125ms, 461988 gas)
+Start: 1669786641826
+End: 1669786644306
+Asset Id: 552 RFQ Id: 121 Account num: 372
+    ✓ should create bid #2 (2480ms, 1306265 gas)
+Start: 1669786644447
+End: 1669786644573
+Asset Id: 553 Account num: 373
+    ✓ should create asset #3 (126ms, 461988 gas)
+Start: 1669786644718
+End: 1669786647124
+Asset Id: 553 RFQ Id: 121 Account num: 373
+    ✓ should create bid #3 (2406ms, 1306265 gas)
+Start: 1669786647266
+End: 1669786647394
+Asset Id: 554 Account num: 374
+    ✓ should create asset #4 (129ms, 461988 gas)
+Start: 1669786647537
+End: 1669786650244
+Asset Id: 554 RFQ Id: 121 Account num: 374
+    ✓ should create bid #4 (2707ms, 1306265 gas)
+Start: 1669786650385
+End: 1669786650513
+Asset Id: 555 Account num: 375
+    ✓ should create asset #5 (128ms, 461988 gas)
+Start: 1669786650653
+End: 1669786653461
+Asset Id: 555 RFQ Id: 121 Account num: 375
+    ✓ should create bid #5 (2808ms, 1306265 gas)
+Start: 1669786653611
+End: 1669786653746
+Asset Id: 556 Account num: 376
+    ✓ should create asset #6 (135ms, 461988 gas)
+Start: 1669786653883
+End: 1669786656499
+Asset Id: 556 RFQ Id: 121 Account num: 376
+    ✓ should create bid #6 (2616ms, 1306265 gas)
+Start: 1669786656641
+End: 1669786656772
+Asset Id: 557 Account num: 377
+    ✓ should create asset #7 (132ms, 461988 gas)
+Start: 1669786656911
+End: 1669786659422
+Asset Id: 557 RFQ Id: 121 Account num: 377
+    ✓ should create bid #7 (2511ms, 1306265 gas)
+Start: 1669786659563
+End: 1669786659683
+Asset Id: 558 Account num: 378
+    ✓ should create asset #8 (121ms, 461988 gas)
+Start: 1669786659826
+End: 1669786662118
+Asset Id: 558 RFQ Id: 121 Account num: 378
+    ✓ should create bid #8 (2292ms, 1306265 gas)
+Start: 1669786662257
+End: 1669786662376
+Asset Id: 559 Account num: 379
+    ✓ should create asset #9 (119ms, 461988 gas)
+Start: 1669786662526
+End: 1669786664814
+Asset Id: 559 RFQ Id: 121 Account num: 379
+    ✓ should create bid #9 (2288ms, 1306265 gas)
+Start: 1669786664957
+End: 1669786665086
+Asset Id: 560 Account num: 380
+    ✓ should create asset #10 (129ms, 461988 gas)
+Start: 1669786665225
+End: 1669786667682
+Asset Id: 560 RFQ Id: 121 Account num: 380
+    ✓ should create bid #10 (2457ms, 1306265 gas)
+Start: 1669786667824
+End: 1669786667955
+Asset Id: 561 Account num: 381
+    ✓ should create asset #11 (131ms, 461988 gas)
+Start: 1669786668091
+End: 1669786670633
+Asset Id: 561 RFQ Id: 121 Account num: 381
+    ✓ should create bid #11 (2542ms, 1306265 gas)
+Start: 1669786670773
+End: 1669786670900
+Asset Id: 562 Account num: 382
+    ✓ should create asset #12 (127ms, 461988 gas)
+Start: 1669786671037
+End: 1669786673650
+Asset Id: 562 RFQ Id: 121 Account num: 382
+    ✓ should create bid #12 (2613ms, 1306265 gas)
+Start: 1669786673787
+End: 1669786673924
+Asset Id: 563 Account num: 383
+    ✓ should create asset #13 (137ms, 461988 gas)
+Start: 1669786674079
+End: 1669786676423
+Asset Id: 563 RFQ Id: 121 Account num: 383
+    ✓ should create bid #13 (2344ms, 1306265 gas)
+Start: 1669786676567
+End: 1669786676689
+Asset Id: 564 Account num: 384
+    ✓ should create asset #14 (122ms, 461988 gas)
+Start: 1669786676829
+End: 1669786679214
+Asset Id: 564 RFQ Id: 121 Account num: 384
+    ✓ should create bid #14 (2385ms, 1306265 gas)
+Start: 1669786679358
+End: 1669786679476
+Asset Id: 565 Account num: 385
+    ✓ should create asset #15 (118ms, 461988 gas)
+Start: 1669786679630
+End: 1669786682036
+Asset Id: 565 RFQ Id: 121 Account num: 385
+    ✓ should create bid #15 (2406ms, 1306265 gas)
+Start: 1669786682178
+End: 1669786682301
+Asset Id: 566 Account num: 386
+    ✓ should create asset #16 (123ms, 461988 gas)
+Start: 1669786682444
+End: 1669786684942
+Asset Id: 566 RFQ Id: 121 Account num: 386
+    ✓ should create bid #16 (2498ms, 1306265 gas)
+Start: 1669786685085
+End: 1669786685207
+Asset Id: 567 Account num: 387
+    ✓ should create asset #17 (123ms, 461988 gas)
+Start: 1669786685356
+End: 1669786687782
+Asset Id: 567 RFQ Id: 121 Account num: 387
+    ✓ should create bid #17 (2426ms, 1306265 gas)
+Start: 1669786687932
+End: 1669786688059
+Asset Id: 568 Account num: 388
+    ✓ should create asset #18 (127ms, 461988 gas)
+Start: 1669786688202
+End: 1669786690587
+Asset Id: 568 RFQ Id: 121 Account num: 388
+    ✓ should create bid #18 (2386ms, 1306265 gas)
+Start: 1669786690737
+End: 1669786690861
+Asset Id: 569 Account num: 389
+    ✓ should create asset #19 (124ms, 461988 gas)
+Start: 1669786691013
+End: 1669786693459
+Asset Id: 569 RFQ Id: 121 Account num: 389
+    ✓ should create bid #19 (2446ms, 1306265 gas)
+Start: 1669786693604
+End: 1669786693725
+Asset Id: 570 Account num: 390
+    ✓ should create asset #20 (121ms, 461988 gas)
+Start: 1669786693864
+End: 1669786696298
+Asset Id: 570 RFQ Id: 121 Account num: 390
+    ✓ should create bid #20 (2434ms, 1306265 gas)
+Start: 1669786696446
+End: 1669786696571
+Asset Id: 571 Account num: 391
+    ✓ should create asset #21 (125ms, 461988 gas)
+Start: 1669786696712
+End: 1669786699098
+Asset Id: 571 RFQ Id: 121 Account num: 391
+    ✓ should create bid #21 (2386ms, 1306265 gas)
+Start: 1669786699259
+End: 1669786699381
+Asset Id: 572 Account num: 392
+    ✓ should create asset #22 (122ms, 461988 gas)
+Start: 1669786699524
+End: 1669786702009
+Asset Id: 572 RFQ Id: 121 Account num: 392
+    ✓ should create bid #22 (2485ms, 1306265 gas)
+Start: 1669786702152
+End: 1669786702274
+Asset Id: 573 Account num: 393
+    ✓ should create asset #23 (122ms, 461988 gas)
+Start: 1669786702415
+End: 1669786704888
+Asset Id: 573 RFQ Id: 121 Account num: 393
+    ✓ should create bid #23 (2473ms, 1306265 gas)
+Start: 1669786705041
+End: 1669786705174
+Asset Id: 574 Account num: 394
+    ✓ should create asset #24 (133ms, 461988 gas)
+Start: 1669786705332
+End: 1669786708086
+Asset Id: 574 RFQ Id: 121 Account num: 394
+    ✓ should create bid #24 (2754ms, 1306265 gas)
+Start: 1669786708230
+End: 1669786708361
+Asset Id: 575 Account num: 395
+    ✓ should create asset #25 (131ms, 461988 gas)
+Start: 1669786708502
+End: 1669786711060
+Asset Id: 575 RFQ Id: 121 Account num: 395
+    ✓ should create bid #25 (2558ms, 1306265 gas)
+Start: 1669786711204
+End: 1669786712665
+RFQ Id: 121 Asset Id: 575 Account num: 0xD51e969E13a88d87A6fe6003b042A19014fB6922
+    ✓ should activate accept #15 (1462ms, 226180 gas)
+Start: 1669786712814
+End: 1669786712959
+RFQ Id: 121 Account num: 0xddfe32320073c8B32BDFa6F1BFa56d297cEe4084
+    ✓ should create rfq #16 (145ms, 109075 gas)
+Start: 1669786713104
+End: 1669786713239
+Asset Id: 576 Account num: 396
+    ✓ should create asset #1 (135ms, 461988 gas)
+Start: 1669786713383
+End: 1669786715894
+Asset Id: 576 RFQ Id: 121 Account num: 396
+    ✓ should create bid #1 (2512ms, 1323365 gas)
+Start: 1669786716036
+End: 1669786716162
+Asset Id: 577 Account num: 397
+    ✓ should create asset #2 (126ms, 461988 gas)
+Start: 1669786716307
+End: 1669786718750
+Asset Id: 577 RFQ Id: 121 Account num: 397
+    ✓ should create bid #2 (2444ms, 1306265 gas)
+Start: 1669786718894
+End: 1669786719017
+Asset Id: 578 Account num: 398
+    ✓ should create asset #3 (124ms, 461988 gas)
+Start: 1669786719156
+End: 1669786721451
+Asset Id: 578 RFQ Id: 121 Account num: 398
+    ✓ should create bid #3 (2295ms, 1306265 gas)
+Start: 1669786721595
+End: 1669786721710
+Asset Id: 579 Account num: 399
+    ✓ should create asset #4 (115ms, 461988 gas)
+Start: 1669786721848
+End: 1669786724055
+Asset Id: 579 RFQ Id: 121 Account num: 399
+    ✓ should create bid #4 (2207ms, 1306265 gas)
+Start: 1669786724197
+End: 1669786724316
+Asset Id: 580 Account num: 400
+    ✓ should create asset #5 (119ms, 461988 gas)
+Start: 1669786724462
+End: 1669786726655
+Asset Id: 580 RFQ Id: 121 Account num: 400
+    ✓ should create bid #5 (2193ms, 1306265 gas)
+Start: 1669786726815
+End: 1669786726932
+Asset Id: 581 Account num: 401
+    ✓ should create asset #6 (117ms, 461988 gas)
+Start: 1669786727076
+End: 1669786729335
+Asset Id: 581 RFQ Id: 121 Account num: 401
+    ✓ should create bid #6 (2259ms, 1306265 gas)
+Start: 1669786729479
+End: 1669786729599
+Asset Id: 582 Account num: 402
+    ✓ should create asset #7 (120ms, 461988 gas)
+Start: 1669786729738
+End: 1669786732014
+Asset Id: 582 RFQ Id: 121 Account num: 402
+    ✓ should create bid #7 (2276ms, 1306265 gas)
+Start: 1669786732164
+End: 1669786732282
+Asset Id: 583 Account num: 403
+    ✓ should create asset #8 (118ms, 461988 gas)
+Start: 1669786732424
+End: 1669786734845
+Asset Id: 583 RFQ Id: 121 Account num: 403
+    ✓ should create bid #8 (2421ms, 1306265 gas)
+Start: 1669786734986
+End: 1669786735111
+Asset Id: 584 Account num: 404
+    ✓ should create asset #9 (125ms, 461988 gas)
+Start: 1669786735260
+End: 1669786737717
+Asset Id: 584 RFQ Id: 121 Account num: 404
+    ✓ should create bid #9 (2457ms, 1306265 gas)
+Start: 1669786737860
+End: 1669786737981
+Asset Id: 585 Account num: 405
+    ✓ should create asset #10 (121ms, 461988 gas)
+Start: 1669786738126
+End: 1669786740553
+Asset Id: 585 RFQ Id: 121 Account num: 405
+    ✓ should create bid #10 (2427ms, 1306265 gas)
+Start: 1669786740693
+End: 1669786740830
+Asset Id: 586 Account num: 406
+    ✓ should create asset #11 (137ms, 461988 gas)
+Start: 1669786740974
+End: 1669786743648
+Asset Id: 586 RFQ Id: 121 Account num: 406
+    ✓ should create bid #11 (2674ms, 1306265 gas)
+Start: 1669786743792
+End: 1669786743921
+Asset Id: 587 Account num: 407
+    ✓ should create asset #12 (129ms, 461988 gas)
+Start: 1669786744064
+End: 1669786746834
+Asset Id: 587 RFQ Id: 121 Account num: 407
+    ✓ should create bid #12 (2770ms, 1306265 gas)
+Start: 1669786746975
+End: 1669786747100
+Asset Id: 588 Account num: 408
+    ✓ should create asset #13 (125ms, 461988 gas)
+Start: 1669786747239
+End: 1669786749792
+Asset Id: 588 RFQ Id: 121 Account num: 408
+    ✓ should create bid #13 (2553ms, 1306265 gas)
+Start: 1669786749935
+End: 1669786750061
+Asset Id: 589 Account num: 409
+    ✓ should create asset #14 (126ms, 461988 gas)
+Start: 1669786750204
+End: 1669786752702
+Asset Id: 589 RFQ Id: 121 Account num: 409
+    ✓ should create bid #14 (2498ms, 1306265 gas)
+Start: 1669786752856
+End: 1669786752977
+Asset Id: 590 Account num: 410
+    ✓ should create asset #15 (121ms, 461988 gas)
+Start: 1669786753136
+End: 1669786755906
+Asset Id: 590 RFQ Id: 121 Account num: 410
+    ✓ should create bid #15 (2770ms, 1306265 gas)
+Start: 1669786756052
+End: 1669786756184
+Asset Id: 591 Account num: 411
+    ✓ should create asset #16 (132ms, 461988 gas)
+Start: 1669786756328
+End: 1669786758819
+Asset Id: 591 RFQ Id: 121 Account num: 411
+    ✓ should create bid #16 (2491ms, 1306265 gas)
+Start: 1669786758963
+End: 1669786759088
+Asset Id: 592 Account num: 412
+    ✓ should create asset #17 (125ms, 461988 gas)
+Start: 1669786759245
+End: 1669786761848
+Asset Id: 592 RFQ Id: 121 Account num: 412
+    ✓ should create bid #17 (2603ms, 1306265 gas)
+Start: 1669786761995
+End: 1669786762121
+Asset Id: 593 Account num: 413
+    ✓ should create asset #18 (126ms, 461988 gas)
+Start: 1669786762266
+End: 1669786764740
+Asset Id: 593 RFQ Id: 121 Account num: 413
+    ✓ should create bid #18 (2474ms, 1306265 gas)
+Start: 1669786764880
+End: 1669786765004
+Asset Id: 594 Account num: 414
+    ✓ should create asset #19 (124ms, 461988 gas)
+Start: 1669786765147
+End: 1669786767877
+Asset Id: 594 RFQ Id: 121 Account num: 414
+    ✓ should create bid #19 (2730ms, 1306265 gas)
+Start: 1669786768024
+End: 1669786768150
+Asset Id: 595 Account num: 415
+    ✓ should create asset #20 (126ms, 461988 gas)
+Start: 1669786768295
+End: 1669786770758
+Asset Id: 595 RFQ Id: 121 Account num: 415
+    ✓ should create bid #20 (2463ms, 1306265 gas)
+Start: 1669786770911
+End: 1669786771033
+Asset Id: 596 Account num: 416
+    ✓ should create asset #21 (122ms, 461988 gas)
+Start: 1669786771187
+End: 1669786773676
+Asset Id: 596 RFQ Id: 121 Account num: 416
+    ✓ should create bid #21 (2489ms, 1306265 gas)
+Start: 1669786773821
+End: 1669786773947
+Asset Id: 597 Account num: 417
+    ✓ should create asset #22 (127ms, 461988 gas)
+Start: 1669786774092
+End: 1669786776532
+Asset Id: 597 RFQ Id: 121 Account num: 417
+    ✓ should create bid #22 (2440ms, 1306265 gas)
+Start: 1669786776671
+End: 1669786776795
+Asset Id: 598 Account num: 418
+    ✓ should create asset #23 (124ms, 461988 gas)
+Start: 1669786776936
+End: 1669786779398
+Asset Id: 598 RFQ Id: 121 Account num: 418
+    ✓ should create bid #23 (2462ms, 1306265 gas)
+Start: 1669786779538
+End: 1669786779665
+Asset Id: 599 Account num: 419
+    ✓ should create asset #24 (127ms, 461988 gas)
+Start: 1669786779813
+End: 1669786782409
+Asset Id: 599 RFQ Id: 121 Account num: 419
+    ✓ should create bid #24 (2596ms, 1306265 gas)
+Start: 1669786782548
+End: 1669786782682
+Asset Id: 600 Account num: 420
+    ✓ should create asset #25 (135ms, 461988 gas)
+Start: 1669786782828
+End: 1669786785317
+Asset Id: 600 RFQ Id: 121 Account num: 420
+    ✓ should create bid #25 (2489ms, 1306265 gas)
+Start: 1669786785472
+End: 1669786786930
+RFQ Id: 121 Asset Id: 600 Account num: 0xddfe32320073c8B32BDFa6F1BFa56d297cEe4084
+    ✓ should activate accept #16 (1458ms, 226168 gas)
+Start: 1669786787069
+End: 1669786787212
+RFQ Id: 121 Account num: 0x0BFD751B0E540970E3Ed9172F7D68742cdF2c0af
+    ✓ should create rfq #17 (144ms, 109075 gas)
+Start: 1669786787354
+End: 1669786787481
+Asset Id: 601 Account num: 421
+    ✓ should create asset #1 (127ms, 461988 gas)
+Start: 1669786787633
+End: 1669786790126
+Asset Id: 601 RFQ Id: 121 Account num: 421
+    ✓ should create bid #1 (2493ms, 1323365 gas)
+Start: 1669786790275
+End: 1669786790395
+Asset Id: 602 Account num: 422
+    ✓ should create asset #2 (120ms, 461988 gas)
+Start: 1669786790543
+End: 1669786793106
+Asset Id: 602 RFQ Id: 121 Account num: 422
+    ✓ should create bid #2 (2563ms, 1306265 gas)
+Start: 1669786793256
+End: 1669786793384
+Asset Id: 603 Account num: 423
+    ✓ should create asset #3 (128ms, 461988 gas)
+Start: 1669786793525
+End: 1669786795841
+Asset Id: 603 RFQ Id: 121 Account num: 423
+    ✓ should create bid #3 (2316ms, 1306265 gas)
+Start: 1669786795986
+End: 1669786796105
+Asset Id: 604 Account num: 424
+    ✓ should create asset #4 (119ms, 461988 gas)
+Start: 1669786796247
+End: 1669786798429
+Asset Id: 604 RFQ Id: 121 Account num: 424
+    ✓ should create bid #4 (2182ms, 1306265 gas)
+Start: 1669786798575
+End: 1669786798696
+Asset Id: 605 Account num: 425
+    ✓ should create asset #5 (121ms, 461988 gas)
+Start: 1669786798836
+End: 1669786801128
+Asset Id: 605 RFQ Id: 121 Account num: 425
+    ✓ should create bid #5 (2293ms, 1306265 gas)
+Start: 1669786801284
+End: 1669786801403
+Asset Id: 606 Account num: 426
+    ✓ should create asset #6 (119ms, 461988 gas)
+Start: 1669786801554
+End: 1669786803815
+Asset Id: 606 RFQ Id: 121 Account num: 426
+    ✓ should create bid #6 (2261ms, 1306265 gas)
+Start: 1669786803955
+End: 1669786804073
+Asset Id: 607 Account num: 427
+    ✓ should create asset #7 (118ms, 461988 gas)
+Start: 1669786804216
+End: 1669786806534
+Asset Id: 607 RFQ Id: 121 Account num: 427
+    ✓ should create bid #7 (2318ms, 1306265 gas)
+Start: 1669786806678
+End: 1669786806801
+Asset Id: 608 Account num: 428
+    ✓ should create asset #8 (123ms, 461988 gas)
+Start: 1669786806947
+End: 1669786809273
+Asset Id: 608 RFQ Id: 121 Account num: 428
+    ✓ should create bid #8 (2326ms, 1306265 gas)
+Start: 1669786809422
+End: 1669786809540
+Asset Id: 609 Account num: 429
+    ✓ should create asset #9 (118ms, 461988 gas)
+Start: 1669786809682
+End: 1669786812044
+Asset Id: 609 RFQ Id: 121 Account num: 429
+    ✓ should create bid #9 (2362ms, 1306265 gas)
+Start: 1669786812190
+End: 1669786812319
+Asset Id: 610 Account num: 430
+    ✓ should create asset #10 (129ms, 461988 gas)
+Start: 1669786812470
+End: 1669786815014
+Asset Id: 610 RFQ Id: 121 Account num: 430
+    ✓ should create bid #10 (2544ms, 1306265 gas)
+Start: 1669786815153
+End: 1669786815277
+Asset Id: 611 Account num: 431
+    ✓ should create asset #11 (125ms, 461988 gas)
+Start: 1669786815416
+End: 1669786817898
+Asset Id: 611 RFQ Id: 121 Account num: 431
+    ✓ should create bid #11 (2482ms, 1306265 gas)
+Start: 1669786818046
+End: 1669786818166
+Asset Id: 612 Account num: 432
+    ✓ should create asset #12 (120ms, 461988 gas)
+Start: 1669786818317
+End: 1669786820807
+Asset Id: 612 RFQ Id: 121 Account num: 432
+    ✓ should create bid #12 (2490ms, 1306265 gas)
+Start: 1669786820949
+End: 1669786821081
+Asset Id: 613 Account num: 433
+    ✓ should create asset #13 (133ms, 461988 gas)
+Start: 1669786821229
+End: 1669786823778
+Asset Id: 613 RFQ Id: 121 Account num: 433
+    ✓ should create bid #13 (2549ms, 1306265 gas)
+Start: 1669786823923
+End: 1669786824048
+Asset Id: 614 Account num: 434
+    ✓ should create asset #14 (125ms, 461988 gas)
+Start: 1669786824194
+End: 1669786826644
+Asset Id: 614 RFQ Id: 121 Account num: 434
+    ✓ should create bid #14 (2450ms, 1306265 gas)
+Start: 1669786826786
+End: 1669786826907
+Asset Id: 615 Account num: 435
+    ✓ should create asset #15 (121ms, 461988 gas)
+Start: 1669786827051
+End: 1669786829446
+Asset Id: 615 RFQ Id: 121 Account num: 435
+    ✓ should create bid #15 (2395ms, 1306265 gas)
+Start: 1669786829591
+End: 1669786829708
+Asset Id: 616 Account num: 436
+    ✓ should create asset #16 (117ms, 461988 gas)
+Start: 1669786829851
+End: 1669786832217
+Asset Id: 616 RFQ Id: 121 Account num: 436
+    ✓ should create bid #16 (2366ms, 1306265 gas)
+Start: 1669786832367
+End: 1669786832493
+Asset Id: 617 Account num: 437
+    ✓ should create asset #17 (126ms, 461988 gas)
+Start: 1669786832649
+End: 1669786835289
+Asset Id: 617 RFQ Id: 121 Account num: 437
+    ✓ should create bid #17 (2640ms, 1306265 gas)
+Start: 1669786835443
+End: 1669786835568
+Asset Id: 618 Account num: 438
+    ✓ should create asset #18 (125ms, 461988 gas)
+Start: 1669786835714
+End: 1669786838429
+Asset Id: 618 RFQ Id: 121 Account num: 438
+    ✓ should create bid #18 (2715ms, 1306265 gas)
+Start: 1669786838572
+End: 1669786838703
+Asset Id: 619 Account num: 439
+    ✓ should create asset #19 (131ms, 461988 gas)
+Start: 1669786838844
+End: 1669786841396
+Asset Id: 619 RFQ Id: 121 Account num: 439
+    ✓ should create bid #19 (2552ms, 1306265 gas)
+Start: 1669786841540
+End: 1669786841667
+Asset Id: 620 Account num: 440
+    ✓ should create asset #20 (127ms, 461988 gas)
+Start: 1669786841810
+End: 1669786844306
+Asset Id: 620 RFQ Id: 121 Account num: 440
+    ✓ should create bid #20 (2496ms, 1306265 gas)
+Start: 1669786844453
+End: 1669786844577
+Asset Id: 621 Account num: 441
+    ✓ should create asset #21 (124ms, 461988 gas)
+Start: 1669786844721
+End: 1669786847221
+Asset Id: 621 RFQ Id: 121 Account num: 441
+    ✓ should create bid #21 (2500ms, 1306265 gas)
+Start: 1669786847362
+End: 1669786847484
+Asset Id: 622 Account num: 442
+    ✓ should create asset #22 (122ms, 461988 gas)
+Start: 1669786847628
+End: 1669786850171
+Asset Id: 622 RFQ Id: 121 Account num: 442
+    ✓ should create bid #22 (2543ms, 1306265 gas)
+Start: 1669786850316
+End: 1669786850439
+Asset Id: 623 Account num: 443
+    ✓ should create asset #23 (123ms, 461988 gas)
+Start: 1669786850594
+End: 1669786853073
+Asset Id: 623 RFQ Id: 121 Account num: 443
+    ✓ should create bid #23 (2479ms, 1306265 gas)
+Start: 1669786853221
+End: 1669786853347
+Asset Id: 624 Account num: 444
+    ✓ should create asset #24 (127ms, 461988 gas)
+Start: 1669786853488
+End: 1669786856042
+Asset Id: 624 RFQ Id: 121 Account num: 444
+    ✓ should create bid #24 (2554ms, 1306265 gas)
+Start: 1669786856186
+End: 1669786856312
+Asset Id: 625 Account num: 445
+    ✓ should create asset #25 (126ms, 461988 gas)
+Start: 1669786856458
+End: 1669786858909
+Asset Id: 625 RFQ Id: 121 Account num: 445
+    ✓ should create bid #25 (2451ms, 1306265 gas)
+Start: 1669786859053
+End: 1669786860502
+RFQ Id: 121 Asset Id: 625 Account num: 0x0BFD751B0E540970E3Ed9172F7D68742cdF2c0af
+    ✓ should activate accept #17 (1449ms, 226180 gas)
+Start: 1669786860648
+End: 1669786860783
+RFQ Id: 121 Account num: 0x16313bD9D3f3D4f9Ae13B6Ac1a7fcc54D91E400C
+    ✓ should create rfq #18 (135ms, 109075 gas)
+Start: 1669786860928
+End: 1669786861049
+Asset Id: 626 Account num: 446
+    ✓ should create asset #1 (121ms, 461988 gas)
+Start: 1669786861210
+End: 1669786863605
+Asset Id: 626 RFQ Id: 121 Account num: 446
+    ✓ should create bid #1 (2395ms, 1323365 gas)
+Start: 1669786863758
+End: 1669786863877
+Asset Id: 627 Account num: 447
+    ✓ should create asset #2 (119ms, 461988 gas)
+Start: 1669786864023
+End: 1669786866425
+Asset Id: 627 RFQ Id: 121 Account num: 447
+    ✓ should create bid #2 (2402ms, 1306265 gas)
+Start: 1669786866575
+End: 1669786866693
+Asset Id: 628 Account num: 448
+    ✓ should create asset #3 (118ms, 461988 gas)
+Start: 1669786866841
+End: 1669786869271
+Asset Id: 628 RFQ Id: 121 Account num: 448
+    ✓ should create bid #3 (2430ms, 1306265 gas)
+Start: 1669786869420
+End: 1669786869547
+Asset Id: 629 Account num: 449
+    ✓ should create asset #4 (127ms, 461988 gas)
+Start: 1669786869692
+End: 1669786872142
+Asset Id: 629 RFQ Id: 121 Account num: 449
+    ✓ should create bid #4 (2450ms, 1306265 gas)
+Start: 1669786872289
+End: 1669786872445
+Asset Id: 630 Account num: 450
+    ✓ should create asset #5 (156ms, 461988 gas)
+Start: 1669786872596
+End: 1669786875271
+Asset Id: 630 RFQ Id: 121 Account num: 450
+    ✓ should create bid #5 (2675ms, 1306265 gas)
+Start: 1669786875425
+End: 1669786875553
+Asset Id: 631 Account num: 451
+    ✓ should create asset #6 (128ms, 461988 gas)
+Start: 1669786875704
+End: 1669786878202
+Asset Id: 631 RFQ Id: 121 Account num: 451
+    ✓ should create bid #6 (2498ms, 1306265 gas)
+Start: 1669786878369
+End: 1669786878492
+Asset Id: 632 Account num: 452
+    ✓ should create asset #7 (123ms, 461988 gas)
+Start: 1669786878636
+End: 1669786881092
+Asset Id: 632 RFQ Id: 121 Account num: 452
+    ✓ should create bid #7 (2457ms, 1306265 gas)
+Start: 1669786881239
+End: 1669786881363
+Asset Id: 633 Account num: 453
+    ✓ should create asset #8 (124ms, 461988 gas)
+Start: 1669786881505
+End: 1669786884155
+Asset Id: 633 RFQ Id: 121 Account num: 453
+    ✓ should create bid #8 (2650ms, 1306265 gas)
+Start: 1669786884308
+End: 1669786884431
+Asset Id: 634 Account num: 454
+    ✓ should create asset #9 (123ms, 461988 gas)
+Start: 1669786884581
+End: 1669786887060
+Asset Id: 634 RFQ Id: 121 Account num: 454
+    ✓ should create bid #9 (2479ms, 1306265 gas)
+Start: 1669786887205
+End: 1669786887328
+Asset Id: 635 Account num: 455
+    ✓ should create asset #10 (123ms, 461988 gas)
+Start: 1669786887474
+End: 1669786889906
+Asset Id: 635 RFQ Id: 121 Account num: 455
+    ✓ should create bid #10 (2432ms, 1306265 gas)
+Start: 1669786890051
+End: 1669786890175
+Asset Id: 636 Account num: 456
+    ✓ should create asset #11 (124ms, 461988 gas)
+Start: 1669786890332
+End: 1669786892739
+Asset Id: 636 RFQ Id: 121 Account num: 456
+    ✓ should create bid #11 (2407ms, 1306265 gas)
+Start: 1669786892882
+End: 1669786893004
+Asset Id: 637 Account num: 457
+    ✓ should create asset #12 (122ms, 461988 gas)
+Start: 1669786893151
+End: 1669786895465
+Asset Id: 637 RFQ Id: 121 Account num: 457
+    ✓ should create bid #12 (2314ms, 1306265 gas)
+Start: 1669786895610
+End: 1669786895730
+Asset Id: 638 Account num: 458
+    ✓ should create asset #13 (120ms, 461988 gas)
+Start: 1669786895884
+End: 1669786898158
+Asset Id: 638 RFQ Id: 121 Account num: 458
+    ✓ should create bid #13 (2274ms, 1306265 gas)
+Start: 1669786898299
+End: 1669786898416
+Asset Id: 639 Account num: 459
+    ✓ should create asset #14 (117ms, 461988 gas)
+Start: 1669786898564
+End: 1669786900984
+Asset Id: 639 RFQ Id: 121 Account num: 459
+    ✓ should create bid #14 (2420ms, 1306265 gas)
+Start: 1669786901129
+End: 1669786901254
+Asset Id: 640 Account num: 460
+    ✓ should create asset #15 (125ms, 461988 gas)
+Start: 1669786901406
+End: 1669786903831
+Asset Id: 640 RFQ Id: 121 Account num: 460
+    ✓ should create bid #15 (2425ms, 1306265 gas)
+Start: 1669786903976
+End: 1669786904101
+Asset Id: 641 Account num: 461
+    ✓ should create asset #16 (125ms, 461988 gas)
+Start: 1669786904250
+End: 1669786906837
+Asset Id: 641 RFQ Id: 121 Account num: 461
+    ✓ should create bid #16 (2588ms, 1306265 gas)
+Start: 1669786906981
+End: 1669786907107
+Asset Id: 642 Account num: 462
+    ✓ should create asset #17 (126ms, 461988 gas)
+Start: 1669786907260
+End: 1669786909717
+Asset Id: 642 RFQ Id: 121 Account num: 462
+    ✓ should create bid #17 (2457ms, 1306265 gas)
+Start: 1669786909867
+End: 1669786909988
+Asset Id: 643 Account num: 463
+    ✓ should create asset #18 (121ms, 461988 gas)
+Start: 1669786910134
+End: 1669786912395
+Asset Id: 643 RFQ Id: 121 Account num: 463
+    ✓ should create bid #18 (2261ms, 1306265 gas)
+Start: 1669786912543
+End: 1669786912667
+Asset Id: 644 Account num: 464
+    ✓ should create asset #19 (124ms, 461988 gas)
+Start: 1669786912815
+End: 1669786915256
+Asset Id: 644 RFQ Id: 121 Account num: 464
+    ✓ should create bid #19 (2441ms, 1306265 gas)
+Start: 1669786915407
+End: 1669786915533
+Asset Id: 645 Account num: 465
+    ✓ should create asset #20 (126ms, 461988 gas)
+Start: 1669786915678
+End: 1669786918029
+Asset Id: 645 RFQ Id: 121 Account num: 465
+    ✓ should create bid #20 (2351ms, 1306265 gas)
+Start: 1669786918176
+End: 1669786918298
+Asset Id: 646 Account num: 466
+    ✓ should create asset #21 (122ms, 461988 gas)
+Start: 1669786918449
+End: 1669786920865
+Asset Id: 646 RFQ Id: 121 Account num: 466
+    ✓ should create bid #21 (2416ms, 1306265 gas)
+Start: 1669786921008
+End: 1669786921125
+Asset Id: 647 Account num: 467
+    ✓ should create asset #22 (117ms, 461988 gas)
+Start: 1669786921274
+End: 1669786923595
+Asset Id: 647 RFQ Id: 121 Account num: 467
+    ✓ should create bid #22 (2323ms, 1306265 gas)
+Start: 1669786923731
+End: 1669786923859
+Asset Id: 648 Account num: 468
+    ✓ should create asset #23 (128ms, 461988 gas)
+Start: 1669786923999
+End: 1669786926491
+Asset Id: 648 RFQ Id: 121 Account num: 468
+    ✓ should create bid #23 (2493ms, 1306265 gas)
+Start: 1669786926630
+End: 1669786926751
+Asset Id: 649 Account num: 469
+    ✓ should create asset #24 (121ms, 461988 gas)
+Start: 1669786926893
+End: 1669786929307
+Asset Id: 649 RFQ Id: 121 Account num: 469
+    ✓ should create bid #24 (2414ms, 1306265 gas)
+Start: 1669786929440
+End: 1669786929564
+Asset Id: 650 Account num: 470
+    ✓ should create asset #25 (124ms, 461988 gas)
+Start: 1669786929699
+End: 1669786932094
+Asset Id: 650 RFQ Id: 121 Account num: 470
+    ✓ should create bid #25 (2395ms, 1306265 gas)
+Start: 1669786932228
+End: 1669786933635
+RFQ Id: 121 Asset Id: 650 Account num: 0x16313bD9D3f3D4f9Ae13B6Ac1a7fcc54D91E400C
+    ✓ should activate accept #18 (1407ms, 226180 gas)
+Start: 1669786933776
+End: 1669786933911
+RFQ Id: 121 Account num: 0x101C8a2406eEeC688addFd273c74b3DE72Dbc758
+    ✓ should create rfq #19 (135ms, 109075 gas)
+Start: 1669786934055
+End: 1669786934175
+Asset Id: 651 Account num: 471
+    ✓ should create asset #1 (120ms, 461988 gas)
+Start: 1669786934321
+End: 1669786936536
+Asset Id: 651 RFQ Id: 121 Account num: 471
+    ✓ should create bid #1 (2215ms, 1323365 gas)
+Start: 1669786936673
+End: 1669786936806
+Asset Id: 652 Account num: 472
+    ✓ should create asset #2 (133ms, 461988 gas)
+Start: 1669786936942
+End: 1669786939199
+Asset Id: 652 RFQ Id: 121 Account num: 472
+    ✓ should create bid #2 (2257ms, 1306265 gas)
+Start: 1669786939345
+End: 1669786939461
+Asset Id: 653 Account num: 473
+    ✓ should create asset #3 (116ms, 461988 gas)
+Start: 1669786939599
+End: 1669786941812
+Asset Id: 653 RFQ Id: 121 Account num: 473
+    ✓ should create bid #3 (2213ms, 1306265 gas)
+Start: 1669786941952
+End: 1669786942071
+Asset Id: 654 Account num: 474
+    ✓ should create asset #4 (120ms, 461988 gas)
+Start: 1669786942214
+End: 1669786944456
+Asset Id: 654 RFQ Id: 121 Account num: 474
+    ✓ should create bid #4 (2242ms, 1306265 gas)
+Start: 1669786944600
+End: 1669786944717
+Asset Id: 655 Account num: 475
+    ✓ should create asset #5 (117ms, 461988 gas)
+Start: 1669786944862
+End: 1669786947054
+Asset Id: 655 RFQ Id: 121 Account num: 475
+    ✓ should create bid #5 (2192ms, 1306265 gas)
+Start: 1669786947197
+End: 1669786947319
+Asset Id: 656 Account num: 476
+    ✓ should create asset #6 (123ms, 461988 gas)
+Start: 1669786947455
+End: 1669786949701
+Asset Id: 656 RFQ Id: 121 Account num: 476
+    ✓ should create bid #6 (2246ms, 1306265 gas)
+Start: 1669786949838
+End: 1669786949953
+Asset Id: 657 Account num: 477
+    ✓ should create asset #7 (115ms, 461988 gas)
+Start: 1669786950091
+End: 1669786952169
+Asset Id: 657 RFQ Id: 121 Account num: 477
+    ✓ should create bid #7 (2078ms, 1306265 gas)
+Start: 1669786952310
+End: 1669786952427
+Asset Id: 658 Account num: 478
+    ✓ should create asset #8 (117ms, 461988 gas)
+Start: 1669786952565
+End: 1669786954864
+Asset Id: 658 RFQ Id: 121 Account num: 478
+    ✓ should create bid #8 (2299ms, 1306265 gas)
+Start: 1669786955004
+End: 1669786955125
+Asset Id: 659 Account num: 479
+    ✓ should create asset #9 (121ms, 461988 gas)
+Start: 1669786955275
+End: 1669786957658
+Asset Id: 659 RFQ Id: 121 Account num: 479
+    ✓ should create bid #9 (2383ms, 1306265 gas)
+Start: 1669786957806
+End: 1669786957929
+Asset Id: 660 Account num: 480
+    ✓ should create asset #10 (123ms, 461988 gas)
+Start: 1669786958067
+End: 1669786960425
+Asset Id: 660 RFQ Id: 121 Account num: 480
+    ✓ should create bid #10 (2358ms, 1306265 gas)
+Start: 1669786960568
+End: 1669786960692
+Asset Id: 661 Account num: 481
+    ✓ should create asset #11 (124ms, 461988 gas)
+Start: 1669786960836
+End: 1669786963309
+Asset Id: 661 RFQ Id: 121 Account num: 481
+    ✓ should create bid #11 (2473ms, 1306265 gas)
+Start: 1669786963458
+End: 1669786963583
+Asset Id: 662 Account num: 482
+    ✓ should create asset #12 (125ms, 461988 gas)
+Start: 1669786963728
+End: 1669786966169
+Asset Id: 662 RFQ Id: 121 Account num: 482
+    ✓ should create bid #12 (2441ms, 1306265 gas)
+Start: 1669786966320
+End: 1669786966444
+Asset Id: 663 Account num: 483
+    ✓ should create asset #13 (124ms, 461988 gas)
+Start: 1669786966607
+End: 1669786969047
+Asset Id: 663 RFQ Id: 121 Account num: 483
+    ✓ should create bid #13 (2440ms, 1306265 gas)
+Start: 1669786969196
+End: 1669786969322
+Asset Id: 664 Account num: 484
+    ✓ should create asset #14 (127ms, 461988 gas)
+Start: 1669786969472
+End: 1669786971939
+Asset Id: 664 RFQ Id: 121 Account num: 484
+    ✓ should create bid #14 (2467ms, 1306265 gas)
+Start: 1669786972083
+End: 1669786972207
+Asset Id: 665 Account num: 485
+    ✓ should create asset #15 (124ms, 461988 gas)
+Start: 1669786972349
+End: 1669786974821
+Asset Id: 665 RFQ Id: 121 Account num: 485
+    ✓ should create bid #15 (2472ms, 1306265 gas)
+Start: 1669786974968
+End: 1669786975090
+Asset Id: 666 Account num: 486
+    ✓ should create asset #16 (122ms, 461988 gas)
+Start: 1669786975245
+End: 1669786977377
+Asset Id: 666 RFQ Id: 121 Account num: 486
+    ✓ should create bid #16 (2132ms, 1306265 gas)
+Start: 1669786977525
+End: 1669786977642
+Asset Id: 667 Account num: 487
+    ✓ should create asset #17 (117ms, 461988 gas)
+Start: 1669786977790
+End: 1669786980169
+Asset Id: 667 RFQ Id: 121 Account num: 487
+    ✓ should create bid #17 (2379ms, 1306265 gas)
+Start: 1669786980314
+End: 1669786980451
+Asset Id: 668 Account num: 488
+    ✓ should create asset #18 (137ms, 461988 gas)
+Start: 1669786980626
+End: 1669786982966
+Asset Id: 668 RFQ Id: 121 Account num: 488
+    ✓ should create bid #18 (2340ms, 1306265 gas)
+Start: 1669786983105
+End: 1669786983227
+Asset Id: 669 Account num: 489
+    ✓ should create asset #19 (122ms, 461988 gas)
+Start: 1669786983377
+End: 1669786985849
+Asset Id: 669 RFQ Id: 121 Account num: 489
+    ✓ should create bid #19 (2472ms, 1306265 gas)
+Start: 1669786985988
+End: 1669786986108
+Asset Id: 670 Account num: 490
+    ✓ should create asset #20 (120ms, 461988 gas)
+Start: 1669786986255
+End: 1669786988713
+Asset Id: 670 RFQ Id: 121 Account num: 490
+    ✓ should create bid #20 (2458ms, 1306265 gas)
+Start: 1669786988851
+End: 1669786988978
+Asset Id: 671 Account num: 491
+    ✓ should create asset #21 (127ms, 461988 gas)
+Start: 1669786989112
+End: 1669786991658
+Asset Id: 671 RFQ Id: 121 Account num: 491
+    ✓ should create bid #21 (2546ms, 1306265 gas)
+Start: 1669786991797
+End: 1669786991920
+Asset Id: 672 Account num: 492
+    ✓ should create asset #22 (123ms, 461988 gas)
+Start: 1669786992064
+End: 1669786994541
+Asset Id: 672 RFQ Id: 121 Account num: 492
+    ✓ should create bid #22 (2477ms, 1306265 gas)
+Start: 1669786994688
+End: 1669786994816
+Asset Id: 673 Account num: 493
+    ✓ should create asset #23 (128ms, 461988 gas)
+Start: 1669786994954
+End: 1669786997448
+Asset Id: 673 RFQ Id: 121 Account num: 493
+    ✓ should create bid #23 (2494ms, 1306265 gas)
+Start: 1669786997591
+End: 1669786997724
+Asset Id: 674 Account num: 494
+    ✓ should create asset #24 (133ms, 461988 gas)
+Start: 1669786997865
+End: 1669787000487
+Asset Id: 674 RFQ Id: 121 Account num: 494
+    ✓ should create bid #24 (2623ms, 1306265 gas)
+Start: 1669787000629
+End: 1669787000756
+Asset Id: 675 Account num: 495
+    ✓ should create asset #25 (127ms, 461988 gas)
+Start: 1669787000896
+End: 1669787003466
+Asset Id: 675 RFQ Id: 121 Account num: 495
+    ✓ should create bid #25 (2570ms, 1306265 gas)
+Start: 1669787003609
+End: 1669787005037
+RFQ Id: 121 Asset Id: 675 Account num: 0x101C8a2406eEeC688addFd273c74b3DE72Dbc758
+    ✓ should activate accept #19 (1428ms, 226180 gas)
+Start: 1669787005177
+End: 1669787005311
+RFQ Id: 121 Account num: 0x0e74B82697DE0b6B2C1606CCF6baE44bB0B80eE0
+    ✓ should create rfq #20 (135ms, 109075 gas)
+Start: 1669787005450
+End: 1669787005574
+Asset Id: 676 Account num: 496
+    ✓ should create asset #1 (124ms, 461988 gas)
+Start: 1669787005722
+End: 1669787008226
+Asset Id: 676 RFQ Id: 121 Account num: 496
+    ✓ should create bid #1 (2504ms, 1323365 gas)
+Start: 1669787008370
+End: 1669787008497
+Asset Id: 677 Account num: 497
+    ✓ should create asset #2 (127ms, 461988 gas)
+Start: 1669787008638
+End: 1669787011139
+Asset Id: 677 RFQ Id: 121 Account num: 497
+    ✓ should create bid #2 (2501ms, 1306265 gas)
+Start: 1669787011282
+End: 1669787011405
+Asset Id: 678 Account num: 498
+    ✓ should create asset #3 (123ms, 461988 gas)
+Start: 1669787011551
+End: 1669787014028
+Asset Id: 678 RFQ Id: 121 Account num: 498
+    ✓ should create bid #3 (2477ms, 1306265 gas)
+Start: 1669787014172
+End: 1669787014295
+Asset Id: 679 Account num: 499
+    ✓ should create asset #4 (123ms, 461988 gas)
+Start: 1669787014446
+End: 1669787017041
+Asset Id: 679 RFQ Id: 121 Account num: 499
+    ✓ should create bid #4 (2595ms, 1306265 gas)
+Start: 1669787017190
+End: 1669787017320
+Asset Id: 680 Account num: 500
+    ✓ should create asset #5 (131ms, 461988 gas)
+Start: 1669787017463
+End: 1669787020050
+Asset Id: 680 RFQ Id: 121 Account num: 500
+    ✓ should create bid #5 (2587ms, 1306265 gas)
+Start: 1669787020199
+End: 1669787020323
+Asset Id: 681 Account num: 501
+    ✓ should create asset #6 (124ms, 461988 gas)
+Start: 1669787020464
+End: 1669787023006
+Asset Id: 681 RFQ Id: 121 Account num: 501
+    ✓ should create bid #6 (2542ms, 1306265 gas)
+Start: 1669787023149
+End: 1669787023273
+Asset Id: 682 Account num: 502
+    ✓ should create asset #7 (124ms, 461988 gas)
+Start: 1669787023418
+End: 1669787025816
+Asset Id: 682 RFQ Id: 121 Account num: 502
+    ✓ should create bid #7 (2398ms, 1306265 gas)
+Start: 1669787025964
+End: 1669787026088
+Asset Id: 683 Account num: 503
+    ✓ should create asset #8 (124ms, 461988 gas)
+Start: 1669787026235
+End: 1669787029052
+Asset Id: 683 RFQ Id: 121 Account num: 503
+    ✓ should create bid #8 (2817ms, 1306265 gas)
+Start: 1669787029197
+End: 1669787029327
+Asset Id: 684 Account num: 504
+    ✓ should create asset #9 (130ms, 461988 gas)
+Start: 1669787029477
+End: 1669787032047
+Asset Id: 684 RFQ Id: 121 Account num: 504
+    ✓ should create bid #9 (2570ms, 1306265 gas)
+Start: 1669787032187
+End: 1669787032311
+Asset Id: 685 Account num: 505
+    ✓ should create asset #10 (124ms, 461988 gas)
+Start: 1669787032452
+End: 1669787034969
+Asset Id: 685 RFQ Id: 121 Account num: 505
+    ✓ should create bid #10 (2517ms, 1306265 gas)
+Start: 1669787035112
+End: 1669787035239
+Asset Id: 686 Account num: 506
+    ✓ should create asset #11 (127ms, 461988 gas)
+Start: 1669787035379
+End: 1669787038068
+Asset Id: 686 RFQ Id: 121 Account num: 506
+    ✓ should create bid #11 (2689ms, 1306265 gas)
+Start: 1669787038208
+End: 1669787038343
+Asset Id: 687 Account num: 507
+    ✓ should create asset #12 (136ms, 461988 gas)
+Start: 1669787038484
+End: 1669787041037
+Asset Id: 687 RFQ Id: 121 Account num: 507
+    ✓ should create bid #12 (2553ms, 1306265 gas)
+Start: 1669787041176
+End: 1669787041311
+Asset Id: 688 Account num: 508
+    ✓ should create asset #13 (135ms, 461988 gas)
+Start: 1669787041456
+End: 1669787043878
+Asset Id: 688 RFQ Id: 121 Account num: 508
+    ✓ should create bid #13 (2423ms, 1306265 gas)
+Start: 1669787044018
+End: 1669787044138
+Asset Id: 689 Account num: 509
+    ✓ should create asset #14 (120ms, 461988 gas)
+Start: 1669787044287
+End: 1669787046807
+Asset Id: 689 RFQ Id: 121 Account num: 509
+    ✓ should create bid #14 (2520ms, 1306265 gas)
+Start: 1669787046946
+End: 1669787047073
+Asset Id: 690 Account num: 510
+    ✓ should create asset #15 (128ms, 461988 gas)
+Start: 1669787047210
+End: 1669787049505
+Asset Id: 690 RFQ Id: 121 Account num: 510
+    ✓ should create bid #15 (2295ms, 1306265 gas)
+Start: 1669787049641
+End: 1669787049754
+Asset Id: 691 Account num: 511
+    ✓ should create asset #16 (113ms, 461988 gas)
+Start: 1669787049890
+End: 1669787052277
+Asset Id: 691 RFQ Id: 121 Account num: 511
+    ✓ should create bid #16 (2387ms, 1306265 gas)
+Start: 1669787052421
+End: 1669787052543
+Asset Id: 692 Account num: 512
+    ✓ should create asset #17 (123ms, 461988 gas)
+Start: 1669787052690
+End: 1669787055122
+Asset Id: 692 RFQ Id: 121 Account num: 512
+    ✓ should create bid #17 (2432ms, 1306265 gas)
+Start: 1669787055266
+End: 1669787055394
+Asset Id: 693 Account num: 513
+    ✓ should create asset #18 (129ms, 461988 gas)
+Start: 1669787055540
+End: 1669787057924
+Asset Id: 693 RFQ Id: 121 Account num: 513
+    ✓ should create bid #18 (2385ms, 1306265 gas)
+Start: 1669787058071
+End: 1669787058193
+Asset Id: 694 Account num: 514
+    ✓ should create asset #19 (122ms, 461988 gas)
+Start: 1669787058341
+End: 1669787060863
+Asset Id: 694 RFQ Id: 121 Account num: 514
+    ✓ should create bid #19 (2523ms, 1306265 gas)
+Start: 1669787061007
+End: 1669787061134
+Asset Id: 695 Account num: 515
+    ✓ should create asset #20 (127ms, 461988 gas)
+Start: 1669787061274
+End: 1669787063980
+Asset Id: 695 RFQ Id: 121 Account num: 515
+    ✓ should create bid #20 (2706ms, 1306265 gas)
+Start: 1669787064123
+End: 1669787064258
+Asset Id: 696 Account num: 516
+    ✓ should create asset #21 (136ms, 461988 gas)
+Start: 1669787064403
+End: 1669787067030
+Asset Id: 696 RFQ Id: 121 Account num: 516
+    ✓ should create bid #21 (2627ms, 1306265 gas)
+Start: 1669787067179
+End: 1669787067309
+Asset Id: 697 Account num: 517
+    ✓ should create asset #22 (130ms, 461988 gas)
+Start: 1669787067462
+End: 1669787070042
+Asset Id: 697 RFQ Id: 121 Account num: 517
+    ✓ should create bid #22 (2580ms, 1306265 gas)
+Start: 1669787070187
+End: 1669787070314
+Asset Id: 698 Account num: 518
+    ✓ should create asset #23 (127ms, 461988 gas)
+Start: 1669787070462
+End: 1669787072982
+Asset Id: 698 RFQ Id: 121 Account num: 518
+    ✓ should create bid #23 (2520ms, 1306265 gas)
+Start: 1669787073129
+End: 1669787073258
+Asset Id: 699 Account num: 519
+    ✓ should create asset #24 (129ms, 461988 gas)
+Start: 1669787073402
+End: 1669787075969
+Asset Id: 699 RFQ Id: 121 Account num: 519
+    ✓ should create bid #24 (2568ms, 1306265 gas)
+Start: 1669787076124
+End: 1669787076251
+Asset Id: 700 Account num: 520
+    ✓ should create asset #25 (127ms, 461988 gas)
+Start: 1669787076395
+End: 1669787079109
+Asset Id: 700 RFQ Id: 121 Account num: 520
+    ✓ should create bid #25 (2714ms, 1306265 gas)
+Start: 1669787079254
+End: 1669787080804
+RFQ Id: 121 Asset Id: 700 Account num: 0x0e74B82697DE0b6B2C1606CCF6baE44bB0B80eE0
+    ✓ should activate accept #20 (1550ms, 226180 gas)
+
+·----------------------------------------|---------------------------|--------------|----------------------------·
+|  [90mSolc version: 0.8.15+commit.e14f2714[39m  ·  [90mOptimizer enabled: true[39m  ·  [90mRuns: 1500[39m  ·  [90mBlock limit: 6718946 gas[39m  │
+·········································|···························|··············|·····························
+|  [32m[1mMethods[22m[39m                                                                                                       │
+·····················|···················|·············|·············|··············|··············|··············
+|  [1mContract[22m          ·  [1mMethod[22m           ·  [32mMin[39m        ·  [32mMax[39m        ·  [32mAvg[39m         ·  [1m# calls[22m     ·  [1meur (avg)[22m  │
+·····················|···················|·············|·············|··············|··············|··············
+|  [90mMigrations[39m        ·  setCompleted     ·          -  ·          -  ·       28580  ·           [90m1[39m  ·          [32m[90m-[32m[39m  │
+·····················|···················|·············|·············|··············|··············|··············
+|  [90msmartAuction[39m      ·  createasset      ·     [36m461976[39m  ·     [31m461988[39m  ·      461987  ·        [90m1000[39m  ·          [32m[90m-[32m[39m  │
+·····················|···················|·············|·············|··············|··············|··············
+|  [90msmartAuction[39m      ·  createbid        ·    [36m1306253[39m  ·    [31m1337653[39m  ·     1306976  ·        [90m1000[39m  ·          [32m[90m-[32m[39m  │
+·····················|···················|·············|·············|··············|··············|··············
+|  [90msmartAuction[39m      ·  createrfq        ·     [36m109075[39m  ·     [31m486375[39m  ·      127940  ·          [90m40[39m  ·          [32m[90m-[32m[39m  │
+·····················|···················|·············|·············|··············|··············|··············
+|  [90msmartAuction[39m      ·  tranferasset     ·     [36m226168[39m  ·     [31m293171[39m  ·      229758  ·          [90m39[39m  ·          [32m[90m-[32m[39m  │
+·····················|···················|·············|·············|··············|··············|··············
+|  [32m[1mDeployments[22m[39m                           ·                                          ·  [1m% of limit[22m  ·             │
+·········································|·············|·············|··············|··············|··············
+|  Migrations                            ·          -  ·          -  ·      176717  ·       [90m2.6 %[39m  ·          [32m[90m-[32m[39m  │
+·········································|·············|·············|··············|··············|··············
+|  smartAuction                          ·          -  ·          -  ·     1171285  ·      [90m17.4 %[39m  ·          [32m[90m-[32m[39m  │
+·----------------------------------------|-------------|-------------|--------------|--------------|-------------·
+
+  1040 passing (24m)
+

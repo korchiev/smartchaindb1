@@ -1,0 +1,71 @@
+{
+  "inputs": [
+    {
+      "owners_before": [
+        "YM2sd4hnKgMgmCetHdTnQ44WSCQzWrbuoofAGfgYATb"
+      ],
+      "fulfills": null,
+      "fulfillment": "pGSAIAgHp9mL5Z8gMKSufqCh42PdOw6CWaZlVVVwQelAqUCSgUDaK_M9UjptXW1Iej4Vc53Tbn_5NNKhYtdpL79KtXqFpLxIJOZefhmXALvuPtXxahPYQaSqODaLozb_LTe8qm8C"
+    }
+  ],
+  "outputs": [
+    {
+      "public_keys": [
+        "YM2sd4hnKgMgmCetHdTnQ44WSCQzWrbuoofAGfgYATb"
+      ],
+      "condition": {
+        "details": {
+          "type": "ed25519-sha-256",
+          "public_key": "YM2sd4hnKgMgmCetHdTnQ44WSCQzWrbuoofAGfgYATb"
+        },
+        "uri": "ni:///sha-256;IVNS8bk4syag1A1MW8kRTSC8L-o7URq5n_bz3sTCChk?fpt=ed25519-sha-256&cost=131072"
+      },
+      "amount": "1"
+    }
+  ],
+  "operation": "REQUEST_FOR_QUOTE",
+  "metadata": {
+    "capability": [
+      "Gluing",
+      "Riveting",
+      "Shrinking",
+      "ColdWelding",
+      "Nailing",
+      "SpringFastening",
+      "TorchSoldering",
+      "ThermalCuring",
+      "Stapling",
+      "LaserWelding",
+      "Sewing",
+      "ResistanceWelding",
+      "Pressing",
+      "Wedging",
+      "Taping",
+      "Folding",
+      "HeatedAirWelding",
+      "UV-curing",
+      "MetalWelding",
+      "ArcWelding",
+      "Clamping",
+      "DipSoldering",
+      "TighteningFromSide",
+      "ThreadRunning",
+      "IronSoldering",
+      "UltrasonicWelding",
+      "Screwing",
+      "Clipping",
+      "PlasticWelding",
+      "FrictionWelding"
+    ],
+    "kafkaInTimestamp": "2023-03-09T23:54:18.752",
+    "requestCreationTimestamp": "2023-03-09T23:54:18.752"
+  },
+  "asset": {
+    "data": {
+      "deadline": "2021-02-21",
+      "pre_request_id": null
+    }
+  },
+  "version": "2.0",
+  "id": "6ae4726071a7ccf2bff3e083f4dec4b0dbcaac815cb9752441b176e78aa6eb3f"
+}

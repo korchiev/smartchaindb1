@@ -1,0 +1,89 @@
+
+Compiling your contracts...
+===========================
+> Compiling ./contracts/Migrations.sol
+> Compiling ./contracts/smartAuction.sol
+> Compilation warnings encountered:
+
+    Warning: Visibility for constructor is ignored. If you want the contract to be non-deployable, making it "abstract" is sufficient.
+  --> project:/contracts/smartAuction.sol:44:5:
+   |
+44 |     constructor() public{
+   |     ^ (Relevant source part starts here and spans across multiple lines).
+
+,Warning: Function state mutability can be restricted to pure
+   --> project:/contracts/smartAuction.sol:109:5:
+    |
+109 |     function compareStrings(string memory a, string memory b) public view returns (bool) {
+    |     ^ (Relevant source part starts here and spans across multiple lines).
+
+,Warning: Function state mutability can be restricted to view
+   --> project:/contracts/smartAuction.sol:171:5:
+    |
+171 |     function getAllRequestsCount() public returns (uint) {
+    |     ^ (Relevant source part starts here and spans across multiple lines).
+
+
+> Artifacts written to /root/new/build/contracts
+> Compiled successfully using:
+   - solc: 0.8.15+commit.e14f2714.Emscripten.clang
+
+
+Starting migrations...
+======================
+> Network name:    'development'
+> Network id:      1669787394569
+> Block gas limit: 30000000 (0x1c9c380)
+
+
+1_initial_migration.js
+======================
+
+   Deploying 'Migrations'
+   ----------------------
+   > transaction hash:    0xfebbb3c728679a7b30a6eb9879bbe06d484c816b960703eb976f50a921fe0cd6
+   > Blocks: 0            Seconds: 0
+   > contract address:    0xF8eC62900f7E6C1258722d6dcF1b21dC927419ED
+   > block number:        1
+   > block timestamp:     1669787465
+   > account:             0x75bd3aF63b4ffb4f621ECf851EE233f072Cb886E
+   > balance:             999.999403580125
+   > gas used:            176717 (0x2b24d)
+   > gas price:           3.375 gwei
+   > value sent:          0 ETH
+   > total cost:          0.000596419875 ETH
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:      0.000596419875 ETH
+
+
+2_deploy_smartAuction.js
+========================
+
+   Deploying 'smartAuction'
+   ------------------------
+   > transaction hash:    0x81e89797cefce5ece0b3a9563e1f05668b52bfa57835c82afcad45cf73bb8be1
+   > Blocks: 0            Seconds: 0
+   > contract address:    0x121eD6ACFC003641f037379140e4223Ad5fCb8D8
+   > block number:        3
+   > block timestamp:     1669787465
+   > account:             0x75bd3aF63b4ffb4f621ECf851EE233f072Cb886E
+   > balance:             999.99553980301188963
+   > gas used:            1171285 (0x11df55)
+   > gas price:           3.171341306 gwei
+   > value sent:          0 ETH
+   > total cost:          0.00371454450159821 ETH
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:     0.00371454450159821 ETH
+
+Summary
+=======
+> Total deployments:   2
+> Final cost:          0.00431096437659821 ETH
+
+

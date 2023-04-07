@@ -1,0 +1,2111 @@
+:compileJava UP-TO-DATE
+:processResources UP-TO-DATE
+:classes UP-TO-DATE
+:run
+
+Connected to node - http://137.184.231.62:9984/ after 0 retry(s)...
+
+Request#0
+(*) REQUEST Transaction sent.. - c9828cf3b908c6941d4b9c1d1e1068c04ca241991edbd2452b6bfc43d40a0925
+Request#0
+(*) REQUEST Transaction sent.. - b7fa2d73f4f50fa6377f59b4cf994f6ec9073f3a41920011c18eed4067f84da4
+Request#0
+(*) REQUEST Transaction sent.. - 3d504f45edd151b6a17cbb2a6c8e4b0e0fb409f6a2eac069fed38c6d18220ba1
+Request#0
+(*) REQUEST Transaction sent.. - 6fef779040f0478e386c8e8980e02a7631641e212a23c561dd2f6b6d6cedbc00
+Request#0
+(*) REQUEST Transaction sent.. - 1e5a14c3a83eccb277fbe0d0e24fce25dc09e77d71c8310c3ea1f93e6cad18d5
+Request#0
+(*) REQUEST Transaction sent.. - c35fc51b9f6104a417326b3253ce7c1be153e882f58fa0731954912b6bcdc9d4
+Request#0
+(*) REQUEST Transaction sent.. - e54555ff65975edfd44d9d226f63a3e9cc27721bbd34490616dc3019e42a15e9
+Request#0
+(*) REQUEST Transaction sent.. - 0f26363358dd4c2a2b15b8a94d87f6e0606651aed47975a5daed44e7ba7e7c78
+Request#0
+(*) REQUEST Transaction sent.. - a493de18c4902c94725f55c2de28cc62df205272506c6a16bc9fea972419d863
+Request#0
+(*) REQUEST Transaction sent.. - cbe1e30b2aba01ab974cb22623311952e7176b18880de8ad42cfe0eb789117e3
+Request#0
+(*) REQUEST Transaction sent.. - 958062102ee06b3bd2b6dcfdab70f7c7576b25d8aacd407ea299715594259a49
+Request#0
+(*) REQUEST Transaction sent.. - b5cf0ebc6263644d9bbd5336da6e9be44d1d743f056aad7b2ebd9f0fe3f2e9e6
+Request#0
+(*) REQUEST Transaction sent.. - 66513e22df9c8472ca424959521f3d841d977d011ed80ffa051b2ed1aa8b6186
+Request#0
+(*) REQUEST Transaction sent.. - a02522022c267dfd0fcbdde87b658b92e1c7fdf82337fc9a384fc3744712f707
+Request#0
+(*) REQUEST Transaction sent.. - dcd7769525944170346559ed39e45101d9fad9200f9e828063d02bf0e6f41985
+Request#0
+(*) REQUEST Transaction sent.. - 7154612e7e596324167c2b31fc5e483964c1abe311335c288b2b0992ab0954f5
+Request#0
+(*) REQUEST Transaction sent.. - 0d7b8d9cec5de8f296d59e8ab0e60c5726729777d0f4b1bc40aa30f1aeb96f0c
+Request#0
+(*) REQUEST Transaction sent.. - d8fabb9c001f92acdcc400b6460fcb4b6fbeb05195116ed7cacf34782846bd94
+Request#0
+(*) REQUEST Transaction sent.. - f695425dd009669d3119ef2b53402c8c092a10ecec6f5af5f2a7bb94a4a6c28b
+Request#0
+(*) REQUEST Transaction sent.. - a1d519c6dc9e4d44aca7a9af38793a8a475733ba12b23928da12049413d05857
+(*) CREATE Transaction sent.. - 22480e087d927856282e5c4e67eff4c7686f52483c7f0fb8d75f44f48c764411
+Transaction successfully posted
+Transaction successfully posted
+Transaction successfully posted
+Transaction successfully posted
+Transaction successfully posted
+Transaction successfully posted
+Transaction successfully posted
+Transaction successfully posted
+Transaction successfully posted
+Transaction successfully posted
+Transaction successfully posted
+Transaction successfully posted
+Transaction successfully posted
+Transaction successfully posted
+Transaction successfully posted
+Transaction successfully posted
+Transaction successfully posted
+Transaction successfully posted
+Transaction successfully posted
+Transaction successfully posted
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 15ceea8bdb242f7d76e421afd394d0945c1a045a0f6cf9c47e03a4eb2677f6b1
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 3a6749932f8c94ad7936cecbfd3e170e2d8642cdf875f2d7d28bf36c200a22d8
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 86aa265a9ea80c9bc1819df5f16295aafc1e384c7145b90e6f44f460463f2d59
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 63cbec588b356c17241f16071931f59bdbc402e0415c23b8f13bb039a2046296
+Transaction successfully posted
+(*) CREATE Transaction sent.. - c6d4d01f7f269d46224bdccf9bc8df80c5a818779f83ee84397ac471e953657d
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 556f9cd312e071ceb7a268c08d286ae032ba4ff8166f031e2d21e6553b0236ce
+Transaction successfully posted
+(*) CREATE Transaction sent.. - d21d940de6c352e52500587ca2d42ec73cbd947ea916aa13ad4a2e6cf4d7c948
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 9d8f38d334e5e3276e5c5bd1d92243798246b1c157e68ab656099b3016e7103c
+Transaction successfully posted
+(*) CREATE Transaction sent.. - da119f80b468a67254db07d2fe2f67030b5b7acb6573be09ddafdffbb6e69583
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 3e2219358faa38b1bd65df8a925c4c4650739783ed4209140625d53f65d58366
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 08483a50b0cf19fd3b9299c927d0ec32cda9a37638e97d6cf5d7e993bc60223a
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 0a0a90679d79f1ae900888c4743e62ad12266ff453b315e3bf2265804de38ead
+Transaction successfully posted
+(*) CREATE Transaction sent.. - d8e6301c05a9b0761ef2980560297d6ed3bbdec02e2b1d14083f57b492e72c2d
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 05f3f4d97357299ef401750e58d9b8ed1ffec5435bd8a27f34b0d6d96e3925f7
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 488894d677fdfdec4f57b92511d9034c092d0c37eeef55221e8c18e637d7a215
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 8061b6105fc07d9209ff6ec00fc733f6070049b09e6da452df28b245a17c168d
+Transaction successfully posted
+(*) CREATE Transaction sent.. - b02562c451754b308854cad0a92f4d87f87ab03fea3e70019aa9b95c31184680
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 3fbbeae4fe3a547e2b589eb173970b2dca524a5b29bb48a66cf798791e621015
+Transaction successfully posted
+(*) CREATE Transaction sent.. - b4a9bbe0bcdb21f59f1be304f0954c5b8e5852a4aef694be43726206dc801452
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 93801b259e1652cd4a443252fac17449c6be08bf53f2a71327815a54c92c3270
+Transaction successfully posted
+(*) CREATE Transaction sent.. - d14a5cb02cc4139228b59ae9f2b4a050ffb29b7e6497a4dece2e9bb0f011c2bb
+Transaction successfully posted
+(*) CREATE Transaction sent.. - b42a8ce1f8a0e51ca19d9dafff6e813230f712e3162a850b5697d7d80dc6a799
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 121549773a6ca87bdb43c4a0775c79663201c2ea68638907d15d0012bc18f625
+Transaction successfully posted
+(*) CREATE Transaction sent.. - a3678f6ae2a5c4aea29baf5ae5db53867152f189fb78aab69e622fed708e6267
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 912d2c7ab97d816a92b9f8fd8bc9c9491820da052adb596e99f1fda691bd88c9
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 65d24ec7327bdefc63ff9a56f5a2dbdc2caf4c9a38c552a5b8f1c29de80c1f4e
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 6f9f0a2c0a01ed3f9972b1c54582f61ef725d7ff86ff83acb6e7d2e34c43a469
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 116ac3e755ed556a896279bec543fef0c526f54081b69764249aa005046fe3d7
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 4d27307cf5ea25ee3c9cbd9e5a9f45c876ad9f3de17e1ae254241df593650415
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 23f69e9659ba4da8d39839e670bbee8b8c247372f4b30f847354e1edb872b877
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 00f1b285e6fb18384f4f13c6a00cf2ccb7b5498523f26ad3046e18396ba12f50
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 4df4fb83dbf15315a01c8c49d2433338732528982ee471ca6ed1baa46d754ffc
+Transaction successfully posted
+(*) CREATE Transaction sent.. - cf12f83e7cd5bc9e2b66da7943c81e72c166017b589d555d0c3ccfe0cf1a120f
+Transaction successfully posted
+(*) CREATE Transaction sent.. - c6a4bf7626caac53833ab2fa0ab9ec65524fff2ff524a006068de6c5d03ceb0f
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 42f207f2613695ec7cc8cc2bc70bff4f4fb8e6334812ef8a264042890894abc1
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 7eab36fbae3aedf6ecc066bc9e49d730174e2ab46926e40c0cf3eefe19058006
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 8ac5ca789c94c5b014b3b53fcc8a081a58efab8c5852419cb1480c1597d95836
+Transaction successfully posted
+(*) CREATE Transaction sent.. - c930fcf8911c93402a0a70ce4afd123466088be3302c1131252105b4d2cf4c40
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 623f1b2b08ca9c581efb8c6ff7befc8f726647a6667c6e7f4ce24908964ac1a7
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 618a211897f2e8b710f52dc214526d3f450dcc3f17442dada21c6e33361488e4
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 2e079a621dff9220391da6989cd2721b46bc17df98886f09213785746b53b9f8
+Transaction successfully posted
+(*) CREATE Transaction sent.. - c1d5d1b57f22bc340225277c97fb897f3a4377f4a857b835fdf0352f6850c4b5
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 6272f407571b9577f4bd87b937ccdaad0e159dcb24f0fa0758a7f291bd1cf01f
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 9778803d1546564ad59707ea14ed0b0c511f4347ea53f6dbcb6a14021c9ff568
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 8890a95fbc75282a7f1d2d0cebd7c9903b550f4c5f03e7d64344ad2b275838ad
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 51578867eab38e0ed144f4f2da2ff03270a10c696aee22f409fcfc7eed316c9a
+Transaction successfully posted
+(*) CREATE Transaction sent.. - b4a27f1d119df5d7d640b3e0d2e0c60be03f1eb8b11667f4c7014a8ae7033fe3
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 8c5431e3ed48a29362e4a0aa6827a10d230f596976a8f11f999e3a834e660e54
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 6b22be4f1f7e351659df1b489965648be1e415b6e1cb166e3552a76eb81cb3cb
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 884c68490e1074208440a48ca0b692bd61c22e1f87065ebb4326f0a8862459ce
+Transaction successfully posted
+(*) CREATE Transaction sent.. - d694fa85393b244f3826016a01b52f2116e4a431e0e47166b94e2bb0ba855d3d
+Transaction successfully posted
+(*) CREATE Transaction sent.. - cb7c72430dccb801212aca34a3c34b249f01b94dda18b8511c0ffaf82ea53174
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 62c849612cb2634138fe4bcfe53a655b04d23a9461da151427913f3cfbefb6a2
+Transaction successfully posted
+(*) CREATE Transaction sent.. - c94047cee9104a4e1c5294c389667123e80169cf2e91a7e5330da216b5684d26
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 4b95685038ae39893c93c23f3fd46c5419c9c01fe076188f8a4690d317f1f6c5
+Transaction successfully posted
+(*) CREATE Transaction sent.. - ac33319af5ad4ecd3e67fec583ec38e63343de908312bf5bb8a3d9f2226c4c08
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 5fd645d718de74f8f6f351a074f40a7646d507c699780f3c364aafb042cb7835
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 347151b1ac4a83d813b8b9d89f576f8d7f223e3842fc8c3b7a298e222218f8b2
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 5d30af15494fa5ac8052c95255d0c6a65881a364e10965994a37497793c17e07
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 55b78b172de8c1ab1e61cd4aacb71675e65b6b39f2204f9b7b5caca72bbe42ac
+Transaction successfully posted
+(*) CREATE Transaction sent.. - fbe0dff476ecc98c52b3c6469c374c777dd5f16bcb950f6b363439fdb7abc20c
+Transaction successfully posted
+(*) CREATE Transaction sent.. - a4683b211f805ac32e1e3c8b3587e86d60d2413d9f9435b4a287232f718cbaef
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 96dca153b3e151537fe6fb77ee0ed079e1ce66f43db43e6c2f5cda53446110bf
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 55d6c74061bc99341c02aa3b75e98e437042085763a263c5b41b53e6479fafce
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 756f857fe229517474638526f4d3b162f3031a3a14bc3ef4b4795ba7dc930ea5
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 346df22bac1bdc04e5ea2c782c780664b6e3389a426cc075b80dde8e8d73a030
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 3c0b0c26da775d1034e5ab161f525774a53f0694d8b3481c1760985c5cc02187
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 597b9948cb8dd68701cb4e76935aa7ee44dcfc3bdd04779ca649c25e263da068
+Transaction successfully posted
+(*) CREATE Transaction sent.. - e76637c4b796f72ca5a3242fd9cc8a2d0daba94c472894206a148c813ce278b8
+Transaction successfully posted
+(*) CREATE Transaction sent.. - eaa5cc54ac07216537392fe9a21b49241bd90ca95ed604acca17944d033c8572
+Transaction successfully posted
+(*) CREATE Transaction sent.. - ec776fca19a39cdc2eab2bc29e1ad2d0c9cb5da2f81b8456524732a39a5a5c76
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 3d6eaedd407a8a6c8c41d96eb7aab714a8740726be1d843e4418b6838f6bad4b
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 502fc3cf06bfeb04205933f63acc94ac59f71f0aaa27d2c7baa017aa1c918060
+Transaction successfully posted
+(*) CREATE Transaction sent.. - c7148cddad29181c346023c5061c0f3cd7984a3c31178daaa064de80ef836589
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 43ac8f7328dd8cf45c9e30168faa99a65be7597947e125cb6d24c6e5507d9dd9
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 6550814ef5c2243712b60ede330c2e5accd6b77e2296b5b4fe2d4ed59d12e6e8
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 809373c473e8b24fd0dc265719caf68c13819857b0f3b88dd8e5eb173775b68f
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 2d7bad61a719cb294ff06e9f2b0b734863a988f77a0d2b6fd22be1beea6d0783
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 99bd58c4c2933a0ae3cee36dc2321b5d070d7a5a0effa2234ec113b356709ddb
+Transaction successfully posted
+(*) CREATE Transaction sent.. - d79f346d7a08cee47cd2065aca3f31b2722746e5786b4a7878f2587c953b99dc
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 0479c8ee8959a3a92effee844cdb8bab9d16fb21c65d4ae74ccb7413081b8c21
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 5277092ea480ffb803fedb5b073f226adf2d05c4251b1236250c20ad6cd8255c
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 4bf375fa02d49d688bedbbb2664b230b35e0ed757a346f5728bb9ef1c43ab394
+Transaction successfully posted
+(*) CREATE Transaction sent.. - edf8e43d34c189f9e3285ef276fe8cd5ec410d4ee582d2595a7545f6762c5078
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 13c42a779dae80ef4d3375acafbeff9a12f9ea64675e457a925baafa4dd06494
+Transaction successfully posted
+(*) CREATE Transaction sent.. - bffaac60cde55bf4e9f369919d857646ebb24db18a2179128dfdbf8b8928a3fc
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 62ec620194d9d7a634652dd4b9bbc48ca0f4460587cab291018d124ebd50ab95
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 7c9b2e5dc5cf4a86fd24bfff6cb4929b40530ebf6729e65374ead8d205456ef7
+Transaction successfully posted
+(*) CREATE Transaction sent.. - e131388ac8f4daa74ed6daa9d670fc4224983e85146803599bfbf067017df33a
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 7f9783f30861e60209bcf70fd0eacd43a38db8891b721b691e37856d3e569e72
+Transaction successfully posted
+(*) CREATE Transaction sent.. - c1b30546889cee6b52e0085602757a93af99821a6dc551129b392bf25c7fa0d9
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 843727a3e956d62eff6a9d81d6ff31de53610a3ea69fa3b28e0c3d3ec588ff88
+Transaction successfully posted
+(*) CREATE Transaction sent.. - afc7f5815fbda1a0cd1c1e37c711964fa4173af7a0429655e1c05837baa8fcdc
+Transaction successfully posted
+(*) CREATE Transaction sent.. - b7bd841cf2a0884ea649560e12b7ccec5971a3d4b91e2743874e2c028b8b00b6
+Transaction successfully posted
+(*) CREATE Transaction sent.. - c3d95491026fab3a2973637614fa77a049a2c38d5ff831f1ce403cbe6748240f
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 03410ba9ebfbc7a676dbf633d8b9f46aef14f1499c40f410320fcd25fffbb8cb
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 2b14f24acbf3df9a6aa334bc3748929388a76aecbe8a7d57795e171a65991c60
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 78b7591cfa2817b146525c5c9a1b571bc7670edf658b23565f52ca6c3c914192
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 773773ce3cfc237057bb7dffb8abaebe5efab42d1bf9be0ed5cdafabfe335a87
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 28c6f2f7098b7e0fef1fe4c632949d816ff6865d25133e37bcbac909371b98d8
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 98c174df740db94f2466c468141f3330c32bc40d1d86849ef5746a4b0d5397b2
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 1fdcfa107da7653e376dd1b3f6134c4c1adedb2f05578f190d32233b75e7d0e8
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 1c923131a5ae2ac427b6069610f67d86e98b74902aa279e76440d1dd6f11d268
+Transaction successfully posted
+(*) CREATE Transaction sent.. - db586713d469cc8cf5a940b4c1b07fdda5f7949168536b3873de1e5eedc2a3cb
+Transaction successfully posted
+(*) CREATE Transaction sent.. - d12dc0d8407d48faefb7791920b5eb68154626bf129a8417b93f9e0d008af360
+Transaction successfully posted
+(*) CREATE Transaction sent.. - f422519f12b7bfcbcf4fdd7af5397cba100574cd47de5c29b030fa8dd26d2061
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 3f8cd5ac319227703e9c471b4a82e78e30826627568fb7cf4944d80e00d4ca2c
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 450f218226abdcbfa852626bc65b24409c43d560ba73f258c83c9a7908137ae1
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 0cfb76fb1d8378bd518d489d6a2104b7cca33469530350237d8b9b1fe601d427
+Transaction successfully posted
+(*) CREATE Transaction sent.. - cefdc7e13ecc520f4b38afe438f34f0af12afb3cf764042145e67fa37b65f763
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 1d29469cff5a4de65a1a55cecba3503f349f21c2c5ca6b14f6fa7d6812372e69
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 8251fbf932665b8dc23428bd78ef0dc7ac4f3c60098db51a3e5d90a9824ec7d8
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 82ed929267fe61ac130a25af7186b66958468275742e1cf9ebc6b260f42897c9
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 9111cf05b8888aff59bf18d892f12533fa5a3cf9d2db415d499b9da4e4405f2b
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 8a55907a9312dcf04e5384066d39070acbd156f41b82f869b2b5eec08ce55026
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 2827daa13ad45469e6d2ffb8fa8af9d9dd9261bfffef683c71e0607fa65e953d
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 301ca1ccdda8e4c0bef3641dd26aa41c4ed4206952b67db2c03be9be1a216cc0
+Transaction successfully posted
+(*) CREATE Transaction sent.. - a4be19d4f8c29672f1e1a66df2b2d606a6abbe34339656b078cac8d0d69e1871
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 1674df48f7b7168fbb3db323ded1b5b66c3e6c625a6fb2b8d997931b0e51b3a0
+Transaction successfully posted
+(*) CREATE Transaction sent.. - a0da8291adfbd956863387ab58346b924dc22cbb96c6ca5099524a0849646b9d
+Transaction successfully posted
+(*) CREATE Transaction sent.. - edc6a3b099e1a97ca05d12c98130f6f3b7461acc01c4d2afe22509bd4036f18e
+Transaction successfully posted
+(*) CREATE Transaction sent.. - c713edc447e3d66f94151b1f8dc09bc0cddea4192b143c0c59bcaf310d635fad
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 3edef119bd06dc04b3f953aa076d4eeaa589d248b7176fbb77a18ed7caeeb8e8
+Transaction successfully posted
+(*) CREATE Transaction sent.. - f3243d9073585f99f725b4fa72f6f6b0b0f27689e063cad6e4574f1fadf0deee
+Transaction successfully posted
+(*) CREATE Transaction sent.. - fc5227e5c9a38bef6512ab4ca8b1e87e11e1028abff5a9b495ff4e83fe103b37
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 688fa651be63c71acec942dfff96a0d9514b0d6d4d7ffd4d806d8ba4fdfd47e4
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 4a6a3ee2dc2085bf197c5a0efc0dfc7a053eb0cb67d89002654e68e53c32731a
+Transaction successfully posted
+(*) CREATE Transaction sent.. - f0430ec13bdb835ed2c2655ffa7b376eb3f6724b1db0b26e61e80355331ea498
+Transaction successfully posted
+(*) CREATE Transaction sent.. - f6dab43f0ab23f78f7980f19813a474cf3f2ff36b9222dd0a31b44ab0d7e4b01
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 56c76407c8ce615c84bc39f7e5c042ca51a5080401a930d103ca1d23cdc2acbc
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 0f1ee07e1a755f9932f4c9bb1ed87079bc9d9b71265f3103a1230cb35c630380
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 080ecc6007f8ad7d04e4e382dbe162514d2bb614fb28ce34b8ee57c65df9f7a5
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 32081804c72f90637414a64119672897e95f11574b380c319962565b1c98b08b
+Transaction successfully posted
+(*) CREATE Transaction sent.. - ae6c91d8c6f56893444b38c90d39435e62011ea06acd70ca68ddcefc5335345b
+Transaction successfully posted
+(*) CREATE Transaction sent.. - cec7ec95af48173aa24bfbbe531451eea4612a52e0c71156921653f7b641efa0
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 99b380ca60d59cca9af62dbab0779aa015b63c26b0029e71fb8c6596944f6376
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 6c349f5984368fe57158d0cb71d8906968a0bc25f42b50aae1b575bdec26ea8e
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 27c88066a02a4e8a560a6cd66208de2a2853dc50a5678d05964bb23deba5bd5f
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 3857255488df2471f7420be69b8fad96f08f188bfc8f3c59a01a21f16b52c269
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 07e3d6041bf83ba4180439ab093f54dce0dfad00fde79252f46dc27c8f03e358
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 30a80296135068cd24289598a01bfaa1221f545576656131b18ead4c27adf489
+Transaction successfully posted
+(*) CREATE Transaction sent.. - e40acee760906d0328266be648fbd966ae4366bb5b62d1c59cec043310cf4264
+Transaction successfully posted
+(*) CREATE Transaction sent.. - a4f4b86adee82cb0acc7ce4a434aaffa2a9bd6a8758070c6ac553b352187a000
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 46339bf91fee0723f793fa5de62f550679c1e85e1cf4a57b8ff1db22e76f3f51
+Transaction successfully posted
+(*) CREATE Transaction sent.. - f2869e7fffaad96d749eb212dc47c3b76940757456da468570535eda93f08c43
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 04d13f000b156c8ab8dae5273b234120722236843d6e6ba244b953c5ea9166b5
+Transaction successfully posted
+(*) CREATE Transaction sent.. - b7cf6b57ede77767724d2d13549631edf459680d6faa5741b4c4b71381439e21
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 67ddda61d688adeed2cedad7cde530eaca9ab773703e8273900d8bac2d9abb45
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 47d2c59b2dc1ea37408af888b4f6751a65596f4d31ee98793b77148d89423171
+Transaction successfully posted
+(*) CREATE Transaction sent.. - d1c04d7dc10e2bde67093f1b56246eccba2cf7277d87ff1fc737fc6292189fcc
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 093d1eede5b763d8913635d0c9465f12ff54c9fc5ef06c1e3f0275701e63e6d1
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 850d17d0609bc66aa3a08c869f8601b9d2308a034f7fa328b5e98c4a70bf4f58
+Transaction successfully posted
+(*) CREATE Transaction sent.. - ab549695b591f7a23233dee0683e5c3933f5f09067e225c5b3e71bda63dc0a69
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 41064e2252687a31d5f1d78e9eb6e79a916a9bbf4029fbfb7233ae1a5316807a
+Transaction successfully posted
+(*) CREATE Transaction sent.. - d44171132ebad939232b9561e60d6b39d4eb4f83264054ee0cb4efc998ff6b7e
+Transaction successfully posted
+(*) CREATE Transaction sent.. - a29ef48e4dbadffdb8a511f26cfcaf4e23e77042acc8f57e8a78e33fb9623823
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 7e0728f1ca0d14d1c2e68f08d46543eb222eb30dfc48eb6eff03ac1b53dcebcf
+Transaction successfully posted
+(*) CREATE Transaction sent.. - c5671ee6056437e48108e7f73666e4a51c7cf7921cd255604562a753433984bb
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 262f7e4d64e57ec73ac6de5f77bbe3ace9aac139e2ecd6fe3f574aaa1cad6596
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 4f3c2c1517479f7e109f4a09d8c312298af841111420d6f3ebfa600cb17c86d8
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 62796cfd1eecb840904531fa809933a1a34a40193e6a8cbcf2bb072369c99ebf
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 33ac6c9419df91263a821ed9e535ed8f7c4c6e0697d46d0fc3685d9ed16f6509
+Transaction successfully posted
+(*) CREATE Transaction sent.. - f740c8c32549af8cf28161ef4b331717b8bb4e23c939cf6ec09de06572a43d25
+Transaction successfully posted
+(*) CREATE Transaction sent.. - b2a96d8ff1949d949cbb297c59956e313e46d4bdc4ac7b1ab5f4fea31234bc86
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 302fa30caa60dba98b728c2e126ae0c51573c29e1fe88e807849d15b79dfe0c2
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 2ee714a44bcc766a09b6e680f525d3b12ef480148f94cdad50d333ab2d2b8939
+Transaction successfully posted
+(*) CREATE Transaction sent.. - be7998bfbe6b779f994434c25ec717061b3f1ae5ef8fdbec696cdfba27f55452
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 4adbd3641002e4b13996b0671da053004233bb8b607f3f8d3afbce91edd62767
+Transaction successfully posted
+(*) CREATE Transaction sent.. - e9763645f7759f76ac1493c329afb7ad6a29aa8c7a9916672fe353e89fc4cdf7
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 268f6010c6b447245ed259db8d8dae7fd3cfdf5e7f65364dfb05f72d8ec1a4f7
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 0501bf5a029c4eaf0fe7c23534b81372935e9b0c8442eb3816890d1c7a57cf7d
+Transaction successfully posted
+(*) CREATE Transaction sent.. - e6474ad68450115641687109a23e906816ffaf705dee645bb0115de221c108b9
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 12ea928f9a6110dfd834d0198b0b9b85968c42b27d3793ff740a02ddda7ab042
+Transaction successfully posted
+(*) CREATE Transaction sent.. - d57b4a5c9fa75d241681cf4029cac174f4369f521bce40477d43bb2cabac8c01
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 52301dc117df7192a657436caebc1d75d8cec13d2d4f1584a1da982600a3ab91
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 32cc62db042ccaf51a64fab1f4b536526bcd012670ac53f5268ec5e85bd5ce4f
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 21224d92abdf83203d0c77bb37b247f5bb954265e011683733b37f5441a8de47
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 8aba5d1c65cbedfabd3ebc76acbc22908c8fe3c8682ad5541a6ed3aea51ab481
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 72f1194276831afe3c10fd4996474b28d625283a66b7db6ba88bc30375ff6398
+Transaction successfully posted
+(*) CREATE Transaction sent.. - b55a0ea0df7adb22af2b1ca332d8d8a42d16133abd806918ebb5daf6900b4bbf
+Transaction successfully posted
+(*) CREATE Transaction sent.. - ee2e96120ccfca1332efccd02e9d03c163f8fdd445dc8559070236df65e14dea
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 7892ffc1312d358964a62b3a217043da0dfa6c14cf85fc54076b868343964f16
+Transaction successfully posted
+(*) CREATE Transaction sent.. - c838b0e0ad05630a4e83a7f79f70f07682e7d13505500f4b454961141c41a8b5
+Transaction successfully posted
+(*) CREATE Transaction sent.. - a1a12591b187716bea63598e0d31886b58e9e6d0f0b98e2955bc23105c7d1a8a
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 69e094264f68850fff4e7a9e56e2fb5df891e62c1154175b25c926e3601ab502
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 9deef97e25947ad076b06b6168e594b112c12425a9220f0b39da6a8e22d6c0bf
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 29520512ca44eb70554cdf5ff686adf40c8a1644a5f165104aa613e316d067f5
+Transaction successfully posted
+(*) CREATE Transaction sent.. - d3c6f3b57cd1099ad3f03eb22c17ff9210bc9b657e5adceacbe63aba1b476840
+Transaction successfully posted
+(*) CREATE Transaction sent.. - efb85d3dc82b43511ff25c00a80c475ec4b13ceb5e24654ad6d448355ad5b0ec
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 971a2d1f81f06c896cc6e7c36f876fdd21db7df771dc061783f0159608e699e1
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 3f2cb0aeba0e9e2700967ec2469839b53253c4aa90de7469e28eb0c11f7900bc
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 4315cd1c06ac7ef38b4dedc4d246ca0bf552f1f5cbd3e8995ee8d9a068d1dbc1
+Transaction successfully posted
+(*) CREATE Transaction sent.. - ac119a18692731e8d6b70b87662bbfddf4a083b0e723319325c7aa97d6333301
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 54a2a274658b5f72737966cde333a58c09ef37311cf13bceba9604019c3b68f8
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 8016c173f1b2f8b4f45b194409507048253f776233e5151ad89ff911f5792cdf
+Transaction successfully posted
+(*) CREATE Transaction sent.. - a8cf3a19e3e495e91d0288cf6eaa470d34141e452868c34c4d00d852945af15b
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 6797d689c449956198563b191bf4c930060f6acb69daf4645800d6004165d742
+Transaction successfully posted
+(*) CREATE Transaction sent.. - a7a549e5c9072159659713aaca9d2bcb8f5ba13e2acbb3205e6b6f293d3dbbc6
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 27b56a302927095aad1e5e75cd0334103730cd555e6af1aa80ec010632984861
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 6dcad9f48c5696ceaa42315542ef37f9b9344cce42e1503e499bbc7f24d02794
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 12a254b5fccbbcadd9e1e5f5e656bf75eb7dc70b0810f753e5251b92959dcd10
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 27a9413f5ffab6841a41b03e2d2231b1ee38fdddc922ff5fda7f80338fdc6e20
+Transaction successfully posted
+(*) CREATE Transaction sent.. - ad5129a0f1ab44847644479f315670a055010643d7e37737b8d191d6b0786ca1
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 055b39e1a0bf3345a6bca5c7cd35b71d54883e86e6ea48a87dec7465667655f1
+Transaction successfully posted
+(*) CREATE Transaction sent.. - ba19717b0986006cfcaf16e051777d77b5afd73e0f4a532657c4e3752cedd019
+Transaction successfully posted
+(*) CREATE Transaction sent.. - e1ccae11329dd016cf5732b0034c9a7684c0434f06e8367560bf1e1f15287bf2
+Transaction successfully posted
+(*) CREATE Transaction sent.. - c3fb8f47bdcb11b2a9193a438452f88ac335f1971619a7617d82b0292724c68d
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 00a356cbca5531031d23ffdd69faa0526857632e150b40a23caf9e2634a5699f
+Transaction successfully posted
+(*) CREATE Transaction sent.. - af2b4c68ee0e1db5a309bb9f9bed1b59ff3a7490c47d7c622c9fda7d5789e93f
+Transaction successfully posted
+(*) CREATE Transaction sent.. - f0eabdb1f2936fcc83863a1ee25ee99410355091b1dbd987e2179534c220db68
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 1ab64ce0e42abc7e65d36103e7fd7c9f1d79402feb2e804350f1925a12660e73
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 2f91d9f0923817d754e563c081387e5d3e72b8af4932c8952c1ec785016b287a
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 61e00a049877211c94be5881e2dc9469aa2207c8f1e2152864ded13bfebc27f7
+Transaction successfully posted
+(*) CREATE Transaction sent.. - a69ac0b482745b18cddaf0b3a77e78692d8f05d4c2e4b5fc6a86a3114b9df213
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 09aa0dd6e59b945fdcdf0d8308f11f474b038cd5d5bcfc434a3f46488e8af5a8
+Transaction successfully posted
+(*) CREATE Transaction sent.. - c1ac0f4add30fe7a063e1d0f3c1506e09b8eb71e00a539ef4c3151defc5a89bf
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 847a5c99b9aa9b23e73b8cf9bd7ad7ea00c63a2da9bc2c86ce815fd0272470dd
+Transaction successfully posted
+(*) CREATE Transaction sent.. - a54123261225e14706f3c0cb263343f0b561283112106f926a38844edf82790d
+Transaction successfully posted
+(*) CREATE Transaction sent.. - e95bdce9c9e04c920a0650ca56e89fedbf0089017cdef2a52c778e605501881a
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 4d554078ad4618b6b7e97ce416adf1f888427b45542cc7b41a235319ae555642
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 628aee8cc4b306a0ef6a2431739f006209f647433cced389baaf9b6895994fb3
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 8a50dd5f5a5c11f67d0a4de2430f75c52c8f9686e285591842a27a3d2547372d
+Transaction successfully posted
+(*) CREATE Transaction sent.. - ded660e5bc441a92241580abfa50f1de98faa679a50dd3b691670ac66d8c0d32
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 1061cc604e9e230eb6ea21ef422c4ef072ca72c64aea7c7ec3e2bcd8b80ae897
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 83922879d0b11bdccdb69db38b6da944c612d1fd496441146a7fec18cd5cb7b3
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 6dab216ce95cc3afcc03c8376dfd297436cff2c1c6a9561c5db7c4d2a6e333c4
+Transaction successfully posted
+(*) CREATE Transaction sent.. - a458f1c6ebe9d97db97f0c32b03b68e54865652f2f0abd4dc863a94879350c1a
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 581829ffbf91c793c63a2ed9c783eda76c310df1b806a7d37125d37b02627fa6
+Transaction successfully posted
+(*) CREATE Transaction sent.. - bc0f47067d8a311d18788e6d81bcd8940c52dca251fc2add439e393beb8b1c9f
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 03eecb99c1beab2792333b6af072dcedabb84b06d53a56e7965380915fd7e0fd
+Transaction successfully posted
+(*) CREATE Transaction sent.. - a8eb88c8e2624bd733a52f6d8eeef5f60bd5c27abf76cd2802c385edf3d0d056
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 3f8f906b7c723a3854c6f4e9a69570d22381743040cfed173028389a91f001de
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 2785d9e84af5c6e5e2cc5018af271589bc5a7e150957c7a1a0f74b73ba94b673
+Transaction successfully posted
+(*) CREATE Transaction sent.. - b06d5ee9150e377c5ca182975da8a781dba69e03f1893d97691eadefbd129fbf
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 2f6c1b2e788699cc8ac8791bf12f7f81af038a6a73e3a863b77b599e01cf585b
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 4c4f3982ac6be12fc207258764e610414c74d700580cc9b089970ceb0b2cd2ed
+Transaction successfully posted
+(*) CREATE Transaction sent.. - afeea414fe864f8aecf31f9b4da27c40331d7ef48243b9cb7b0ba837eb527044
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 0952900c5a39f18301502930d324df878d1c26799a7fea9047c4297a4fbda586
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 18f1b67a27b6b479596558d0a05fa2e53a266c97ac3b6ab721ca597886d9519f
+Transaction successfully posted
+(*) CREATE Transaction sent.. - d29e66208c2543b663e0b80486397f828c71827b0324b33ab7fdbb3c110d7055
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 633a99a1128838b5869a491f6ef72452b33e366748ea13767b5ee5b5f8965d13
+Transaction successfully posted
+(*) CREATE Transaction sent.. - e60af6a5a717e7a51512e986702c92b16c1cc4dc171d61dd7e7a86842066363b
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 1c677106a0615bd76ea5ae44fd74605cf7da990f53acabfc7c77a73e2806dcd1
+Transaction successfully posted
+(*) CREATE Transaction sent.. - c5eef5f54130459e91d03df5dbc5a85fbbae7da7e88b15b8023af26b88e4d8d9
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 0f3a96ba5eacdfaa2b12a5f3e09703cb83c1241f4eef9324caf7eb44e815b3e4
+Transaction successfully posted
+(*) CREATE Transaction sent.. - fafcf9aa4f0d1100b5a885fc8084ca429656d220380326b1acd9dc743e28c957
+Transaction successfully posted
+(*) CREATE Transaction sent.. - d741c83392300518a40cfd5d91acd0c6428f6e8a4a3d1d35173e07846c11efbf
+Transaction successfully posted
+(*) CREATE Transaction sent.. - f85aeac77ccfb00edcd0b5dd9c5a2f5b0c6a274354af842fd84b39565b6872fa
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 132cabce5854dfc3da2cc571212b22e2ac0bea3031d4408c028a91aaa19a2d2e
+Transaction successfully posted
+(*) CREATE Transaction sent.. - edab63f9b02d465a6a04e3a061cd2ec7d12449ec91873762fccd04dfd69ce61d
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 582db6e4fd2435e75370a0464983f4c91bd2e3e0963af42ef80e04173953416c
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 5f21e73b5348a8175115d441161a560d2775b02e5fd206ac80c84ee0cc23a76f
+Transaction successfully posted
+(*) CREATE Transaction sent.. - bcbf395d94171870c65adf51395b2e82e7b30fa7d0b0c98f60c7bebbf7bed436
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 6935a96dc94e1240c19f23d062e46fd965d40abe9f81b5957165c5200ca0f3b5
+Transaction successfully posted
+(*) CREATE Transaction sent.. - cb0bfb8a6b3d47a62768517736c4a21bf48c66abd072f216984dd58be91fd437
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 2557cbf361db20539831ee173244615f92c43926905d1e5e4a62f0b88fba8805
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 1e85f37f3702adf1b26f22c5891e22b788b4743942b671af0303d678d7584cc8
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 32c25ae0385f6f149c7e26a3d6a67c042e2b04e87698ae2b07a26ac3509b4583
+Transaction successfully posted
+(*) CREATE Transaction sent.. - ed3539ae8fb02985dff7bdfb044f21340dd43e6b05adb41d4a284af3d42cf69a
+Transaction successfully posted
+(*) CREATE Transaction sent.. - e32f513e7e8d2d89d05bd2d78b42efca6d530204dd916cc97097e82ab3f13c6d
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 0a56667036ad0a485984d084e078aee3700a5b38b1f3f44ef8d394177bc52c43
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 0666c10f82e985efeb8940729bcc8a0bf0ba93b3b6b108f4084d9a434986d502
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 4f8c7ff13b8f3737b118d9cbf4fbb95e0361f67b13e71f9e393ed839dbcd6b2e
+Transaction successfully posted
+(*) CREATE Transaction sent.. - b805981cf4e9cecf3c932001dd99110b3106a20a14e06ca5750af34a03b0a61c
+Transaction successfully posted
+(*) CREATE Transaction sent.. - e3be2429ad35e050d99cfcb9710298e80fd1303cbe5010735d5fed66121b1af2
+Transaction successfully posted
+(*) CREATE Transaction sent.. - de4393ce146ab843ac97cc97c5e0e6b2308de9e90ae48b4fb0971c80b83cb66c
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 2f9930b1fa4b162dbafb62b6b55e1b5851669fbec726c2e650a276364abf1c84
+Transaction successfully posted
+(*) CREATE Transaction sent.. - afaa221027ef5c84ac34c824ff662177ed23f267912a2ac0d02fa6bf5a68b991
+Transaction successfully posted
+(*) CREATE Transaction sent.. - cea8205e8209c5c28651f51ad7bf0a9d0266da3ea467ff6e5bf0a982bda1aa6d
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 2ec378f31366e1ef05b78ac95d6a79e91948952e24a583ad068281527c414e35
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 991b21e27dabdfdfd242e019b3ffdbc35390a342e90695aa95d1e3f57e359833
+Transaction successfully posted
+(*) CREATE Transaction sent.. - eca0d09081cc08cf8033ac4efaa81aeafe7a1da28349d0b1377efbf410b35fe4
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 5ac780e25c3094936fb2ab321f99e3b7c00e36fd3d4acffc1ebb11f2a89bfcd8
+Transaction successfully posted
+(*) CREATE Transaction sent.. - abbbbc59099c160012cf2f29ef3c206cdd17c2aa521893ed4c66e3c406d2a415
+Transaction successfully posted
+(*) CREATE Transaction sent.. - b646e8027027a8b308b2a249bb733bf22116272b58ecc2b541b63cacf7c26eb1
+Transaction successfully posted
+(*) CREATE Transaction sent.. - eb70fe69c14729605e72cbfcbd844dd2afb242f04310cad81cdcc0338395be0c
+Transaction successfully posted
+(*) CREATE Transaction sent.. - bad6c8b2195bc26209c317784936269640a446d43f9cb00eac4b8032c74067b2
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 18fe70987af63f3912a6c09e85104bc468da0d1efe012d262d8fb7a36870de5f
+Transaction successfully posted
+(*) CREATE Transaction sent.. - a0747ac78f772a12a59d88c5831ea1e321c60999bf285d5578d3116a2b4e95b7
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 80cb551b63882a72b2bd5be190ebddc1b1a1088dc47f32e605ec0b5abda29620
+Transaction successfully posted
+(*) CREATE Transaction sent.. - a630c3d07b5270679d1413ee07e4e920eff3bcf657537012e939c6ab5a04d969
+Transaction successfully posted
+(*) CREATE Transaction sent.. - a44572580d461d88ce0f8749be1b2628e6c9adf9fde6b815b44281fd02ded10f
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 6151678044b9528997e770ada7c413ca5332db24d65ec4e6bf755998f118d1d5
+Transaction successfully posted
+(*) CREATE Transaction sent.. - e04465260f8d919ec74e5023ebc48009a6a3d837b37449906d0cadf32fb0c7f0
+Transaction successfully posted
+(*) CREATE Transaction sent.. - e7c07c134fcd7336dcef906f684a68b079e7a284a785a9d2ae3bdbec8b335d74
+Transaction successfully posted
+(*) CREATE Transaction sent.. - fd1300d7b5229f3f6d980e1f9bbd5ae3d2771514c9920d602f92b609ae25fed3
+Transaction successfully posted
+(*) CREATE Transaction sent.. - cb62c2fe8c4433689afb71d91a94f859f297624e3472c863affd40af50cb4e5d
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 344b760521b07aa9ad70e5a878c503fa57c784851a89f6607a29060272a151b3
+Transaction successfully posted
+(*) CREATE Transaction sent.. - ca2fb691b9c6abf5858dd3a6d015be35ac738edf893dfd8c86c358bcfbeff64b
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 39845c024e2c0aea124c5c3d5d0273368d41e03d466dacba827ee0ac45f13865
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 463186a5348aee56a4c98154f051936d9a1fa392e90cb5704169b6f8bed5ae22
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 3dea483498b1d3f410ca2d4cfe6497829187c4c39433ee526cdd4b50830515e0
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 5d7592932a5fc8de7734b7c2f965375ff53a56b2b872c684a4f5db06dfb00975
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 69209955902e3c0a28371fc4cb25058f9742966781227b5435abfc2f0fa4d7b2
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 2e160f2d2ffbbd6e759450e837f7c55d396b5665762c8f014109379a6e7a8e64
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 9d3d4ae4eff439e87e753ceaf8f89686a32964e5091be5b3c0c2cc52efe5ffa5
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 50776eb1feff7517a40202ddf861ac1ef67ecc88a5f9c879366e0b7601940d8b
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 68d6a0cf9e68a9cecf7e5cc3e6bd227f1ab72ebc4c13200879f409d35d17e250
+Transaction successfully posted
+(*) CREATE Transaction sent.. - fb95cf4cc41259d0165115bd70e81f968510714c64a5ac27f63e2b343628cb87
+Transaction successfully posted
+(*) CREATE Transaction sent.. - c6a2198523da22f66fed46d5b049c9d66fb1fbe42c9807a37a1e143a411f1a4a
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 5d17763665c202004bb9fd41de39334017fd5f363c60aaf1657b5c56507bebe2
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 7e523877b2828d03f8381b9b3d456c0473aec8898ba3dc5f942e6249d6148b49
+Transaction successfully posted
+(*) CREATE Transaction sent.. - ab24de11e544718d295692f664c00258e8cb5eb6ab5400da78dfb212bd55157e
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 714a31faf725fcb65069df38db6b8b2312a958290f617ae731609c1428864455
+Transaction successfully posted
+(*) CREATE Transaction sent.. - a01e9223d45b27b79211b23665c4dbf9145d9fca0cbe5aa74b365dbf076dd4b9
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 42c03279ea0735385aedd19d043f9351f5fdcea4dc8cddf0fc172eeb20f692a2
+Transaction successfully posted
+(*) CREATE Transaction sent.. - e321e77ee5e3d361be22c541df3ea8583aebef23ee860c79a32400f226269cf5
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 031cbd2d78c36079cdf9579acf30d64db50354891552fc8248c380a5da9f1f78
+Transaction successfully posted
+(*) CREATE Transaction sent.. - b8df66800ef9d3585ef2904d9137cccd14664a0a690d4bee97d7e9871fc6cc46
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 342756e4a8e6828e75cca984196a79ce5f8117e5631e33ec80e23a76de0e96d2
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 9e5436118db7dc97425c9d70c3494b45234606346bde6a1021d888cc8442bbb4
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 4987a93a63e9223ecc1df39be9e6b923bf156ebee048ad74fdbb64b5a625181b
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 1865030c1154f95be87621c7677448eed492d52b552bfc0e997af2547d020f84
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 1744013302ce01a75a234225adf2036478588411b7d515bbb48ec18f6c7d8e35
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 5cbd98673e4663cc360fb89986b74f2bfdd8e7fb941bbc841fd3d9f5d0dc07c5
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 648602bd61db865fd24bc6007232116100e925ccd7e69f19f556119cfd857830
+Transaction successfully posted
+(*) CREATE Transaction sent.. - f574e999f876e59fb858b080e70c422da3517a43f734ec35d2e9c11cd8cc705c
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 3e234a9bbd67c973a47fa0d550ab6e4d22725e1bdf84ce80b3c9e991e783766d
+Transaction successfully posted
+(*) CREATE Transaction sent.. - f778dc5a9a59995d8459a6a1bee5074da9623d2161569bf46717a1620c6d5dac
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 6e0cdf86d598993f0d69e5e8d4291d622cb06107b8370e065a43fd89a5df566d
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 94687a867ce765da4b26ebc5e9627b2cb30b67f97a2624d5ca5e69319c398ea6
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 3983c002983aa8489716680a830a2b0f805853d9b57b1d18bd0ad1d9a777ac1c
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 5d9cad2b559a3d86bcce25e176e835f3f600a82ab6add4bdd042f7377749e54f
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 21efbb56c07e5fbbce56b2e44c5b65dce681aa6357c2b6fed1c8d2b5c6b2c1d1
+Transaction successfully posted
+(*) CREATE Transaction sent.. - dfe7143bb7ee68132bcf179a3a485757fe094e863db2709e707eea6f1e4d0c6a
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 9eeec7c606b1c66cf2d3bf6eabcf297c2bd5b815446e0e687b8fb735611ce548
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 97af83c6f39a2d268e0aeda8be9c006deea256696ac1ed9cbedfd7d3c72e4129
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 20fb1905593034c604d13a2c8e8440d6630d5f311da90cf452000a6df9af762e
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 7f3a096d80ccb58433a6feb3bb4037dd8eef90b19a3a9c4285957d54c6f37f77
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 2a2b29e3778a677e900f51eaa476dc0824d221fe576f613d476fbaec870a7820
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 827b639e88645e87c19872bf8764618e2ddb6fa09e9ea654af6edee3b8059b1d
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 065706e1919731141a38ba67a8a88b469aa81e42dea6aecfe950b051e1fdf85a
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 5bef3e6f10946d47615b0e5990f2cbfb2e5ec06bf8521ae031639212781a1c0b
+Transaction successfully posted
+(*) CREATE Transaction sent.. - a6532eaf3fa35d3da46a6426767e846af3e33ba9d740f4f91e520e11435b99fa
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 2dfc16a2e7b3e00e02e83a80b804c8a0cb13d5cc2e226c66f2aa153e034b8855
+Transaction successfully posted
+(*) CREATE Transaction sent.. - c791cb96a70a45496a943b72f87dfa473259184e173d64593adaae23e3200788
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 571c88367b1cf0c17a30ccf5c5c2b9d3479ab4e3770de723ee131cebdbdf1f5c
+Transaction successfully posted
+(*) CREATE Transaction sent.. - b07d6db40d960e43456bfcdfe6e5a82a7f5c40f1a20021e2412185dcd91f97de
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 74ad1328ae0efe2e69fd5ab77c3488b90f304176209a3226f9924e3bf69a9ec6
+Transaction successfully posted
+(*) CREATE Transaction sent.. - b742535fd983f04e15c05b2dbf0ce9e7f93a4690afc342f817398d248aa1d481
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 273b937a4dc30bcb54a588f7661ea8517a43c08db1344d4d10096f5ae825eefd
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 26e779a77cbdce94012eae3059cd4cf0d5486a498be12e7cbc5e2b1c67927e51
+Transaction successfully posted
+(*) CREATE Transaction sent.. - e193e1c141c7b7e71448b58d887b937efd65e0585be16d4bbb2ec1fb7a374a94
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 75dc2232df962663ae0fcbd33541c5253ed87a79eb7f1e31c92c33252e53c4ac
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 021d45723386b101924b474f6a299342dec8b839dc9eb0370481cfa22c131795
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 4f332a3b061d1e84ac334394e6ed7f50c6c00f0db2c04544acc4520072254732
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 8328e28553af7c736871e4d20f6327d8fb538a484f28f6595ef8080121336b9d
+Transaction successfully posted
+(*) CREATE Transaction sent.. - ccfc24dd83d93212867ba1fd480276dabcb0351ac9307857432731dedd6e4bce
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 681fc47f0209e54879541b6d9f49b18a433d4595310b86b15fdf98e75b8b6484
+Transaction successfully posted
+(*) CREATE Transaction sent.. - ceabfa1e692e02e4bbff24f42a40691663d120dca5bfd153859e9fa886eaf730
+Transaction successfully posted
+(*) CREATE Transaction sent.. - ad7fecfd870a211b150e83d0cc63a3acf39e67df889df5c4863d79f3cbb27578
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 9c041a6686586cc1b312a0866d482f90af887a8e06371b2d5bcb021b4fe3706a
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 3771fb34009951f7105feb77f37d2aba4998b6e3d6029c3654120732d475adc8
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 510380c09d1844a7af1d18858b3ee8ab272b9a003be96a74116d49ea97cfa717
+Transaction successfully posted
+(*) CREATE Transaction sent.. - f61e80ff598e24304c12c660b5f07061fe2cc21844fab974bea597e0399f2aeb
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 77e939b65114ccad3aa6899fa09b79fec77dda3bdb730da5a7678d2a5837214e
+Transaction successfully posted
+(*) CREATE Transaction sent.. - fd05abb168b79dcc088c298c52bb03888c9352e6ff4b729d4355b08a7ae760af
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 63b48d3c354694fff7dc6bf37c43cf1070f246de7bb9e1ff3266ffbbd10dff73
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 3ad55827e6b2b618308f3f4471d9823572452335211cea794f3fa2671b1c2ac5
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 2c948e08def4b2182f17b4bb1028745e58bbffdb04caf1d2fbaaab79d6bdda6b
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 5a8dc9c38f56dc89ac6fe51cdd33ecb8a2de58ee0eb331f3e7bfaef61a10dccb
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 2fabdbb9e9478e83618cca574755c64ad78ac03edd75f5fe1a7277788b9b7054
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 0c55cd3f7f11bc6c239dd7dc6407d397cd6fd6e356f094f1746fc35a7e1ed807
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 126026231df8ba86459ef466adf82256eba50f51872cac1da65ae2b5d14548ac
+Transaction successfully posted
+(*) CREATE Transaction sent.. - a7db9b315302166d02d5ee195a4815efae69f3d003c602d4858118832a8434f9
+Transaction successfully posted
+(*) CREATE Transaction sent.. - a5285929e243a2f29bb8de35ba53ea1fd6a01517eb7e7f15b0622c099199e14c
+Transaction successfully posted
+(*) CREATE Transaction sent.. - d0791dbbaec8b5004ad165ba6e6e708fbeb0f2b72c975225850ab59e0a8413c9
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 5bc04ea9b4f09c06be5e27415c98679a4bd2222e60fe24331ea71318352c9b3b
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 893ea70cf7054736541dafa654cd5e26611539244d31319a61b17fb79922b78e
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 7b1eeafdbc7e60fad67e57d325bf8ffe8a90f36c3ab4d4a4247bb7c23c559bab
+Transaction successfully posted
+(*) CREATE Transaction sent.. - e461f86a931c929b50a1d0efb74abf99d8008db1ebfca34d87f012e10d31127a
+Transaction successfully posted
+(*) CREATE Transaction sent.. - c41de41c487a67a8369dd74d13238d2b73469b931cc73dd71daff72600cd5ff2
+Transaction successfully posted
+(*) CREATE Transaction sent.. - c1a7aaf29b0c54f8ade2779e213230b37e607d1d799ec651ed359e312724e086
+Transaction successfully posted
+(*) CREATE Transaction sent.. - ebb1c05a61e5faa751df3acbef7eb09f65bafdb0cdd2e1267141784e70ad2ed7
+Transaction successfully posted
+(*) CREATE Transaction sent.. - ccdf71bd8e8ab96f58a0b1395a959258e25e8386b2b3ae85d97decd32144cf17
+Transaction successfully posted
+(*) CREATE Transaction sent.. - dc3820ddfc71e3463010f3888252772b11544cb61fd1ce8b4767b42570a4e986
+Transaction successfully posted
+(*) CREATE Transaction sent.. - ced551f3f1dbb4690445dfc762c18653b7fe14bbdd61d0b9bafb642ff25f1608
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 45a29186ae42da05d1133bfacb5b9667b7492f67c0b71812c477f33eeeb29b0b
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 5a5cfeb26b9db7a3ac88bc5c31e14221f5c13926000c5c1d79d8d153bbc470dd
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 7712bcbe0dc38dfebcfbe405b6608d48ee56f66cc90d80d6630ad185b67a213d
+Transaction successfully posted
+(*) CREATE Transaction sent.. - defab7649740f2fb751d05aa8c9fe955b85372ceb0e0442efd08df390d7f5ce4
+Transaction successfully posted
+(*) CREATE Transaction sent.. - be586273b25b6b89bb82c254439426089b0e219453ce966043cbf589aef7f88f
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 27ffd72bc85f2db4cdc0ff81c5f0b149c4eb272b41b91094a256032ac4b6a1db
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 95410c2e94876bc6ff21d10b2306bde42501329a044d6b641b2ad61cd5602d56
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 0fd0e297ee0cede7e402a320a8a608a51b8fbe94340aa48063e5edd5dc6c40dd
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 7f78b95f726cc4c73cd6b5a5c94e81a4c9ae465c3a9093c3fa674b0e6b1c0212
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 1e570b6ac3816f60a8853d0c0cd9c698e55b5d21851a567098ed8b285632d6bb
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 1f48fa54e9adfd5f235b24028abb69ee9852e0675089987c1e0dac4e413633e5
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 6d4d33e1d6357f747167fb5d908e845a89621aea1697e408d05659fcc290a943
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 6cfa354484209fc6d75ea3c033547cfbb01f05bbb0417b4b8777f44d19f26038
+Transaction successfully posted
+(*) CREATE Transaction sent.. - f6d3392fac42a2f0765bc3532f58ea6c95225ec8acb2d912c5586a2fc128af6e
+Transaction successfully posted
+(*) CREATE Transaction sent.. - e0e8ded323aecf51617e38e9c42d053f3066db7b2ef8cb97c08638e7dded13a6
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 150ff9e08b6e4811afe4e71797664286ee9a06733ff4f2d51b93c79a3c5e01f4
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 1cf3badad081d8fd91cb64de74ab2a6a71368f07bc7b35b582fd2af0c070600f
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 32384460e38b5b4136d962ed099a0f1377799a8af90b1d61de942751ba10371e
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 7bdb1fb72d9bf67fa4665f4929f29043136caf226c36eaf90d1abc0cdf0d47fb
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 44065765c5beaca6acfe9e7c4c7d574437056e931daf4df6cef3225894bb3faa
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 10377aa9c15d8de358a637349797990f3c00bebcf7d904e71f0d6b84796bead6
+Transaction successfully posted
+(*) CREATE Transaction sent.. - b4a8adc272458c14a96efe39c00f20e134f698f5c0118aac4039672ff91f4845
+Transaction successfully posted
+(*) CREATE Transaction sent.. - b1e3e60b7b63c4e8fe0eb9826eac19c9ba34c179eee1440309e2045b380e576e
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 39dafb74640ece6d17e8bc244b61f33fbb227a6a3d38c98937d87d179beca07c
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 4a74b262bca05812dac41b055aa8aa18ad9677a577162bed42c76da23c69315b
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 143aac95c16db4e4809fa26bee26d48978b1c6aeffd66494d25a641803fec8a6
+Transaction successfully posted
+(*) CREATE Transaction sent.. - fb3dc0ba2742ba8ed411d1053fd93af445eaa90a31b3cc862c3bd616615cf013
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 3fa798ef56d60b9caa448ea87bef2691abd24bb52d3b6e3caa8f9a0cd383926e
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 225749cd6407254e651f3a4f50f87fff21042c184e1f08ab01cb142ea7bb9a87
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 40fc3f1840ea410cf34fd317353bab0da3b99dfa1af3cd649aefe3e116285694
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 17253c92934aff4f5b91a99d0787bae9fc020b4ce8b189098801740741d42d8b
+Transaction successfully posted
+(*) CREATE Transaction sent.. - c5cf63ee8698b4f73d7a16e6b24ba08df7ad7be2afdfcf0c6c803cd9a782c000
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 7bb9da7ca3e2cd9381cf440d2dcc9d4d1f4cde4ce1810876e2f141ff64da2edb
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 2e70fdecb2a8053e6e891b353445e390cd4470437561fd1e81324b6b67e649a2
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 07e33d451bdf7f2179ea695bd8438f57ecf6bd88271d24cb0cbb42c5a302dfc7
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 63bddb2878097629eafb3838a156825cab893b5abc7ee0b580fc8f1eeae5e1a1
+Transaction successfully posted
+(*) CREATE Transaction sent.. - fb9123f670291c63dcc924d74e4f15dda1cef3738f0124d6901fe5cceb4a8680
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 85e62bcaca560b9aeff7285b25b2199639b4ae3ae1f9fc16f4ef90a041e575a8
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 7bf4e3357d5f473727fe8788a279f4e795fca4ae5dd9c93a43283881d43ec1eb
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 43a22122b04bab147d878dc2c136e7025f319a94743d44270ebcaac0035b56d7
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 417d2418fe452c89ca1ccedee8a00dc2de77974924dfa4cc8f6c772658446095
+Transaction successfully posted
+(*) CREATE Transaction sent.. - eefb1d7405496597520c7624cbe0188d548594d0327946f4a9e22d46a9d83512
+Transaction successfully posted
+(*) CREATE Transaction sent.. - fc7b0433ae9da7ec6839dd090becac0b435f331bb7c07fe8b7085c6f6363bdc9
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 8dcaba226f5d6a555ed19ba2beb198f0fcb049f430a79cfbbe9f061b4bf62b9d
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 72d1c197f5b6e5dff570855eb5718bfe7ee5f2969f3279e04cb5023dcc99159d
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 9597f21c7b5ca574827a1e168e20ef3e5e92a4672b3a2fe36c62416bbb82fb03
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 5aa97777f81c7301a51d5a9a1009a56ec8788a8c4cbfdffdf37927ee7aad0e39
+Transaction successfully posted
+(*) CREATE Transaction sent.. - b157bf9cc55466f823e8ca931ba7104f45792e574def1884ecc7b130cde669fc
+Transaction successfully posted
+(*) CREATE Transaction sent.. - c036883d5c188997ab57e15fe2e9e63adb03526d8b44dbe489275faf890579f1
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 4ffc780cc7c3cdf5a8897a99b57feb8f3170029d06665d90c20e5f8efcff3b30
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 152a3ab34a3ed610f165d6fad4833397ede7af30236440ccb648c397d9b45065
+Transaction successfully posted
+(*) CREATE Transaction sent.. - ec4d243e5044517c01beadd0ffbc87d0e7d2683369a7b159703ff85e7d18b71e
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 8ae713392c4783083a1de6b4c68069be7fbc1a8fdecf9d5a68d5d3296ab1416c
+Transaction successfully posted
+(*) CREATE Transaction sent.. - a366d94f7dc87fdcb5cc6c9b174f56825d2a16439225327d63745bd2cd901b48
+Transaction successfully posted
+(*) CREATE Transaction sent.. - ee4cc2a2637867403c348a6df287ea92e152f012629c1dbd945b5ae27106c77e
+Transaction successfully posted
+(*) CREATE Transaction sent.. - bcbca8f4c83da114d75b1cd5b8f06b0f12d42a12f0e51a75174c7b959f6b84de
+Transaction successfully posted
+(*) CREATE Transaction sent.. - cd800322946a34e01ac26da202c9901cd017b3108fb11c885ed4b43d6f5db330
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 05579eea6cf2514df92cb4ddc3dfa7293102d22ecb4930b54f53ee2ab7571f8c
+Transaction successfully posted
+(*) CREATE Transaction sent.. - e64c4e2a0751e4e83b1a848b17358ffd3f68c49346e1d724d7c63b5f1b628a38
+Transaction successfully posted
+(*) CREATE Transaction sent.. - e12a1ba06d870c0a16d0b510b4e8165cf3b9a16813999a1ee6db98cdd78a2fbb
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 6ad247a8d810f557f4b8e659892c0853ea8a14f3cb6aa889b066b95d3c576472
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 6606b1096036555b1d78efb043913f8cb8af2dc60d1e660b7a579be4730229bd
+Transaction successfully posted
+(*) CREATE Transaction sent.. - c037a2dd0c02804f6fa8f46c8597a4bbac5f04fa05c5b2b6de2d22c3e5716134
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 99c6e62e27e88d2acbe7eabddf2cba4ebc6a3e3852bbfa9e1cd49a3c3525dc60
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 7a3abd783d6800a785da5400a713e538b95a0a1d4094577b2f4e5749812960e4
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 5d6875066672f4a6c0f2e8d1028bc79bcc47aaa350c2626d837f1aa2c3fa2d59
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 190c07b6943ad48cb8d038d71c6dfc73901fb48b4d56c0b69e0f46ce3c90391f
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 20aee5f9f41c6720360d7adc34014100c9de01e9d0b198257324fa3c5b525d72
+Transaction successfully posted
+(*) CREATE Transaction sent.. - ad3a6d64c855bb5137e67a43fd0bf514253e7ef9107385f44651dd1ea610cf7e
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 374f7432585bbeea7b1d7c70cb409b723a87cdae7160c5c8e1b77c2885339d9e
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 54fd475210087d74aeb03b822b0f727dc24c3d40fa4dfe6ecaf979c8f328c900
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 8ff187efd545702b47f6722bb57e1b68b01663713194ab498b5daf1e15ccf33d
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 3088bbd8dd4b78460d5de197255900f31a43987dbbebf4ebc4325cd04f3ea7d2
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 9a336d8b2d90375c1d4401dfa17e0ba6f5dc3af24cfb35d0353037b581f38ab5
+Transaction successfully posted
+(*) CREATE Transaction sent.. - d94708fc82aa6963c7723c43a8b80f39aaa8236dc989ddf1ffb5fbf09ae41117
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 6ab43a2044655983c775464caa76c3037f69e4f9c62f144464e95a62df1e92ff
+Transaction successfully posted
+(*) CREATE Transaction sent.. - a24e64cee927d0b0f9481fe16c30df4d250b3791eb496f1b9ca208ca848c88c6
+Transaction successfully posted
+(*) CREATE Transaction sent.. - d65486d19bd29cf0a9e99ab3b5e49c9c7f4c9856ffbb98cdec8e5cac224ebc51
+Transaction successfully posted
+(*) CREATE Transaction sent.. - e4faa6f40e15898a5400886ea4738dd25dae9d7db3b32be9c91ac67dd930acf0
+Transaction successfully posted
+(*) CREATE Transaction sent.. - a8b1df668f7563ed57a7f78d773a0dae0ec27368a616887d0c52f90694d01174
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 9e47f9a17b198b41f80b49949f2d2792b73beaec69205bf819e55cab114065be
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 149ac3741a790fc8b290957dd016965b9540be291589b8b3f84dc94c3d6e636e
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 0dd091bbcce7dedc97197abee33f193a3984d9d69feaebe837d5f3057921adb1
+Transaction successfully posted
+(*) CREATE Transaction sent.. - c1506872f3d81636408db28166c7f601cb6b357b5d7afd49b367d4cc8b563853
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 8fa22617c7febf9cfe71d236f7dbbcf63ec4d8169178032ad8c370b70b322677
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 7f28a4b8da8cb7b1339a3cd6fac4cc172b4327dbc04e649eae3fa23d6bc42369
+Transaction successfully posted
+(*) CREATE Transaction sent.. - bf00ff9bdc597b0376ae1c4083016439c47458170073eba2be52d7a5b70f5f29
+Transaction successfully posted
+(*) CREATE Transaction sent.. - cbdd2297cc1523b0ffc45f3d00ca35a06a13e34a59d2c12094005fc56d4499b6
+Transaction successfully posted
+(*) CREATE Transaction sent.. - fb2958a07ec5f2a4d02042331b5631c77fed8c0ed95bd33ccb3efbe02c253326
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 8b310c386876f7ff8b73706e2f208f773b9544450e4d026a0790be05b44398b2
+Transaction successfully posted
+(*) CREATE Transaction sent.. - d883bfd98dac4eade50e211adc39145fcbabedb0e020c8ad7dc7c92b88cddc14
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 4a5f576579bd1e0d8db8e087729ba298c6ce678dc560cdb964427f74d2bd5eea
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 9b56348f46c17f072983b63855871495df3910a70bd97f9a32bb1c470bf8b5bd
+Transaction successfully posted
+(*) CREATE Transaction sent.. - f397504004300d8046148fa548ba477878e3c1881b7209a401af896407cd83f7
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 66c90906fb18df5c6672f2fa2eab7bfebf96c5dee93edfb05f0e2e1c59808efc
+Transaction successfully posted
+(*) CREATE Transaction sent.. - b92ac2f3e2655fbfa245341c9a760815e493da83b33a0cfeb62aac5b55f6ee76
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 5ddbc457b304a4ce854e0bae59e4d6c692f1da4cef5ea8bfb4bfe69ff12508e1
+Transaction successfully posted
+(*) CREATE Transaction sent.. - d779ca0363b5eb0a0ccc5cc3daec717c081ef2814988264563659c5aadabf877
+Transaction successfully posted
+(*) CREATE Transaction sent.. - f5e69a8595b4a358d44922524c5be92769424f96499eb1cfd7ce054bea06691a
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 97b1abb20ca196c02702a81c00ad943204097fdf9b070b79289e61ea2eecc5ed
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 52cafa2101ee1af3e3b01babcc58fa82e344dd1a3c09044e197bc4adc33dcbc0
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 123955262a08ec0afe58b45057114de221d6689b67043506d1691e214ed902dd
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 3ec3f63381417c831a2d59fb9444dd925258a04c52b03faeae914eb6819ca54b
+Transaction successfully posted
+(*) CREATE Transaction sent.. - cfe1e10a283e2b5008617e7c997c34a55ac530208925733f5e409697db4facc4
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 112deb3c1048126e344e69c1cf1e130a7e2d34c70d00ed8909fabda7d8146f01
+Transaction successfully posted
+(*) CREATE Transaction sent.. - b28bd7d823b5ae07bd37f1e0e7e671e83d5f5899af6a67c8e88a3cd3fc927e00
+Transaction successfully posted
+(*) CREATE Transaction sent.. - e0701d6b5aa746ffbcc77778ceba54d66aff07e17928204c5e5bd5add4ff0399
+Transaction successfully posted
+(*) CREATE Transaction sent.. - a96a6edbfe55e3bce194d05f9ce1ec4f29832783a5835d83e0b873363019b7e2
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 39944720da782a9b19ede32945c474eb81f5f92034ade5fc59a7a12ef6f2ff5f
+Transaction successfully posted
+(*) CREATE Transaction sent.. - ae4c3377c706e2a6bc208d2d58b57f38ff241cfa69f89eac237f432d26f97a39
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 30f8ecea938aeec755b3701132f667708b5de334e0f7202fb0b5a4aca8d69c23
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 379352692569a8a11fa7a7ff359cd0190cbe67995d91edb133d984b0e76a6d05
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 399bbea2ed20660ee13d0976977e26f3444416a9c233bcf52593c36f233c772a
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 5ffbc20c303e1ca1efedc580a9118d9c07246fc2814c4796f980545d7ff4cdeb
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 89a7f5b45013559ec522a39769b62d7d86b65cef5fc354d3372ae10f9b9921a4
+Transaction successfully posted
+(*) CREATE Transaction sent.. - e228ca2af3396d434dd3e84adbdf8fa61bed70ae9ffbe43d4cfc995bbcad294f
+Transaction successfully posted
+(*) CREATE Transaction sent.. - af9210dcf64702e69909ea7bb3ed10777ad82a7edce1cb8c7f3d04a1be2a3c8e
+Transaction successfully posted
+(*) CREATE Transaction sent.. - da9a192205ba22e8c348325af21376a13f10da249855db146ddd7141dcba4acf
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 86a40346b3f39647f533573d9d174427d63f7c6b90b1acd9da7a610919e83f83
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 8ab0f123c9b2cfa52ff5629815599285cb71f880de1139f366918a30e0ed8c23
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 7dab28be21feadbdff012221cb4b67889a15facfb505e974eb1fae37044c5df8
+Transaction successfully posted
+(*) CREATE Transaction sent.. - 61fda4eb326498c8cfaa0c034b527f8b97c6772fece0ec2d871e7090c8cb5a16
+Transaction successfully posted
+(*) BID Transaction sent.. - fd34e0e6c1edb67c9990c4cccaa3b5368eafa9f0e527236a8b1d5d3b198bc371
+Transaction successfully posted
+(*) BID Transaction sent.. - 384285d7e6e9e372e6e4f058e6b1fcbf6611ff8aa98858f8c530a65998a588b5
+Transaction successfully posted
+(*) BID Transaction sent.. - 7e39e78be9fce02b500c11bb89d6349417880bfcf94d82f194215598da76b4bc
+Transaction successfully posted
+(*) BID Transaction sent.. - c321bb74321c68d89b0568d341221929ca085a7b703440d48de9eb8d6f778177
+Transaction successfully posted
+(*) BID Transaction sent.. - d8df2945dfe58f3af2f96e92aacc98465dec3499e694319b6e302033fc8ec80a
+Transaction successfully posted
+(*) BID Transaction sent.. - 6aa51deebf52f6ab62fc28d46577cc4814efc7da183a3dfc1d126c5ce9079446
+Transaction successfully posted
+(*) BID Transaction sent.. - 660214feb248ac70a8a9eae6cf95744b7e4a4d370896ac8df8176a27d61246f4
+Transaction successfully posted
+(*) BID Transaction sent.. - 3aa9191968330a7df692a285fa656d669bd32d01cd5d0e4a9e7dd1940461dea2
+Transaction successfully posted
+(*) BID Transaction sent.. - dd8a1bcecde50de5b4a70f1eafeb46306f8089daca0c595e8c383a644c16c7d0
+Transaction successfully posted
+(*) BID Transaction sent.. - a5407ce82bad313edae19bc76e19381f3a6fd97ceb1e5b286b248fc13edc0aee
+Transaction successfully posted
+(*) BID Transaction sent.. - cba6ed990a8bdfcd936c53e451e1d5136334e6ba7ce4b68d1c8936d209072ea7
+Transaction successfully posted
+(*) BID Transaction sent.. - 28a03089353d142ea544226cefe3778b7020ff5e7b468d20a5b8fe58d40a2b45
+Transaction successfully posted
+(*) BID Transaction sent.. - b4e426aa6305e61885333a73b3334b80cb580514008c4edbfd9a232be9f58ec5
+Transaction successfully posted
+(*) BID Transaction sent.. - 98c5de8a15023faf3c3e80cd249a8e459c873bc304d62ae4e05c75c7deb9443f
+Transaction successfully posted
+(*) BID Transaction sent.. - 2770c82ec7e23f18e6db5359a0c068b9c9ba82b9401be4b3927a8d019493320f
+Transaction successfully posted
+(*) BID Transaction sent.. - 6395fca46c642c003855992e2bd2044dd97f641d9c9517a3e9e5ac0ff076fb7d
+Transaction successfully posted
+(*) BID Transaction sent.. - d290b2a3ce34d550ccfad8647890899810891a41a3561524d30ec5a2136d647f
+Transaction successfully posted
+(*) BID Transaction sent.. - 4009387c54163ca5a9a9d1ea0fa7a30623558786d2757345ece58df5bcfdc9b5
+Transaction successfully posted
+(*) BID Transaction sent.. - 5e712dcb46fac180a659cfbc928976b0f36d0f82dc5c37601e687082b7341030
+Transaction successfully posted
+(*) BID Transaction sent.. - 4f6b7a120acfe39178b5a6003e57365d5670a6ef1d4544e415985fdc3dc4dcd8
+Transaction successfully posted
+(*) BID Transaction sent.. - c8467afb086c52291240b6d8d49ebd0d19a3bfeef50c172bdac3e46baf16920f
+Transaction successfully posted
+(*) BID Transaction sent.. - d6b7a09d6c80943280cd216775ab3d7665d52a48b1ef38dec0481fd93ea8159f
+Transaction successfully posted
+(*) BID Transaction sent.. - bfcfdacefcd5b90edb1d0f37d821180474a101dd740c6f7faf22bb8c55e02038
+Transaction successfully posted
+(*) BID Transaction sent.. - 5a8c2398d90ad76f57716c323e7f536d1c3161d6b9eadb169b568e290c4cc354
+Transaction successfully posted
+(*) BID Transaction sent.. - ef5d48db4ad1d3cb3ea20e841833333c6fdac79f40829db5d0e32292e1436603
+Transaction successfully posted
+(*) ACCEPT Transaction sent.. - c2f5c8d2c6316d70bf96a74836b6f67dcd578db4b858aec905cdd30f3fb9693d
+(*) BID Transaction sent.. - acaa60e9a2f8e31fbf10da9ce1b891151ccfc5cd85473a312d885792bb8e42da
+Transaction successfully posted
+Transaction successfully posted
+(*) BID Transaction sent.. - f7d961a9d0bf443336ad01057f8f874ca33721d4f5b77c694df0411560ae0be9
+Transaction successfully posted
+(*) BID Transaction sent.. - 41e2277f7cad1074e0b038fa4820900efc5754ae5d4caba683acea18da28addf
+Transaction successfully posted
+(*) BID Transaction sent.. - c4f4fdb6ab1bc8ba35827d44924118d896d970afbb812c31b5d096e66f081b79
+Transaction successfully posted
+(*) BID Transaction sent.. - 3488058cdf55bd907f6b90f2dbd3a55a5d45b2ee41efc2e91e294e03a0ea5e66
+Transaction successfully posted
+(*) BID Transaction sent.. - 07206c18a0760accc8f9afc1451e9a226767a94fdab3c48f9b8b2f072256c93f
+Transaction successfully posted
+(*) BID Transaction sent.. - 4986115bc46c9286fe45dde54c948a0a18f1d57d426b654305d7722ca51908f3
+Transaction successfully posted
+(*) BID Transaction sent.. - 1d78f6a0e0c5ba1987e963c30747fe6f4e212c9e6fca2ecfecbaedec1e94ef45
+Transaction successfully posted
+(*) BID Transaction sent.. - 96c2957cfa45be517a4b7893c4acfbafa199e7f02126bf1cb2becd673e4dce4b
+Transaction successfully posted
+(*) BID Transaction sent.. - 5e6c2c994a1e2f7a847c79d2da2cbfb4b9a523edc2858984fef51a271dbb5d87
+Transaction successfully posted
+(*) BID Transaction sent.. - ba15b66c234b9ccbc2558c4ed676830cb515456dd063e66fef1a1c1c18e851c1
+Transaction successfully posted
+(*) BID Transaction sent.. - 470451fa8249826b9cd6a3af61ea177146cf7728451a8b6b8abdf17bef6c3d87
+Transaction successfully posted
+(*) BID Transaction sent.. - 5b9e72546c23d3e4b0edc3404c6c8218b429c8e34e188d3ce20e313278c5a2c0
+Transaction successfully posted
+(*) BID Transaction sent.. - 5a164ac7c3bb64e2ff5120c4e8a64b41e2f0112425ff47519ac843afe42f5725
+Transaction successfully posted
+(*) BID Transaction sent.. - e92f4db6126c3485ba4f36e1576608ef0093ecb1eaf0071ef3dd106a5273298b
+Transaction successfully posted
+(*) BID Transaction sent.. - ba72b9bd1003d946b16513a0f52ff1d14b6c65d9b8df05456120de68c39517b5
+Transaction successfully posted
+(*) BID Transaction sent.. - a1e86aefc9a7b09b98fdbb15fa78b758ea8893d553c3411390f45d97a7f60c44
+Other error: INTERNAL SERVER ERROR
+(*) BID Transaction sent.. - d94d820704e62b544789fffc1597243eade9dca20719da88c59cc833ad9d7ff6
+Transaction successfully posted
+(*) BID Transaction sent.. - 9afb3d3108e46187b0c0883a723b99b236a4dac7e6ae7cc48a3e2b8df05247fe
+Transaction successfully posted
+(*) BID Transaction sent.. - 080cb906e0612e2257696e4c9ab1f32094a91eb30a8ca5774d809178f30f619b
+Transaction successfully posted
+(*) BID Transaction sent.. - b69febe5f2c6293021258a73d005e378052237c413ea6f4233d89d22b685d87c
+Transaction successfully posted
+(*) BID Transaction sent.. - aec0dafddef12aa4baca741751f18cff97a77040ff4e3f70b46adb3893d919f3
+Transaction successfully posted
+(*) BID Transaction sent.. - 985526c1ebce8a64502bf708584ecfb04bc11f93d462a582e82d619ca3fda22b
+Transaction successfully posted
+(*) BID Transaction sent.. - 79751fa90a204fca3eab9dfba3d9a2383e661fd57ac2056910b9451c706bb865
+Transaction successfully posted
+(*) BID Transaction sent.. - 3ffe289e303a36239c7a386a4f79f7af37e24fc7724f733a2280e1dd0a676f04
+Transaction successfully posted
+(*) ACCEPT Transaction sent.. - 1da93196bf7116bae85e440fc2448bf8054548b3fe5e671389d6dea104124ff1
+(*) BID Transaction sent.. - e1223e6031c7a0507033b59abd929b311accbe99b1822291d066c1e6f8caf5ee
+Transaction successfully posted
+Transaction successfully posted
+(*) BID Transaction sent.. - a5d714979b620ea93f041047ed74602bb06394b709aa3ca60308b4c108f3ba5f
+Transaction successfully posted
+(*) BID Transaction sent.. - 65e26f8a4bb95fbcad7e91ff84b1bf0d88002e97b9815de1394f628540fee4cc
+Transaction successfully posted
+(*) BID Transaction sent.. - d2d3335b743af189bea6a0677f1207630ef87fd46b3178916784488ab3c84541
+Transaction successfully posted
+(*) BID Transaction sent.. - 332473082b4285c44d6dc97f6d4383fd92bd22c7c077ccd548afc88c1cb8257c
+Transaction successfully posted
+(*) BID Transaction sent.. - 1a69a3822d5b8f9292d4aa76593d22f38605acafae852afa853c7c5c70ef10e7
+Transaction successfully posted
+(*) BID Transaction sent.. - 6626bbda60d4ddbb12ae3f614ad2e2d6bc11db897fa08f7bed7953f0110596d4
+Transaction successfully posted
+(*) BID Transaction sent.. - c7ea03d8f585e590f823b2ccb8bcc2852d1f2f158fcc6d1a41497bd2fbb68528
+Transaction successfully posted
+(*) BID Transaction sent.. - 8d4ae0c3065bb9d4017191044ba17bbbda5766fae471d69cd41f0f44dc423b5d
+Transaction successfully posted
+(*) BID Transaction sent.. - 5cb25ca302609828d8107694b484291d37b143c505b678914c087604a92cd99e
+Transaction successfully posted
+(*) BID Transaction sent.. - 68a84e188e5ac8d0cb99fdea34c2c531e239143568552067cd76950325852d62
+Transaction successfully posted
+(*) BID Transaction sent.. - f0de270d7ca456cdd116c189cde896d6ccc5c3f94ce3f90408b2f2e393178d6d
+Transaction successfully posted
+(*) BID Transaction sent.. - cf40a7614646c40e01b1beab54cc192bd15a9472cb923da4514273f38bc46b28
+Transaction successfully posted
+(*) BID Transaction sent.. - 7a54f0a4d7f9ea683e2d9f8b0c9ab2c305edb6ade72ce20341917a1cc9a34a58
+Transaction successfully posted
+(*) BID Transaction sent.. - d3275140374e3edff145d19a47018bfaeda2361762ec10f4ac70e21d31294a7d
+Transaction successfully posted
+(*) BID Transaction sent.. - e9b7ea81e8421ce9f4707584cb1c9e18963bccf790eaee4ce73dba56867e6bd4
+Transaction successfully posted
+(*) BID Transaction sent.. - 30e9d6536a6711583b17f69d112bb98a2f14470406be04e1da968110296358b5
+Transaction successfully posted
+(*) BID Transaction sent.. - db17b77f4d4e830c512e8744c84516d42f162a31a9038dc8c21e5c0de587f78f
+Transaction successfully posted
+(*) BID Transaction sent.. - ba6d7b10d55f564f625ce6733ac52fdae303501adaba79d78d8341efdf3bb788
+Transaction successfully posted
+(*) BID Transaction sent.. - c5b6e44495be11a20c5d288ae02d43217ba400a8bdc933960b1c38fab7a7b128
+Transaction successfully posted
+(*) BID Transaction sent.. - 5a5e574be1b9e7549929225749a4f1dccc21352cb240c1d1643e7225f5100686
+Transaction successfully posted
+(*) BID Transaction sent.. - 81d2d7b7d1026661b47d822e74a8c27229df1932fce1f3cbec78afbc8a1d8c0b
+Transaction successfully posted
+(*) BID Transaction sent.. - a5a1bcc52860afcb51a0d5bf3ed018e8ac31621879eadd629a710f70bb445d25
+Transaction successfully posted
+(*) BID Transaction sent.. - 767bfa161fa53c23f296b3ec23ff1d90c415c3ea2316bdb7fbd72b85d0a2367c
+Transaction successfully posted
+(*) BID Transaction sent.. - 62731dc99e8a4906f78d239f125586149a51482649ac38860b70111f76aa5644
+Transaction successfully posted
+(*) ACCEPT Transaction sent.. - 7a6f96ec296d76705030cf039f295a75d571c3a6cb58cbc48eae22435c9d2ccd
+(*) BID Transaction sent.. - 37f162d991b0092472aac9000add72944c89feb7b4358e2652473a0c2fa0788f
+Transaction successfully posted
+Transaction successfully posted
+(*) BID Transaction sent.. - ee94a5ab29f2fd7f03a85bb0056d8fe46a0f3bee583243ef0211d117ede46d8f
+Transaction successfully posted
+(*) BID Transaction sent.. - 74ff877bc45efdf853db23f0edceca095a93c4aa9e29ddcccdd2761aa8689ce5
+Transaction successfully posted
+(*) BID Transaction sent.. - 50732c3d929fb4be72899dbfbff5785f1514866a0812d158fddcb7ace5fbe7c1
+Transaction successfully posted
+(*) BID Transaction sent.. - 670f56feed1445cc9e1cf4b4d3566cc411172a7acac393b64d409fd0f8b554d2
+Transaction successfully posted
+(*) BID Transaction sent.. - 7f5156c31f1dd09e697bb89538d6484db0df37ec350be0bb6ea27d4d80626002
+Transaction successfully posted
+(*) BID Transaction sent.. - e0770ca36f9300beb80a47cea0eef24b4d05a3ab13784a10c7e3e943ba7e7fee
+Transaction successfully posted
+(*) BID Transaction sent.. - aaf6afa75423987f0694d561f3432ce7d0b292a96478d26cc29ccc7977075632
+Transaction successfully posted
+(*) BID Transaction sent.. - bc24fd3eb7c8562d0559d5d34f3abed85812bbdc70c4404d1c82189f3a200659
+Transaction successfully posted
+(*) BID Transaction sent.. - ea9ba58c3233d6ef8e2453fd162be1e86842459bd007e0e9ad7518c5f92a3692
+Transaction successfully posted
+(*) BID Transaction sent.. - 9d18021d4259f7692c1be815abb3442d6800199cd8a451a28c5f8639196d785f
+Transaction successfully posted
+(*) BID Transaction sent.. - 60e14f6c84135b19bfaf0ef480baa18794539d0937b76b739fecd4f309e65211
+Transaction successfully posted
+(*) BID Transaction sent.. - 61580349fa3e9bba3bde59c950da2ed45cf90e516d4c5eac239355202a1e93c3
+Transaction successfully posted
+(*) BID Transaction sent.. - 06e652044b0e9204bc2e83a3782c34ff9317e97610bddb5c35f21c9eca264b94
+Transaction successfully posted
+(*) BID Transaction sent.. - fd6d9c59f72945fbcfdc3dbe176a22d3c5c7d650065b55572b97208da6b6e7a7
+Transaction successfully posted
+(*) BID Transaction sent.. - d41dd59fb5076a00972dd9e8496ae405435b0262c8f687e44d355c4269d9de2e
+Transaction successfully posted
+(*) BID Transaction sent.. - e94e1f0fb2b628baa9622558c9db31ba68daf171d09641f057852d87bd1001b4
+Transaction successfully posted
+(*) BID Transaction sent.. - ec09cb891304ce970cdd91729aaaf33ce89fb761cde3efadb893fba1dd9bb270
+Transaction successfully posted
+(*) BID Transaction sent.. - efb9b2a01c3a3dec8c17fd5c20db3c630b7d83e776e297c0f4b5a745b3f4b99b
+Transaction successfully posted
+(*) BID Transaction sent.. - 8272eb6018ed32c35192a9143eeaf5fb392dbb5fb1fbd1651cffbf23c001f565
+Transaction successfully posted
+(*) BID Transaction sent.. - bfaf07b813439af3b05ba4832034959b0aa60a61032238f4a579787c689c36c6
+Transaction successfully posted
+(*) BID Transaction sent.. - 8172e2d2e6f3bc6b7c9494433c51f4f2cb62b91b592b96191802b36c4117cbe9
+Transaction successfully posted
+(*) BID Transaction sent.. - 0838dfe902b2a1d6a07be8cad5fa510f79a3a65f961dc3cb8c7469346340be04
+Transaction successfully posted
+(*) BID Transaction sent.. - 135c41aab98a9c9ab3738e2da5549d7e43afd9ecaf70ec19e7a1cc2b2a1aca6f
+Transaction successfully posted
+(*) BID Transaction sent.. - 49e9b6b905101c57cafa394bc4436d83764d1cc179395446e660c36b553e0fc1
+Transaction successfully posted
+(*) ACCEPT Transaction sent.. - 1257a49de5a78bbcde842ec93fe38b0abdb51cf08b8377064065860520cb264e
+(*) BID Transaction sent.. - a828e46fbe289abb12ae87298aed65df61df559c2f40160d377244793a777218
+Transaction successfully posted
+Transaction successfully posted
+(*) BID Transaction sent.. - f4890fa8565fd459d804aff8bf7a06df467f7ba23160083d71d6040965971cfc
+Transaction successfully posted
+(*) BID Transaction sent.. - 32ad9d323dcf4d97cb80fe9ea7e4670b0a3e12bd6a3079ed80a680d2ceda4fb5
+Transaction successfully posted
+(*) BID Transaction sent.. - 557efe8af26956c0721fd38c9b640a2cdcb74f1086a8711fb76f3e7421b9fe27
+Transaction successfully posted
+(*) BID Transaction sent.. - c4b13a72d4def16e3f5db83c1049c25f69f43e25ed70a140c64bad0fa7e3de6d
+Transaction successfully posted
+(*) BID Transaction sent.. - 0a602f260cdb8d77b5001db64371bd76fd6701754b8d5d2e1e4427d913e8971f
+Transaction successfully posted
+(*) BID Transaction sent.. - c3ba5c292d70a5ea97aa7b1481f5c8a9f456b6b50e261e4812d0f7a77e6b913f
+Transaction successfully posted
+(*) BID Transaction sent.. - 041341c56a346874da02c7079cb7510c5d39f1fad7c66323ecdc78fc1a0bb10a
+Transaction successfully posted
+(*) BID Transaction sent.. - 29507bb18cc0b6925412f08acec362452472060943a4e25d27bbe9a324f303d4
+Transaction successfully posted
+(*) BID Transaction sent.. - 09d9fb45db70e9def5b9b9316baee238f5af7289160ca7feced424e4f59e6016
+Transaction successfully posted
+(*) BID Transaction sent.. - f9d104e264dc64e09666186bac08586f67952f6ada3fbf1db9bc04fc9d31273a
+Transaction successfully posted
+(*) BID Transaction sent.. - d54159643fe12a59cb0a93407d198794ee91f37a77667bb10d15783dfab004ac
+Transaction successfully posted
+(*) BID Transaction sent.. - fc0ef2a0dd75238fc383acbef81df55af3474ca8595f17cb9759909408eab2ab
+Transaction successfully posted
+(*) BID Transaction sent.. - 3b925c95ec05520ca4de3f78025ad9d720c93636de6fc0fafcadc8c2f2023eb2
+Transaction successfully posted
+(*) BID Transaction sent.. - e6e2ead1f3c9e76648241b64c2f3d0feaaaa2dc9ff084c2d4f41112b1383d0d2
+Transaction successfully posted
+(*) BID Transaction sent.. - 84a16bfb3d6a7815d274f149bca6f34c73aca011aecf73a2788a1274ab0432f2
+Transaction successfully posted
+(*) BID Transaction sent.. - 3a751667b318eff9689b81bcf9f514a6bfd6c93f379aad3edb1f2d7a04182ae3
+Transaction successfully posted
+(*) BID Transaction sent.. - 387b0db1bed16520aba04b65e787892f27d461e44448a1420a838e881edfa843
+Transaction successfully posted
+(*) BID Transaction sent.. - 78b8bb3ba42ce3a888d8afc5fe158839a514eacc85b97b7266dcd678d2230017
+Transaction successfully posted
+(*) BID Transaction sent.. - 2b27ae3d7644142004fef93adb310079124637590cf82eae2bf808bb4cdad27c
+Transaction successfully posted
+(*) BID Transaction sent.. - dd1f76f893a2493838ced83088acecca5825b9949961f70d977b1bb4f75a51b0
+Transaction successfully posted
+(*) BID Transaction sent.. - 2082b0806cf4471b7f4381498eec7664e5ff486de1fdef027b1b22988477c485
+Transaction successfully posted
+(*) BID Transaction sent.. - 411b28f9c71afa641e1472b9ea2fbed28f3ced05ce21a75d713d36e829f034f7
+Transaction successfully posted
+(*) BID Transaction sent.. - ae569ec3bb763f968c52eff2dcce842d58a5aada8c3ab8e367384d7a66d557ad
+Transaction successfully posted
+(*) BID Transaction sent.. - 53f3e840b11886b6d41af9ca58dd5040ba79a7043b86dc5c1054b006b2918687
+Transaction successfully posted
+(*) ACCEPT Transaction sent.. - ca6e8e25795d96e21af4731fb26e850cc5a431884ff93d663798c15f9a083b93
+(*) BID Transaction sent.. - 8e16ef378e54dc82cea685b4f0702b9fd4e18e6b782263578035b9b404ef9742
+Transaction successfully posted
+Transaction successfully posted
+(*) BID Transaction sent.. - 1521a9bd7e8bbb87cc57abd5607917d9f5f044cab34ce837790f8b689f2a0bdd
+Transaction successfully posted
+(*) BID Transaction sent.. - 065ae975d224c62a61a3a5afdd984f72006242978073a0b4f2fef519493a9f76
+Transaction successfully posted
+(*) BID Transaction sent.. - 287158c5acc23d520fe697391453ea1d376954901375ee113ee52c0ed5e09627
+Transaction successfully posted
+(*) BID Transaction sent.. - 9d78eef7d5da8701dc5843a19096190f5cb1830bca684ffca024df97bb31190c
+Transaction successfully posted
+(*) BID Transaction sent.. - ddef89fa48df5fa75da5fc61adf88ad4d01f089165084744d65cd303f9cf3e27
+Transaction successfully posted
+(*) BID Transaction sent.. - 2efdbaea8c8732bccf49926277fbecffc9d23c9369a3215ae1060da57f8c573b
+Transaction successfully posted
+(*) BID Transaction sent.. - 3e1c54e816dfde43d1f3fa8b235fda20d770552026216159520c6c3c666a4d26
+Transaction successfully posted
+(*) BID Transaction sent.. - 03fd76bf04fc97fb9111043428fc7de0127f7041e433c499cae6bd9fafafd8b9
+Transaction successfully posted
+(*) BID Transaction sent.. - f568387d9f6b6d78ba78bce4db605cee8da66ea2f3a98bacdf8a88fc95409c5b
+Transaction successfully posted
+(*) BID Transaction sent.. - 99a3ba8219a2e149f046bb4c36ba227ba1c028d2856d0b186e4e9946a9d76d77
+Transaction successfully posted
+(*) BID Transaction sent.. - fe0ce96c6690a8387209088683c4acc318067627540f8b58eea3419c6a1ce7ce
+Transaction successfully posted
+(*) BID Transaction sent.. - 094733fd2ec8a3167ca74093d566b674b78c134aa1e2f78ae3a063eacd8b86ee
+Transaction successfully posted
+(*) BID Transaction sent.. - 5310b87a2a312a1a347a4d32455b11ab35102a04e8f1986997fd21a00593c6bd
+Transaction successfully posted
+(*) BID Transaction sent.. - 52add8c7642a675d152f9f325d0d9c8d0a787877b6fca0bc9b0e1a48e0762ec3
+Transaction successfully posted
+(*) BID Transaction sent.. - 9c737b6c0d5635cee0792bae74b54cc0316eac4b95217ccba9aa4184e7088b1e
+Transaction successfully posted
+(*) BID Transaction sent.. - 39e89aa7257a5a610bd5ed31c81539baf66dd9812f1c9fa2268d7254e4cf073a
+Transaction successfully posted
+(*) BID Transaction sent.. - 715483822dd06e6b16b74139e60e603207446b4f740aa250d9da706b2e664d8e
+Transaction successfully posted
+(*) BID Transaction sent.. - 423e051c70dff3414d271c4df189e021fe087529e4531389522c213f77ad78f5
+Transaction successfully posted
+(*) BID Transaction sent.. - 7ec5ebf19be683b8d0b1cf3314b4b55a1933c64fa87c5264ecfc4aa35ef8a3a2
+Transaction successfully posted
+(*) BID Transaction sent.. - 8170e811106485e854f6150f58af2f8d354a2e3a540063ef8db7d831ce7e05c4
+Transaction successfully posted
+(*) BID Transaction sent.. - 9c652ffa6491a47c40cd301747a37cadeaa970052183ce5023ff220e338db621
+Transaction successfully posted
+(*) BID Transaction sent.. - 9cb8373383f934bbc834868382e9a8a00d93b56587205b2785f2f64bbb3115a8
+Transaction successfully posted
+(*) BID Transaction sent.. - 8b0f3a6592a00400f734342603e5af16cd1fa8f65ac3939c08c5354a42891203
+Transaction successfully posted
+(*) BID Transaction sent.. - 2d36d8e7a6ccf30e53ef0af0bf6da2792c6ce63253e75ef47d835dbcfb47cdbf
+Transaction successfully posted
+(*) ACCEPT Transaction sent.. - 2743676ca520d19013926bc61bc0b833547f4030c6c2e7eff0765ef3033eb5ec
+(*) BID Transaction sent.. - aa078ba046b170c026868f35a95503fcb82f6a4ccf9a5d81f97ae4735d086122
+Transaction successfully posted
+Transaction successfully posted
+(*) BID Transaction sent.. - 869e3517ce8ac34fe78c7ae4e4bbab5d73c12c99f30896f9e42e130bdbf6d41b
+Transaction successfully posted
+(*) BID Transaction sent.. - 294ec94ec2d258157371258126071a7ee0c2c6fdb526ed46fea3f674a8af35bf
+Transaction successfully posted
+(*) BID Transaction sent.. - c0ebf0c59916c820a7dd399adc4e80becf96ad424c4d371ec2dc705f7d0cc0e0
+Transaction successfully posted
+(*) BID Transaction sent.. - 62aa58cc22f3c474c56a099add2c63743e4ab0a20302603a2c308568b850aec6
+Transaction successfully posted
+(*) BID Transaction sent.. - de40fa55a3624f71864ece5faa1f8cf5dc45c22a25ed93b2a4d4bd725b4c44c2
+Transaction successfully posted
+(*) BID Transaction sent.. - d733c533866e73335d9d8a3e21ef499dc45fd47145e4cac31cea215585753dae
+Transaction successfully posted
+(*) BID Transaction sent.. - c7ab99765b975b8de320c32c7c7790e6f8391c7a4ce113ed23342c75180506bc
+Transaction successfully posted
+(*) BID Transaction sent.. - 6527bcf79e0b9a2f6c86555b16de050f6d99b87eedd8d8a2e1efffaa881f09e8
+Transaction successfully posted
+(*) BID Transaction sent.. - 25c210343afa00bd06ec14a9f04482fb282c39115f190afc65f552e7e19cd2df
+Transaction successfully posted
+(*) BID Transaction sent.. - b0c59df38e181711928021b0efb812ebb4c2db6f394b7e8e0c3772fe4bc251b2
+Transaction successfully posted
+(*) BID Transaction sent.. - f37ab2c4697fa5f2768ea02a29c8f55b2300be1a4d45bb387aad328ad6dd0110
+Transaction successfully posted
+(*) BID Transaction sent.. - 3677c131e375f71c3ecb0256624b7bdd480d9baf69888a63f241c611782c0e3c
+Transaction successfully posted
+(*) BID Transaction sent.. - ee0910af5a92baf6b452854c3ecdccdad4896f57308013f011f3effb0a242923
+Transaction successfully posted
+(*) BID Transaction sent.. - 50744286eca7a5af8c2f2309e54f9f115d13438217a43464fdb79e0e10816938
+Transaction successfully posted
+(*) BID Transaction sent.. - fd2e48b97a2356fb01756f48b8b7e4d72be1fed6c4df0327571e99dde3949685
+Transaction successfully posted
+(*) BID Transaction sent.. - 4a5a6bbc6c985ade2bc1b63ee9127a0c678f3b3bfb86aeda5f023c43c958e09f
+Transaction successfully posted
+(*) BID Transaction sent.. - 67d9fda6dff242cd046b432f7919684ae2c9b5abbe84aea6ee9f2ddff956c3f0
+Transaction successfully posted
+(*) BID Transaction sent.. - 91585d5ccf1d7c5a8056873e1c39e6cb74918b66d9971f64ea17837c2d3b9f2f
+Transaction successfully posted
+(*) BID Transaction sent.. - 13661e0da983ce532be311f7f9c5c5710ed1d296811d7647da90192a37d243e1
+Transaction successfully posted
+(*) BID Transaction sent.. - ad0056a7a60a2cd002b80be443817e2ca5038c70aec1cacfd9fa79611b647244
+Transaction successfully posted
+(*) BID Transaction sent.. - 1a07e5d9f1a13799f27eb138ea9c725b27a024f5c48a1991a825417a65eefe6d
+Transaction successfully posted
+(*) BID Transaction sent.. - 8a0739a5e5f26ba5eec9fca9df5487e37b74841d12341485c078610745b1f0c6
+Transaction successfully posted
+(*) BID Transaction sent.. - 9daa5c6070adff2cc2528e54a3f54311828645e20779fe4a34371cd061c35de5
+Transaction successfully posted
+(*) BID Transaction sent.. - 011eb6f64389efad2aef54eb55c1a532d76e9478cda55292e401899225da38bf
+Transaction successfully posted
+(*) ACCEPT Transaction sent.. - 8152dd0cd620bb1bd974c550f4b91231cdcbbbbd99c8e54e5e869f6025976a80
+(*) BID Transaction sent.. - bd3797cdea024b8a0deb7681be76b84695756e51963b1c0749fe413101c1eab7
+Transaction successfully posted
+Transaction successfully posted
+(*) BID Transaction sent.. - 2af0eed388c5b4ed3d9a0c3da470964d41e9bac7b16f61b35b53267366355e25
+Transaction successfully posted
+(*) BID Transaction sent.. - a0587d2841831f83d4327164b8593e85b696f4f380cd75dc6baebe480dc340f5
+Transaction successfully posted
+(*) BID Transaction sent.. - 74c0e833dc5b8a75b8915a1373bece90b948828f0eaecf8a88d1e149363af1fe
+Transaction successfully posted
+(*) BID Transaction sent.. - 3477753d3b23287afcf96d2c4d7ec25c0e54b4a3750469c127e08b5f6a120c14
+Transaction successfully posted
+(*) BID Transaction sent.. - e1e543d6b860d761899f197060fb106bf0a98d3c441fcb944925d46461481797
+Transaction successfully posted
+(*) BID Transaction sent.. - 86a30cc01f112f986a684ff6c8c8086ac4c2f9390dd46e84d64a6912e3c7f6a2
+Transaction successfully posted
+(*) BID Transaction sent.. - b6d11c698f7c71c9fadec764769bee6db364a60572513a523a73e56914ab254b
+Transaction successfully posted
+(*) BID Transaction sent.. - b371ba92beeb49a49df83bd9abbdd6ce26ef55250bb60048778e63fbc29e9e21
+Transaction successfully posted
+(*) BID Transaction sent.. - 99f526b19bcf638a6e7caf6e88d0db46cf9fc037605f1293b41d10fb7e94280b
+Transaction successfully posted
+(*) BID Transaction sent.. - b39f7eb2fcfda70f48b895e04bb1ab04e7a3ab75312b9024652d68f039ed70fe
+Transaction successfully posted
+(*) BID Transaction sent.. - fd3f20a6218a08aa980f3aa2b569a7e9420e83b5cdb1c2fc380d7d87fcf30dc7
+Transaction successfully posted
+(*) BID Transaction sent.. - b505b67ca3aa120fde1c62bc259691d79ac856a0abab033dc4d75de9198e74cd
+Transaction successfully posted
+(*) BID Transaction sent.. - 1227fbe4d96e7c64faa8fa577bada364d137f782617d3a02468909c4b6a1bd26
+Transaction successfully posted
+(*) BID Transaction sent.. - 97dbe6269e57f57a1b7acdb5aeaecb408850b6c7df081f662a43fc7a822e399f
+Transaction successfully posted
+(*) BID Transaction sent.. - 4a2014166d9ed9820bfb8b981d7938b37816e3a87de3887b9078d3494c0c6f2b
+Transaction successfully posted
+(*) BID Transaction sent.. - b60a1fb7e00d82c7fcff0bb9064faf4f3fdba6e21ce7757872cb417ff0b8c727
+Transaction successfully posted
+(*) BID Transaction sent.. - 6fc5fb18ced70491c94dc2a478cbfdfcc4f27de66c2a97acca4eb75e866822bd
+Transaction successfully posted
+(*) BID Transaction sent.. - 4d37fc65b5d20afe2db7369440f7b7107c59ebd0c360e480c00da4e46d5eda4e
+Transaction successfully posted
+(*) BID Transaction sent.. - 9969deced93a87f4ec678f365256d8632133c4ef5831d69d6da90ee969e5c7ff
+Transaction successfully posted
+(*) BID Transaction sent.. - 56a75635f384ffbe3b87ab229c5bd4e9104f264ca917d6c6ead5288faa479135
+Transaction successfully posted
+(*) BID Transaction sent.. - 165707b47afc4fedd5761dd6552409455d585dce0eff769080dd0b338d034a41
+Transaction successfully posted
+(*) BID Transaction sent.. - e9559e5efc23a8c45beb55aa89a54a350d2a1bbea613c33e34029935c7ad96cf
+Transaction successfully posted
+(*) BID Transaction sent.. - a0ae7b44a4d8e5dd742e06ded375648424723ab52151cbaeb2618cd9e0fd79f3
+Transaction successfully posted
+(*) BID Transaction sent.. - 6feb3a02e5dbdf88175bdabcb75d5beaa6cd68afe0f492bab4c42700c1630714
+Transaction successfully posted
+(*) ACCEPT Transaction sent.. - 9c8c211cc8a9603290081dd56d194d4af2eb5d0be40b996a82e1725fd2e229d5
+(*) BID Transaction sent.. - 263412a8062f888c4e409f8429abfb2cfee906b60f961d886c2bd87f9d61873c
+Transaction successfully posted
+Transaction successfully posted
+(*) BID Transaction sent.. - 659e0677fa9c2e64a1e093bf5faa32ef9ce24fec0d890d30e996e5d09c859f16
+Transaction successfully posted
+(*) BID Transaction sent.. - 58c2b2c6be98710d0e5d5545bfa6c164d90c7dce45bfa7249b42567389627469
+Transaction successfully posted
+(*) BID Transaction sent.. - 84753ae917f2757696bd441240ba9f67fe187c3fd984924f0730647ddf12187d
+Transaction successfully posted
+(*) BID Transaction sent.. - d81711adc9fb83af5be057b73b442ef3f85368a7f2e133105945bb17b15b3532
+Transaction successfully posted
+(*) BID Transaction sent.. - 2a6b1ee2714ab5cbbfe73ab99b53ff11b7ad87e6ea46791bb33888813926d252
+Transaction successfully posted
+(*) BID Transaction sent.. - ee2be3f18e0308158239c48d44fe71f33f4a5128949de5bfe603d32c65fa0269
+Transaction successfully posted
+(*) BID Transaction sent.. - e9244947699597b832cc5ae15702ef0f6f082857312d68c2b360e9457d553523
+Transaction successfully posted
+(*) BID Transaction sent.. - 491e2f779b88044a3fa9fab796d3cdc3916e39deef958d5137d5262fdc4d728e
+Transaction successfully posted
+(*) BID Transaction sent.. - 5e57994bfcbf587e1a54ed2317a7946ee60b958744a2b6dc790cbf7c7e22f2d2
+Transaction successfully posted
+(*) BID Transaction sent.. - 4b1e6022ff82362f1e3ce15cb5a0d4381d65da46f434939ac5b0056b20398f54
+Transaction successfully posted
+(*) BID Transaction sent.. - 9e71a2a174043361e560c6e616a7bd801f1a8d07bc49cd0971e787b523a7798f
+Transaction successfully posted
+(*) BID Transaction sent.. - f1b192daaccc530613e9002720ffa11ce452c3a42a56a297538a2b68f77f06be
+Transaction successfully posted
+(*) BID Transaction sent.. - fc41c3407c0f834f4e215bfdd27602d4e69c1cafab1f33f3a3f4a1f35d654de8
+Transaction successfully posted
+(*) BID Transaction sent.. - f5886b47decc245e4f91f3240886ac519e7323fc21aa345378af644f59cdadc3
+Transaction successfully posted
+(*) BID Transaction sent.. - adbdeead47e1251e41514d1069bbac46b993839e9730a3c17bf6c16b42f66c3d
+Transaction successfully posted
+(*) BID Transaction sent.. - ca6b217d064ac35fb2a44f3aaa1ff8edd08c350aaf254544e60a964077ab089a
+Transaction successfully posted
+(*) BID Transaction sent.. - 450ba2f2f08502b101d9847a8f1d88be51252fcf214cc1f237b12b58a1a8fae0
+Transaction successfully posted
+(*) BID Transaction sent.. - 05fb27428479f69df402a531ed8e1f1796b93a916550e83cee66e50670b52165
+Transaction successfully posted
+(*) BID Transaction sent.. - 57d2a89fae89e9e9d3d4e167ba22a0431189c40c71f5df0c079d8a86d3511567
+Transaction successfully posted
+(*) BID Transaction sent.. - 038eaae30ceb3b38502a4b5df15eb486d21d2c9143d8b54a88d94735eb4b1d10
+Transaction successfully posted
+(*) BID Transaction sent.. - 2c2b7c617c9a0e4233181ab4a627d014bb61ef1902cd47b6bc0f1607eae23a5b
+Transaction successfully posted
+(*) BID Transaction sent.. - 9a111448250f68b3c381a7e66bb45865c14253b37245a0018a12c92d1b8a47c2
+Transaction successfully posted
+(*) BID Transaction sent.. - 98e20942045ff25b396a891e63e8918333357f17f8d377cd8d141ebe9df04a4c
+Transaction successfully posted
+(*) BID Transaction sent.. - 309b6a1076088cdc8cbfbe9ed89488bc858c1fae3f8656b5b9d5336647abc4a3
+Transaction successfully posted
+(*) ACCEPT Transaction sent.. - ce6ae018c279698349aaaafea272d44c8634dd2eea7bfb44acdc9c1030ac1773
+(*) BID Transaction sent.. - 185bd277f8ef91182f272ad0f706cac1e99cac5aeb03e9854fd7fbcc41f76522
+Transaction successfully posted
+Transaction successfully posted
+(*) BID Transaction sent.. - 68478f5e5bbd9d06ee006a97ace888c0495010438dd17352d2ef5e9b87ef6eba
+Transaction successfully posted
+(*) BID Transaction sent.. - 4f6113661b6020a26cf3d2b9ad6583058fb38f8467d154a638d86aba01691c7c
+Transaction successfully posted
+(*) BID Transaction sent.. - 76b79a4a1a89c980ec6ddc11d9a770a939c82c92d97dfbbdd28cfe2bc4624a28
+Transaction successfully posted
+(*) BID Transaction sent.. - 69a0af6267f4e719c56c78cfcf8b4cad614a9b0304a4f4c4ee0f11d07badb1f6
+Transaction successfully posted
+(*) BID Transaction sent.. - f0dda860959118ef887d8c6b007e7fa36f99326dc320b765507cb51468469467
+Transaction successfully posted
+(*) BID Transaction sent.. - 261eb0e9739e0badbf5b733602c923bb18e193b4be4979bb834b5cc853651310
+Transaction successfully posted
+(*) BID Transaction sent.. - f8321e5497310623753350bf22fc2fa12faa5f58919a7e7f4c2ea0d448922b50
+Transaction successfully posted
+(*) BID Transaction sent.. - 9a1562f2656efcff8a084a76cb6ddef64fa79d22b213d5c74f0bcf30cda59f5f
+Transaction successfully posted
+(*) BID Transaction sent.. - 3d2d783b8ddcbdb0d9296ad26e6e949b506ffd9715aeaef4c6cc2cacd572008d
+Transaction successfully posted
+(*) BID Transaction sent.. - aba47290223f2e2179b0189e887850beb08618222e19ee0d7a77775e7f1c8085
+Transaction successfully posted
+(*) BID Transaction sent.. - 3de475c19ffb15e1c35274f871bb92e659747c3a8dcaaa87668a1e2cb3638cfd
+Transaction successfully posted
+(*) BID Transaction sent.. - 9a88d6e11efaba55770a1f1fd0c7eae432fa3d85bfbfc8b25c28c982de61bb78
+Transaction successfully posted
+(*) BID Transaction sent.. - a31a7f33dfd91e4d5461859da3f0bba79bccd13bc85e1be36f3ce8377da27e8d
+Transaction successfully posted
+(*) BID Transaction sent.. - 7659f73f3dc5d25bb189e3f711fd02793b0a6967d0942a5268851c7b059bfc17
+Transaction successfully posted
+(*) BID Transaction sent.. - 933c09a9f3a1ed22a34b91440e4e44029eaa92fa6f364385bf03d19f5f492d49
+Transaction successfully posted
+(*) BID Transaction sent.. - d68483b44e3905924b9a04bc47822ebb6b890cab57f4087c53eff54dce8e2920
+Transaction successfully posted
+(*) BID Transaction sent.. - d2f2d64fb0afe49785ace6a98137b0ea11977e69d8aab5db04bb758c0d667dbd
+Transaction successfully posted
+(*) BID Transaction sent.. - 700db9afde85119a68d91cf53d32f9fbf914c283ca398de7f1cb2e7bff1e9ee8
+Transaction successfully posted
+(*) BID Transaction sent.. - 2cd37a136fda21515e61ac5b62cbd0af6df749956784eb7484b63bd38972e717
+Transaction successfully posted
+(*) BID Transaction sent.. - 6f39d3b48799dd4384d98a39c72c5e5da815586f25907c01ff95a5ddfc6063c8
+Transaction successfully posted
+(*) BID Transaction sent.. - a698922a559f8542b1dc113182a993236150783a2cbe388baa9fdd23abe146dc
+Transaction successfully posted
+(*) BID Transaction sent.. - 8bcbafa52df59bf3cb76c4a6d8e0a3fe9c1b9f1cc2cbf9db177c03405b91fb23
+Transaction successfully posted
+(*) BID Transaction sent.. - 2e420500e28520ef8ad817d82d98321a7eca67db21827cbab6824866d8f544d0
+Transaction successfully posted
+(*) BID Transaction sent.. - 6343a9f2810f0f58e13fa187448fe303c26e5b22361398d2e7e5951ad32efc7c
+Transaction successfully posted
+(*) ACCEPT Transaction sent.. - d415cf675fd9bd7704b528530e443c94067ab5bb4c858505ed1a526810558be0
+(*) BID Transaction sent.. - 0c522a962fcedb6bff4440f9c8c2f8343f4961880080842cb808846cfe8c9413
+Transaction successfully posted
+Transaction successfully posted
+(*) BID Transaction sent.. - 40a2c44c937095ef312e6a1d7a8265b9ad5a760c68bee103ddd900d21c7f9c2d
+Transaction successfully posted
+(*) BID Transaction sent.. - 27d5f8ab097fea24aaaa90970d0c26b1036885edcec46ba32ea4f40375f9627c
+Transaction successfully posted
+(*) BID Transaction sent.. - bd81da1b5085cda4b78bc85a9c11956f386fa9159d9be1604520bf549c7921b5
+Transaction successfully posted
+(*) BID Transaction sent.. - 336c2e1c443657005fcb3f821ca9796f3722e55742a5a02740572ab3a33d913e
+Transaction successfully posted
+(*) BID Transaction sent.. - e720d9194bb3dd69ca7842188f5f78b25ad0c52fa0e085ed2a4bf6f0ef8b7d99
+Transaction successfully posted
+(*) BID Transaction sent.. - f73f89d5089ebed5049a3272b6f6270b8fccb5472bb1b58a6a4a8f5caef21154
+Transaction successfully posted
+(*) BID Transaction sent.. - f2aa508876968db50e86f9737fee248bd65589828f770aaf2c72fb84b8b72c9e
+Transaction successfully posted
+(*) BID Transaction sent.. - bc5349d5a7ea49d9215fcf39b31400702fcfee02ccd65c0d6db0a5c8cb7fea8d
+Transaction successfully posted
+(*) BID Transaction sent.. - c5f099c2c803b6e8940e4bd62ed68a27c0d4ac58291168f4504a07ab6b2183f7
+Transaction successfully posted
+(*) BID Transaction sent.. - f293f737e4798a17f0f93cd0c1df48e2cdf4e998cc2be8e66718570ad6778f71
+Transaction successfully posted
+(*) BID Transaction sent.. - 2b974b0e33e71099f48d8553f534f1d3576396f1a8dba166ced883500d10f066
+Transaction successfully posted
+(*) BID Transaction sent.. - a6333ef1a942b0262a7375aadde09b95c133d3eb093adc9f122555a3778ccc95
+Transaction successfully posted
+(*) BID Transaction sent.. - 0461f96db752db547e70a8fa99766cfc0cbd2cd5afcda2de404e43a04b7c150c
+Transaction successfully posted
+(*) BID Transaction sent.. - a6048f3ca1e730282aa007699de2051c84432e415732eeb90f8354fefe28f878
+Transaction successfully posted
+(*) BID Transaction sent.. - d9cb6e397c1c087d0bcf2c4b8287caa86d348fe6f450237793ba8bdaba34afbd
+Transaction successfully posted
+(*) BID Transaction sent.. - 968bd736da4b127c952191a4d5cfe0eeaa421b353f6472c5ffeeac7a8605b14a
+Transaction successfully posted
+(*) BID Transaction sent.. - 52400183f8c675600ee388642ebdf9d3ccfd5272f441b06a25c466067c161eac
+Transaction successfully posted
+(*) BID Transaction sent.. - 46182ff9ba5df9ff4c09225925371097e1478f4ca8bc1d5d05b3a494a507699e
+Transaction successfully posted
+(*) BID Transaction sent.. - f31d3339e28cdecfcf5102b8f663a756aedeec47f1325a8e8cf113d7e01dfc22
+Transaction successfully posted
+(*) BID Transaction sent.. - 8e60ae08501ead0edc360e831ae97500c3a15ffd76882037621f9ea8bd132c4e
+Transaction successfully posted
+(*) BID Transaction sent.. - 70c95326570ff96ab9816ce7649bb8e44c9753075577bae0e71622a4a760594a
+Transaction successfully posted
+(*) BID Transaction sent.. - 003bc5c957f988e0094648bbd5fa5a86916eb74d2322804f39c4da12b5f458c6
+Transaction successfully posted
+(*) BID Transaction sent.. - 9e7864cc25fb5b057451ff55c111f0dbd6fb54fa02a7d2e68ae759f73a4ed198
+Transaction successfully posted
+(*) BID Transaction sent.. - aac99745b09689983e8a26c6f391355eb124595e1cc8bf931a6e31651e5a2d5a
+Transaction successfully posted
+(*) ACCEPT Transaction sent.. - cbd0169d10c86fe03f2ca38a8967009c5eb6b093e2c3502503e939b936805f40
+(*) BID Transaction sent.. - f82636cae874492b1ae6707a480c8e6b082102c785c0d730c73dfc5425d0c714
+Transaction successfully posted
+Transaction successfully posted
+(*) BID Transaction sent.. - 0942c63814e99ba6210c1399aff618a9fdf85b0613a7b67486b68bcf6f749a48
+Transaction successfully posted
+(*) BID Transaction sent.. - 17a0c211f04851ccdc849a80c81ef2b01a8b92fec1bb71e3aea041e708eab0e1
+Transaction successfully posted
+(*) BID Transaction sent.. - 8b3eaf267874b26d826d9efe3512a4fb12f506fb880006fba8dbc9de7b5fd693
+Transaction successfully posted
+(*) BID Transaction sent.. - ce898c6f47e11e90217de857bb409472a5eede3a04c7cd4a30ed478810d62778
+Transaction successfully posted
+(*) BID Transaction sent.. - 4322faa8a3c4c3e40f1858b385f24f389f15fa03d16a562add56361deea4eb1a
+Transaction successfully posted
+(*) BID Transaction sent.. - 9de9aa0c2c5f5042d11ef008ae510f0ad436abedbba2353a7e67b0b3356ea6f2
+Transaction successfully posted
+(*) BID Transaction sent.. - 953a975d44b6429c33d61c24cc05bf47681efe2a5a4b738db018a93d7bcd88bf
+Transaction successfully posted
+(*) BID Transaction sent.. - 1caded4e3d508fba3383b28809d3ab14d0eb2928e23e3d6f842798279026778e
+Transaction successfully posted
+(*) BID Transaction sent.. - 18f3ce30b6d65bed3efac545f7f623940dc11297e47c4da224cfb43ab5a36996
+Transaction successfully posted
+(*) BID Transaction sent.. - 8a6f32e6d9e895e6a4a183a395fe4f54da8b9308bcab89aa14a1716f303cb0d0
+Transaction successfully posted
+(*) BID Transaction sent.. - ec8a7bf0b03137bf506bba880ae4180de32b76b072d1f2d339e06d22abdab92a
+Transaction successfully posted
+(*) BID Transaction sent.. - fdb9d837f2644c32312440cbe998dc2a8d4155666d339043a5aab1c11269b74b
+Transaction successfully posted
+(*) BID Transaction sent.. - d71d49d3f909a5af91b776240d6ae337919d1c691a28880c699652bc17c3f541
+Transaction successfully posted
+(*) BID Transaction sent.. - 3da9b62dd5075fa18f199c0ae8be99000db3a56bc553ffd7c71661491b32b8bd
+Transaction successfully posted
+(*) BID Transaction sent.. - 889b484e510fd30539c5e450d9404ff2e65c9c95b0e4756b42186a6275f2f47f
+Transaction successfully posted
+(*) BID Transaction sent.. - 336816f511fa21a1fe6734294147ec81196ca13778b6669ca71553e9c50e24e4
+Transaction successfully posted
+(*) BID Transaction sent.. - 91e70a4bfbd8191828d1d3f8d09c58e83a3622833946927f14c6a7166f686c81
+Transaction successfully posted
+(*) BID Transaction sent.. - 0b5039975e7b684a995af2ad1141d310bf0fdfe3879741cca6665f541b2118d9
+Transaction successfully posted
+(*) BID Transaction sent.. - a566381bdf560e27f04374a8db7e3b35716d00530c8dff1a370bd37490500dbd
+Transaction successfully posted
+(*) BID Transaction sent.. - f2522a2ab0a0b429c74ac237c9009c62852dc7072ba35a687805ed00d54e09a7
+Transaction successfully posted
+(*) BID Transaction sent.. - 6b0bdbe73b5a2e18ebc5e7cbeb0f060fff6474cea3ba83044ee6791a1a3e9be3
+Transaction successfully posted
+(*) BID Transaction sent.. - d86573409e4fa8948b6e043cfb6c1757834d188bce2be642baca9783ca240218
+Transaction successfully posted
+(*) BID Transaction sent.. - bb86af22170d4403ad84c5ad60b3699a59ffec6ab03b86c2a212d2a3824b41c2
+Transaction successfully posted
+(*) BID Transaction sent.. - 339db16bcbc44aa8e18b6d899ca903b0ddd23b7351d20bb29f5b431467c3d08d
+Transaction successfully posted
+(*) ACCEPT Transaction sent.. - 78c86ba7cc544b34d42b8a4a3a2ca48a61fc01854f1ea3000db91e16c3fa81a1
+(*) BID Transaction sent.. - cd5d8a3f2b1f73e81bc5d97c27857c3863bb65248474ccf1f9d4fe6ee9295a25
+Transaction successfully posted
+Transaction successfully posted
+(*) BID Transaction sent.. - 4fab9bf9d5313aaf155cc34d013cce719ba37ed96ec44bf2bad088488a9d8fef
+Transaction successfully posted
+(*) BID Transaction sent.. - 1fedd90c887d5586ab29c617a00eb0f745433ea7a59faa68d37616b8d3450255
+Transaction successfully posted
+(*) BID Transaction sent.. - 1881c7eb549df3b135db1d1a0f36dbeaeff13e0d226890d8057058ae8830f323
+Transaction successfully posted
+(*) BID Transaction sent.. - 289a91c924d87ccd5a90485e1c7cabb03f6d97b61f5557658326da2928eaa766
+Transaction successfully posted
+(*) BID Transaction sent.. - 918100a869f94d37f0fae12e6a294658a3e7bfda32036eb438d125896f31b8ed
+Transaction successfully posted
+(*) BID Transaction sent.. - ac03ed2a0a7d4f5e82473084e72f6e2d1ac95af4d8470e213d27d608c89e6abc
+Transaction successfully posted
+(*) BID Transaction sent.. - d7c8e6f30b401579f2a00ec6109d357b85349dabb95615c16d45ae8c87f56d93
+Transaction successfully posted
+(*) BID Transaction sent.. - 7812e0fab38af153982aa8a098fcfd6767ee2f439bda73bbf7b4c028a730e604
+Transaction successfully posted
+(*) BID Transaction sent.. - 87603f36fd4e1e359c6163409bfc4d990dfbed7bc6fc2f0b90a37314819005a8
+Transaction successfully posted
+(*) BID Transaction sent.. - 39cd56d969d73e73129fa39a20480477bc0326c87da7731cdb4b4447211fd7c8
+Transaction successfully posted
+(*) BID Transaction sent.. - bf70f8919437ca26275755bebeb9f31135536c6bd15829a0ae3e714a74be697e
+Transaction successfully posted
+(*) BID Transaction sent.. - d416371d2b4c97145f6bd2268649e5f7186028fddfe1fc33f428f471bf0e5704
+Transaction successfully posted
+(*) BID Transaction sent.. - 6a91d1b3ee7b655f22318e5975160d8bd59c64cdd9dff1d1e536d709d6b0b62c
+Transaction successfully posted
+(*) BID Transaction sent.. - d9bd6ee91404b41eda70a863c589f55b9b63831e317f1067218265c9bc549f16
+Transaction successfully posted
+(*) BID Transaction sent.. - cae9836f175a5ea2fe2c4e057a59233e4aeeb5c5c8b030cf6e7f5563bc607b4b
+Transaction successfully posted
+(*) BID Transaction sent.. - 3bd53c4730ffe7cfe71e34ae0112f4310349a7e3d2470d2ab80da091f099bafe
+Transaction successfully posted
+(*) BID Transaction sent.. - 2adcb66d0946f2d8b940f59c59e07e9ef5cf7b44c264072b7210d323fd9176b1
+Transaction successfully posted
+(*) BID Transaction sent.. - 63f35f2c38fb76e66430b86acf58b2556b01fcec01784611e93697e789d8b072
+Transaction successfully posted
+(*) BID Transaction sent.. - e5d6625a0648ee73163391d0c6d8c37574a90e57fa3142bbeee81e6c1270a1e8
+Transaction successfully posted
+(*) BID Transaction sent.. - cdbbe7016160a408f8ef94fcdd5f6d5ff9ce549fec631762dbda1368324f9aa3
+Transaction successfully posted
+(*) BID Transaction sent.. - 0d4d1641aa56bab8c7c624f6839ce4c52a37f93cfbaf0263540f8638bcc83ab0
+Transaction successfully posted
+(*) BID Transaction sent.. - 50ecfe55704df09eeed02a345964625b0ae89f309065091dab2d17b2c859f3b3
+Transaction successfully posted
+(*) BID Transaction sent.. - 9936c72470cd098ffc9ea0099011a134ec058ae3f8dfc8892857081683bc5bb1
+Transaction successfully posted
+(*) BID Transaction sent.. - cf9af7ded008c128fae341e2966df51bbe7fc4dd80d3ecc33e72bf96b8f57d7f
+Transaction successfully posted
+(*) ACCEPT Transaction sent.. - 4e2b74e20e5223b2d5c09beb08809cc1df0ea097e62e76da04bd361904f02fde
+(*) BID Transaction sent.. - b5f6c5d1be185488693fcc7e262b3d1b9ed1f8be409c4c6d14da1bd5b0f2c39d
+Transaction successfully posted
+Transaction successfully posted
+(*) BID Transaction sent.. - dfc713a6078d8198f03e05de29009c440ce536004217019daf7cd4687ecedc47
+Transaction successfully posted
+(*) BID Transaction sent.. - b04c5ba1ac35910de3f1e3187f961be1cddb2bae34676a23a52e832bf957bba0
+Transaction successfully posted
+(*) BID Transaction sent.. - 1f34fcb2775ca8e4cce0cc925a6a28010700728691273ba318d32e5fa3f27c7b
+Transaction successfully posted
+(*) BID Transaction sent.. - 1846d039bc090a677b7e0957ec71ba57c982bf8591a405c14d8470e135c1ab4a
+Transaction successfully posted
+(*) BID Transaction sent.. - 696e6d8876e484741f14d95b5cea397031da14bd8093f34068f18e81abf9e6f9
+Transaction successfully posted
+(*) BID Transaction sent.. - f9e64ba0d02f521e6917e837e9f28c03eb0b8ad8d7a3fab01b8499e05c2fc1f0
+Transaction successfully posted
+(*) BID Transaction sent.. - 4a6feddf1a334659a09b3dcac44ed86de0adff9aed0e6f46d0dd823dbcb51e41
+Transaction successfully posted
+(*) BID Transaction sent.. - 569e40d580ba2f7dbac9f166bde3afa4848b14b6a7685af37acaa5e4db89a18f
+Transaction successfully posted
+(*) BID Transaction sent.. - a61fe6bcbe7b6665c5965f98b669daaaefdfb12ee341d04ed184c605edf328c9
+Transaction successfully posted
+(*) BID Transaction sent.. - 23bc74c3a1f1155aacab2469ac10c6b00f47912ccb68f6b16e8644164107248a
+Transaction successfully posted
+(*) BID Transaction sent.. - c661db95cb12c67835d5a65b24d64a9cf4c7bdf7ce88536f6785f7d16ac0bc40
+Transaction successfully posted
+(*) BID Transaction sent.. - 3a3136f05eba1afaf042fb193f4e5abf80b7c9c70c51b931c7fec83e3bbe8b17
+Transaction successfully posted
+(*) BID Transaction sent.. - ccad1852a4ead082bf89eda9af2cb12f31875ed0f7941598fdcaaaee09846de6
+Transaction successfully posted
+(*) BID Transaction sent.. - 894ce1581237ec17f39cfad7ab0ddd1460f64d745df8e4554ae73e5cdcb2dfcd
+Transaction successfully posted
+(*) BID Transaction sent.. - 77968faa1a6fda441b802b9f131f998917adfff3e4c49afcf88bdcc5ed6f0730
+Transaction successfully posted
+(*) BID Transaction sent.. - 1e3db49b148a1e33bd907fe354f11335cd0a928099ad2e13ff0df77880d5b6db
+Transaction successfully posted
+(*) BID Transaction sent.. - 755a6e554700a133b72a1e7e2e0d1d286fac42572857ecf888583ef1379eb00e
+Transaction successfully posted
+(*) BID Transaction sent.. - eecca8c07a8f9cb6252198c50e051049bfc8a5be69960cd2c87c0489ab627f82
+Transaction successfully posted
+(*) BID Transaction sent.. - daafe21f9a094c440de2dc396ec6616456ccc87880605326a82d235462d568be
+Transaction successfully posted
+(*) BID Transaction sent.. - ae12b5d17f95c6005208c6384b03f82c8992c2ecbbf5f80288b27739ea7a9a3d
+Transaction successfully posted
+(*) BID Transaction sent.. - 71f9ef69625cbac2d5fc94f51d031ba5ffdd8c74021d3cb8b2fb46773f4a074a
+Transaction successfully posted
+(*) BID Transaction sent.. - c9ae908575ab46b8acc63e2f6d937ff91f54ca05b6637c281fb1fe80669fedda
+Transaction successfully posted
+(*) BID Transaction sent.. - 415444026db5e402c62b4e33ba98e5114dda7d6f19df95167aac2e0b1308640d
+Transaction successfully posted
+(*) BID Transaction sent.. - 6e2dea1edcfe79687d4c84fcae7a660c829d59ac175e6545aa9c940f2142b6f0
+Transaction successfully posted
+(*) ACCEPT Transaction sent.. - 062c2f96cb782b35cac94357d4eaca699ccee67f811344513f837bb8be0611a9
+(*) BID Transaction sent.. - d085bf7e94bf5a53c22ba4ade77ab20ee5056726fafac943cfd085bad3a257ea
+Transaction successfully posted
+Transaction successfully posted
+(*) BID Transaction sent.. - 4d4e4b43c605dc228e1291c38d3c0c994b14dcbb88744b00f5c1b1f42567962b
+Transaction successfully posted
+(*) BID Transaction sent.. - 922bd39ac63867ea9b17dc81cc6488dce903cb6510aaf1dc5104e00c7f99dcca
+Transaction successfully posted
+(*) BID Transaction sent.. - 3cb697030d412d4d7db1c3f9a9612a90733fa7fc587d40127f0ae9f32a3dc048
+Transaction successfully posted
+(*) BID Transaction sent.. - c46407bc27242ec790c9ca86b1db15a3b4519557312e63dbe1970a2a9c9bf8ef
+Transaction successfully posted
+(*) BID Transaction sent.. - 0635c3498160a6327799cfb01fae1d8ef670768da2a1ff4b89c5b5d807144106
+Transaction successfully posted
+(*) BID Transaction sent.. - 700a569b737b9e717c1a09f324f5467aa2e696b60edf13c4724d1e69590dee99
+Transaction successfully posted
+(*) BID Transaction sent.. - 15f88694bf838b2b5d198d0d68634e61a289b8fd21ab80dcfe5697e0d11b3e81
+Transaction successfully posted
+(*) BID Transaction sent.. - 2bbc73ba925dd18411b9d88118947b74fb3da107036cf7723cef39334f3865c7
+Transaction successfully posted
+(*) BID Transaction sent.. - b5662c5397743d24f9a5525678ed2704546751a42e4c21f07f20607f4c701ed2
+Transaction successfully posted
+(*) BID Transaction sent.. - eaad3aa071307a1661ee75dbbe4a55038ed875f93efb4a9f49bcdccb1a063ca2
+Transaction successfully posted
+(*) BID Transaction sent.. - e3690a130d47cfb4682950037a3f7c013d8d31ec8075036001b6d16c04293f79
+Transaction successfully posted
+(*) BID Transaction sent.. - 59be7486d63b161d0af4bf2df4ff375ad182677ae98690f85512db1712ee7d46
+Transaction successfully posted
+(*) BID Transaction sent.. - 3fa2d11ba951105dbc1152068ab2f1504b9a88f590056c573f88025a872807d5
+Transaction successfully posted
+(*) BID Transaction sent.. - a73656a0318b30973f94334a5e7440f3c0b17e789ed4c6705d7941c2016f86f2
+Transaction successfully posted
+(*) BID Transaction sent.. - 3f2432636b9b1115bc042c6390b469d1f9d00064339107630118f338eba485ed
+Transaction successfully posted
+(*) BID Transaction sent.. - 87f9eed0909a7cfe8c070aa57ddaed4b5306c705eec4a71bb941b1ca9d8f8041
+Transaction successfully posted
+(*) BID Transaction sent.. - bbc9ea2f07714a9ce9049e4ebe62cf8afa638e47bebcbaf8381b6a27e2f7cc7e
+Transaction successfully posted
+(*) BID Transaction sent.. - 73221ac04c5010b48451254517495d0effbdaac103301c0a30f20b7885db97cb
+Transaction successfully posted
+(*) BID Transaction sent.. - 096f4f3700d406b76e5913a36d7054c45c03429e8aa0fb103df952dade66586f
+Transaction successfully posted
+(*) BID Transaction sent.. - 1f5458c3de9ebbdb15a5f706251659e0a6fccba12cb10a6dca8781ffc5dbd90b
+Transaction successfully posted
+(*) BID Transaction sent.. - a256b8793dcf94cd778a28df104ab972bccfd8da32c3708ec639e1549c33b2e1
+Transaction successfully posted
+(*) BID Transaction sent.. - 33f98bcb23cacd6a6b75fa36c587685b06cfa0a979580a0da6287ff5558c9d1c
+Transaction successfully posted
+(*) BID Transaction sent.. - e2db04759078a16b1ab02fd3e5f9307a255d86fcfa9bda1a629f2e0f3f9fdc55
+Transaction successfully posted
+(*) BID Transaction sent.. - 10d935ea3a1695e25c3559f1266ffb66fbf87cc2d9daefb3d6b2c99a13d32f7c
+Transaction successfully posted
+(*) ACCEPT Transaction sent.. - 3525ac401f44f2181a1c809dd29d0bb94a70937eff853bec62e88ff9e7b5fd97
+(*) BID Transaction sent.. - 8054eab97ad05088a6f14fb59968d828c9eb99e87a9db3e9a57d6e8bbadbc2e4
+Transaction successfully posted
+Transaction successfully posted
+(*) BID Transaction sent.. - 1583f1f717d906a4dd9db37a3ccd0edf1b1f833eabffabaf94fab4b643faf4e5
+Transaction successfully posted
+(*) BID Transaction sent.. - 4b98759ec4938de1ce0e5a8c5d7b99905f2b9b206849140ee50bb00c839a142b
+Transaction successfully posted
+(*) BID Transaction sent.. - 3f6a698c199d693e312d0302b832eec812890541606bdd049ff126bd8e284bba
+Transaction successfully posted
+(*) BID Transaction sent.. - 91e59b8be834e6757ce45371b64ed4b0368263d9e648dca52503c6273d362db8
+Transaction successfully posted
+(*) BID Transaction sent.. - d18d58c5aa664175245c1273ea7d6d7954926a019df5ed3c19c1a67c8bf91b99
+Transaction successfully posted
+(*) BID Transaction sent.. - 753cb8e3f51611bbb1c86fd12f5ea4f17e32a34ed94c17f34f70cc097e7c9229
+Transaction successfully posted
+(*) BID Transaction sent.. - 42ad4f6a0d590214e53e5eff227a184e63b811d03a39fbd8bf2297969ddb930a
+Transaction successfully posted
+(*) BID Transaction sent.. - 268b66717c853e4cdda70c9c2e406a2ca3c7ebc3a6bb153a34d2cc38ee01fe01
+Transaction successfully posted
+(*) BID Transaction sent.. - d91704dc43cad2223988bcc4fe9769d4bbd60028f0a64231c1cbeab51e991c87
+Transaction successfully posted
+(*) BID Transaction sent.. - b448eddeec888fccbedd66837d7a6f8b5d637b2df912947406229b4bf0f54ed6
+Transaction successfully posted
+(*) BID Transaction sent.. - 14ec7e953ce9bf0f8a67fce82907138da5b93b4bb12a9a54366d5e6c0a63f8c9
+Transaction successfully posted
+(*) BID Transaction sent.. - d9da557aab78f959636ca3487035afabfa5e617e53b7943a6b961b49529d30ee
+Transaction successfully posted
+(*) BID Transaction sent.. - ed535cc9a35a405c26e77ad93bebf9a2414239b1550d267a59f74eed7b1fd4a5
+Transaction successfully posted
+(*) BID Transaction sent.. - de45fb96f5858372e22e505f6fbb9a619324d2be5873a2836a3be7dc984a011c
+Transaction successfully posted
+(*) BID Transaction sent.. - 7313b1541a346df4eb0e64c556c7e7e05766b3b759792acd9848765768b7be78
+Transaction successfully posted
+(*) BID Transaction sent.. - de9628684b8eac3c0403d5e6161ba8c916a90eebce2a3ba9e6d31df45e77ee3e
+Transaction successfully posted
+(*) BID Transaction sent.. - 937e3a15ee1bd54cf1bca6d5bcb11566e08ea62ab134afacefe9ba5e46fb3809
+Transaction successfully posted
+(*) BID Transaction sent.. - 09fbdde32cbac4d94f1b8e3f021598ccdbe34b36f18825bc10dd8de366245152
+Transaction successfully posted
+(*) BID Transaction sent.. - da39bf1900a78e2278f141fb76809554b72bf5125efe6181bec5aa7d19277919
+Transaction successfully posted
+(*) BID Transaction sent.. - a7af5910454ef2bfcb8f20d68c6e8bb720a6197941fb8aab37eb19f419d5f2d8
+Transaction successfully posted
+(*) BID Transaction sent.. - 09c38cb3ac7fa0d8f77defb7b8f63511d771e1dd32792ae720de4e3cdc96300d
+Transaction successfully posted
+(*) BID Transaction sent.. - c3f809bad6fdef1e189e18706a9341b0c8fa809ecc0276a3c569a2740d4beafe
+Transaction successfully posted
+(*) BID Transaction sent.. - fce7d7d4740044ca27822843dfcd1e94eadf7c262e6bfcbd289b36f70acccfe8
+Transaction successfully posted
+(*) BID Transaction sent.. - 7c58aa08941149c3fe265c44f003741b7be10d75866851ac7342bb9b0c5f09a0
+Transaction successfully posted
+(*) ACCEPT Transaction sent.. - c5a58538686b3e4943e0f2399040af28a508f16a278aaa5867aae0e2796b39b9
+(*) BID Transaction sent.. - 699c7f3dbe99659236588b28b049c4795741edfcb040f92e712f0be2ae9ce7e1
+Transaction successfully posted
+Transaction successfully posted
+(*) BID Transaction sent.. - 858167c19a22dc3500a59841dbc92b2dc928f413ec886105d1b94a5670580de2
+Transaction successfully posted
+(*) BID Transaction sent.. - 019548c02082872c9975eb216087b3309c73a21c2bea60543c27b4f949ac8238
+Transaction successfully posted
+(*) BID Transaction sent.. - 0777ed8b880d028cc64d165d799a79c83d7d2bf39c031406065c04f24147b45e
+Transaction successfully posted
+(*) BID Transaction sent.. - 9b7e4ab834a911dd41c2cb76c73b14579182991faff64c7494448c640839d9c3
+Transaction successfully posted
+(*) BID Transaction sent.. - 457369c9da8a69613bf739b4f5df56353f003f17529980ee898521f220d5f294
+Transaction successfully posted
+(*) BID Transaction sent.. - 20c7720e7c218a61a63987f69647aaaf122d69006e80d374b67f83b5c1de4e5a
+Transaction successfully posted
+(*) BID Transaction sent.. - 6e793abe4b8966a728208a34aa0e7f37a73bc1febdd5f1883ff3418f4dfe5b26
+Transaction successfully posted
+(*) BID Transaction sent.. - cff116f77bff3eb59f89aeb295bd52c4ab9ab837a14773f1977259b9c293aa15
+Transaction successfully posted
+(*) BID Transaction sent.. - 28f5cb677906b3ed417a6b281853633b5716e17e6cb22ff9dabf6ec876bffe0c
+Transaction successfully posted
+(*) BID Transaction sent.. - bd4d73b2692cc3db17cd5783a9857abfa4b8383351b595f3db9a0b7343873945
+Transaction successfully posted
+(*) BID Transaction sent.. - 04e1da0a251a349d19396cf3875fae83f9a65713961b6cb966068d2cf2d72f9e
+Transaction successfully posted
+(*) BID Transaction sent.. - ba61e39c6731816100e9498218403dbd5d4fe3a5c4b0f6368a539c998edaa04c
+Transaction successfully posted
+(*) BID Transaction sent.. - bcb51708a19218564f57c485a6ccd821ae0fa3c063454bc1ea85f39ea9fef7aa
+Transaction successfully posted
+(*) BID Transaction sent.. - 2cb865582823b24c36e74ab4a41f83bd4e367d1ec69addad7a651052a25d65b8
+Transaction successfully posted
+(*) BID Transaction sent.. - a703c3e43bbd4b725ad5579f244d2e49d8ec081fcf5c5182e4cda266085056e7
+Transaction successfully posted
+(*) BID Transaction sent.. - 12aa8b583550fb0e5fdd371dad9c3984df81d34c394be5098fa9cef7aaf83a97
+Transaction successfully posted
+(*) BID Transaction sent.. - 763595515fa947f4d13bc2c12603474b20fef28c5f46f98c4f588e9d5d6486a9
+Transaction successfully posted
+(*) BID Transaction sent.. - 2ea38812901366fde3cb11d8a0c7ea417878e7bf17fa7bc87034eb63d6ac2ae3
+Transaction successfully posted
+(*) BID Transaction sent.. - f998bf96b6e738f7c60628473703046749e7771ceb3cc64ad269bbfdacf669e4
+Transaction successfully posted
+(*) BID Transaction sent.. - c0524fa6b9df23bfccf29c1c3df059d7e795b78173dac72407fe961c673dedc1
+Transaction successfully posted
+(*) BID Transaction sent.. - a262030b12dd961e7f837eb2d447b6c10b863ed07618cb6cb0eb20baf66009a3
+Transaction successfully posted
+(*) BID Transaction sent.. - 17be020008f317eb4a88e757b57ff5bfdbbea1a872d6911519ee4c63a4c4f2f4
+Transaction successfully posted
+(*) BID Transaction sent.. - b97cb5d2c98213fb9563d480449b833cf0188c57d7d0b4bafa1322283bf46efe
+Transaction successfully posted
+(*) BID Transaction sent.. - bce80bce7e713877590d2f8cf1bfa2c54f96d718cb2fad8ca559a3caf5309300
+Transaction successfully posted
+(*) ACCEPT Transaction sent.. - 88ce7e2b002c598628c399e353dcac1511865e72fec1cb3854c455d6c3178c1a
+(*) BID Transaction sent.. - 9359ac37998a98081b131ffcc56340915fe779526b3c7b91c902745215bdf145
+Transaction successfully posted
+Transaction successfully posted
+(*) BID Transaction sent.. - 53b1d4da24e1925fe4100cb65af87ccac96251de39eed2b4e97aa60b47860ab5
+Transaction successfully posted
+(*) BID Transaction sent.. - 4335eb68e9d3aecfb3e99a7872811c6f87ec32ffbf22adbe07f0771ca26afcb5
+Transaction successfully posted
+(*) BID Transaction sent.. - 0379523ad070eb77a4867e148a4a39cfbc31d8309967e98b48f53fdff160a74d
+Transaction successfully posted
+(*) BID Transaction sent.. - 9da89936786628827d510f5cfaa95fbbfbff8d074e4550463557ad124089ce96
+Transaction successfully posted
+(*) BID Transaction sent.. - 83121be06af336161d39bd68f2d55f56566ef918bf5dde11873e042e48ba6b87
+Transaction successfully posted
+(*) BID Transaction sent.. - 4f89b86c8b651700f8b4a37dfbbef6bf88dccb3f4494aa2c08d127130b0f6c3e
+Transaction successfully posted
+(*) BID Transaction sent.. - 2298e96c1ac15bfb613237b1bb1ea04b3ca3180ad8be0e557cca40dca5bb1350
+Transaction successfully posted
+(*) BID Transaction sent.. - eb2667f04586b11af0c5da9b2f811cf35cc0c96274f3b194d5153145ffad125c
+Transaction successfully posted
+(*) BID Transaction sent.. - 129fc6c41aa5c403d7a5b037cf087194553b741ec8b7e3f502443b9181e8c87d
+Transaction successfully posted
+(*) BID Transaction sent.. - 70e9ad8157aad4f19da4c8d49e40500cd3f7d9b2d1aa194b821d723e3bebdd38
+Transaction successfully posted
+(*) BID Transaction sent.. - 0462a2ecae28ee6777e511f15b2b47c80be2eb24fcfebaa8614e222402dff0a4
+Transaction successfully posted
+(*) BID Transaction sent.. - 0f5a2c941d84ebd9bceeffb375f0285bfdc21afb84cc0f4cccc68ea7169b5e08
+Transaction successfully posted
+(*) BID Transaction sent.. - 16dc60f7bd2d1cdae6a8b5198984db13c1593502f0935caec75ccd4b9f5d3602
+Transaction successfully posted
+(*) BID Transaction sent.. - 1fc733aecb30c4840cde70f38949168bad29bf009b249d1e615e3e584537eeb4
+Transaction successfully posted
+(*) BID Transaction sent.. - 99830f499cac352fcc9c025720b793d4000b4745e5aa880372eadaf14ec9fa62
+Transaction successfully posted
+(*) BID Transaction sent.. - eabe01a500b3e12d4abbf421357ce2dc90349746bfcd8b68056b263beda18c53
+Transaction successfully posted
+(*) BID Transaction sent.. - 733105de6148b17d6f9a51dc28d898520be820f40ca6c360a61fa8210afb9872
+Transaction successfully posted
+(*) BID Transaction sent.. - 05a16072f506d22bcbfb1bde1b3a9ff42e70fb230e0de810ad69805b2044c180
+Transaction successfully posted
+(*) BID Transaction sent.. - 625ddc5d838d733b917cc33f622abd93998d8da63bae22c420eeaeec1bb3564f
+Transaction successfully posted
+(*) BID Transaction sent.. - 2df60651713b1255f8d54ec90f85e6fbabdce7a04817b5e13016c608282786ce
+Transaction successfully posted
+(*) BID Transaction sent.. - dabaf5c808f7de36d896e1b8eaf1241b46d1f7446289870b0973e398148ce6d3
+Transaction successfully posted
+(*) BID Transaction sent.. - 85abfe90874b7836a75737a6ca1c38a450e698e605f769481f8dbc6e5120b223
+Transaction successfully posted
+(*) BID Transaction sent.. - 01f516e5ed33656e6d26328fc39a5278ca0188264473fef6402edbb0fd88da05
+Transaction successfully posted
+(*) BID Transaction sent.. - 7f542f0afa1978504bfbd3c53ffb2c7544c9c4254ea9add01de8f751660e06b8
+Transaction successfully posted
+(*) ACCEPT Transaction sent.. - 47d45c87b13496de222f950805bdd25a7bac1504c25850d90e5066780240f03a
+(*) BID Transaction sent.. - 25cc39ed3f578d01c051d331d0d9461a24bc36a2c448351067e07233320725e8
+Transaction successfully posted
+Transaction successfully posted
+(*) BID Transaction sent.. - 8aae7ce23d52241c569534ff95ef293e03fc01e0a98e7467c77a990564db250b
+Transaction successfully posted
+(*) BID Transaction sent.. - 747269bbdfaeec6930da85eed41aa77b1ef1144aaa87d1747861533d40d39119
+Transaction successfully posted
+(*) BID Transaction sent.. - 3db26e066f14f0fc2026ae0b5cdfc0201cba92790a385ae51df6dde7b9795f2e
+Transaction successfully posted
+(*) BID Transaction sent.. - 53aa41ffad7a93621c87285be58b5e32ace3c71e2d98f2bce5253c889731dfe5
+Transaction successfully posted
+(*) BID Transaction sent.. - cd951d3aaad40e6d0d81f2bd830662cecf22d61d1854fa08d8102c0f21a51c32
+Transaction successfully posted
+(*) BID Transaction sent.. - defcb5d1a7c562ff3af4baa1315b3dcd2463af9c9148f12b2f4e923dc4b56dc4
+Transaction successfully posted
+(*) BID Transaction sent.. - 5d40a398333b1f861c93c4808b8ef2c93f49a9247094ca1268d1fd3230933770
+Transaction successfully posted
+(*) BID Transaction sent.. - 547eebcfd96255a462cd75578aa93853d718b2ebccc65222551ede751f3b4e73
+Transaction successfully posted
+(*) BID Transaction sent.. - 381eaf1a91b5a8cfe9fc7741f4efbf21008fd74ab28b120310432a899f9e65fc
+Transaction successfully posted
+(*) BID Transaction sent.. - 609b8400fa18d98e14c659e348d0d68b6a75ca60b6784406732825d47bc46ea2
+Transaction successfully posted
+(*) BID Transaction sent.. - 6a96f4d73d93bf36f88d385768473f6d8bb7ea72fd1a6b8628871655ed33875e
+Transaction successfully posted
+(*) BID Transaction sent.. - dc3b0159ca1cc0544eac412ab8c9e04ab93f6993ddaefc56e4664184545e6348
+Transaction successfully posted
+(*) BID Transaction sent.. - e1e925d3df518481d21150f6f7bcf9e2b5a86282794ad1ce03ceb1ced878f1ac
+Transaction successfully posted
+(*) BID Transaction sent.. - f37c912c2bf6be7843d514937b541130d82338b6545300935e7a6278c2ff13e0
+Transaction successfully posted
+(*) BID Transaction sent.. - 73425892ea5e9fe7429bb2b8ab5365ba9ff6112de4af13823ec30e011ce3abce
+Transaction successfully posted
+(*) BID Transaction sent.. - fa2c176b2db318d7b7924a70c5adcb36da1450e40adae68e870ec2dc897481b2
+Transaction successfully posted
+(*) BID Transaction sent.. - 043032400c39f3928f9675127f35e5fef6982669fb63f6295a18ccda6f10e005
+Transaction successfully posted
+(*) BID Transaction sent.. - 1da5f459b0f355a4de30bfde8ff1be4cc4e7fdce7775bb05a2e9524384697c10
+Transaction successfully posted
+(*) BID Transaction sent.. - e11f053d01e37e34caba4ee8d7bbb9e8a562e6b1102519152c1146dd4508e02a
+Transaction successfully posted
+(*) BID Transaction sent.. - 889c41a3daf853f89f207aedbf1cc91022399c57c4efc32c5b2d3a3ae4c7cb31
+Transaction successfully posted
+(*) BID Transaction sent.. - 3dc72d0c1c430f9aa9b7135f18ae62f747eb687be6e6c5913a17e3e358746c5d
+Transaction successfully posted
+(*) BID Transaction sent.. - ea2874484e2cbf96db98a1540403a6617529915557750767630802ff70aa23f8
+Transaction successfully posted
+(*) BID Transaction sent.. - cd19d12f50ececb15fbf529cc7830f1d13c330af65b132c799f739e3f368e1e5
+Transaction successfully posted
+(*) BID Transaction sent.. - a33a800466cde43dec4d047fb23892d6715e2a6767a9a1ca09fc3b6fad55b56e
+Transaction successfully posted
+(*) ACCEPT Transaction sent.. - 5ef9b72cdd3a4054dcc58382a7e6d6ba40db6befea332834b1605ef79431da7e
+(*) BID Transaction sent.. - e05280e3bbd3ada94b662b9186b92875483b85c5c04c6296c1a0b06d900781c4
+Transaction successfully posted
+Transaction successfully posted
+(*) BID Transaction sent.. - 34974ec7e5dd202534efcf63ab95dd044017147817a4a2155661621460693a01
+Transaction successfully posted
+(*) BID Transaction sent.. - ed71d7e993b03029d867c9f0ec48b31a316faadb73c5c8cecae3b99a094a2012
+Transaction successfully posted
+(*) BID Transaction sent.. - 80fdfb47e138cda97e6ff0e8c785fa32b3427228d751afc0bbaafa022a664f83
+Transaction successfully posted
+(*) BID Transaction sent.. - dcfc81d37b3a23812a2574f176d855a299d77afc24e2b88674b2883bd9622be9
+Transaction successfully posted
+(*) BID Transaction sent.. - a9a51c580bfc2b52bb3934a79fd4a0fd36b59a9fccde7bc6219090b801c1a592
+Transaction successfully posted
+(*) BID Transaction sent.. - 67be1e53ef3b13cc44d4ba4353dea1a891e0b8734585508beff5326ebcf02465
+Transaction successfully posted
+(*) BID Transaction sent.. - 5ead96bc4136ec1062d44baa38e005dcfdac3d01de2951c3c39d49db6083f961
+Transaction successfully posted
+(*) BID Transaction sent.. - db87d0217a4cee9df0954ad28b6dd92a67963c346878ceaf63f229ec952560f9
+Transaction successfully posted
+(*) BID Transaction sent.. - 3446b46e0df74f59edfccad90113a39cac68de24339773b4582eb2e7591c1368
+Transaction successfully posted
+(*) BID Transaction sent.. - ec45ec1c610c0da20d6098d9f0be3196546dd351da15ed32d4a307f6e07ebd46
+Transaction successfully posted
+(*) BID Transaction sent.. - c19585653f0b639d81f1eb8a8110cf5165abe0e2591401a7a808683ba68a9384
+Transaction successfully posted
+(*) BID Transaction sent.. - 914b9762f17df46450172159edec3dda3845071ed3f0d8ff82800221e316afe6
+Transaction successfully posted
+(*) BID Transaction sent.. - 9e01ebf4d8560309a98a046e6e90e611d9643c4ba3753e06779bb1c13eed65cc
+Transaction successfully posted
+(*) BID Transaction sent.. - 7744a68d06a51a0bf6f6f84196eb3feab68c72d76a112381cc06c8122211a9d5
+Transaction successfully posted
+(*) BID Transaction sent.. - d64f593cfb3a4e0b27daf6aa8ef2df59a5c42385b22d133414e6689cfc8ed875
+Transaction successfully posted
+(*) BID Transaction sent.. - 0bfd40798a03e77b144746fd84c09e110826eeee4d86d6b595364cf9318c4c28
+Transaction successfully posted
+(*) BID Transaction sent.. - ea9d628bb69506dbd49610077b1ece10c7544153e0c22953c86a69d885c90cad
+Transaction successfully posted
+(*) BID Transaction sent.. - 4e0b832bf43bcff48a52caad58efe4ca6e5abfe73e089e30287f7c80f423535c
+Transaction successfully posted
+(*) BID Transaction sent.. - a8d50cbc316b97e5085561d2b83ca0a340708cb4d0b8edd3dd6d7124c933c614
+Transaction successfully posted
+(*) BID Transaction sent.. - 5c43509de58626f6828731c020d9b991430dc6dfe54b8efd49d6665b615c3483
+Transaction successfully posted
+(*) BID Transaction sent.. - d19acaf9d54cfad9eee95613950c1a1cdbfe8c8ee5ff2c2fa0e7d9c83034249e
+Transaction successfully posted
+(*) BID Transaction sent.. - b50a29e5a506623691e192c0a7fc2263b2fb74545bae50588ec0c7ea36b6b433
+Transaction successfully posted
+(*) BID Transaction sent.. - 555c5a3f54f3d261046ceb43046d626692c204831e56a77b2f92ffee82753d63
+Transaction successfully posted
+(*) BID Transaction sent.. - 84f71c836460732f3c880d231888596ac8cea8f02112a32f52e7d0e6413c4b4e
+Transaction successfully posted
+(*) ACCEPT Transaction sent.. - 413ebe98b21600f8a5133d2986cc9a8aff0934338f675dcada0cca02fba3e893
+Transaction successfully posted
+
+BUILD SUCCESSFUL
+
+Total time: 59 mins 23.199 secs

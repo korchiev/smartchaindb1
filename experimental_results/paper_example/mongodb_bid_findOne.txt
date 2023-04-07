@@ -1,0 +1,40 @@
+> db.transactions.findOne({"operation":"BID"})
+{"_id" : ObjectId("640a71f68e53cf5a5eba651a"),
+        "asset" : {
+                "data" : {
+                        "id" : "c1a8341c5c11f608b19c0775c58e42cd114be5d5f471838a736e6fb71204202b",
+                        "rfq_id" : "b16cce5ca64c951d0e61cfb2dbc8ba179c111c1b55feb1eaab4246ac861d2002"
+                }
+        },
+        "id" : "fa7dfb2ab0eaa02f5c77e86f3ce440284da2bfb4aae0877ce5dd15a0b644437d",
+        "inputs" : [
+                {
+                        "fulfillment" : "pGSAIAgHp9mL5Z8gMKSufqCh42PdOw6CWaZlVVVwQelAqUCSgUCC0k5Oe5p0GSPniSYxrLKsPQ2BJfkTn_ybxbj7vmvqBmnlAXu1J2Ss3j5wZWvdySKRJ6PbgcGJE2Y6DD_hSdsO",
+                        "fulfills" : {
+                                "output_index" : 0,
+                                "transaction_id" : "c1a8341c5c11f608b19c0775c58e42cd114be5d5f471838a736e6fb71204202b"
+                        },
+                        "owners_before" : [
+                                "YM2sd4hnKgMgmCetHdTnQ44WSCQzWrbuoofAGfgYATb"
+                        ]
+                }
+        ],
+        "operation" : "BID",
+        "outputs" : [
+                {
+                        "amount" : "1",
+                        "condition" : {
+                                "details" : {
+                                        "public_key" : "7EAsHUGQ15LdS2NoX9543bgEoZg7BmkVqdxSmiSda3Dv",
+                                        "type" : "ed25519-sha-256"
+                                },
+                                "uri" : "ni:///sha-256;XIXUJPUhtPCZ7mm4enVXTSUeiNDZzz5kGCDRiPs6fH0?fpt=ed25519-sha-256&cost=131072"
+                        },
+                        "public_keys" : [
+                                "7EAsHUGQ15LdS2NoX9543bgEoZg7BmkVqdxSmiSda3Dv"
+                        ]
+                }
+        ],
+        "version" : "2.0"
+}
+> 
