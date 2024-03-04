@@ -22,10 +22,6 @@ tripti samal
 
 SmartchainDB is the blockchain database. This repository is for _SmartchainDB Server_.
 
-## Background
-
-* [Try the Quickstart to get familiar with BigchainDB](https://docs.bigchaindb.com/projects/server/en/latest/quickstart.html) 
-* [Check out the _Hitchiker's Guide to BigchainDB_](https://www.bigchaindb.com/developers/guide/)
 
 ## The Basics
 * [Read the SmartchainDB paper](https://drive.google.com/file/d/1HOYbvWb7_jxfu6WajqKYglpb9d9TKtFT/view?usp=sharing)
