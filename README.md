@@ -65,15 +65,6 @@ To view all commands available, run `make`.
 * [Blog](https://medium.com/the-bigchaindb-blog)
 * [Twitter](https://twitter.com/BigchainDB)
 
-## Links for Developers
-
-* [All BigchainDB Documentation](https://docs.bigchaindb.com/en/latest/)
-* [BigchainDB Server Documentation](https://docs.bigchaindb.com/projects/server/en/latest/index.html)
-* [CONTRIBUTING.md](.github/CONTRIBUTING.md) - how to contribute
-* [Community guidelines](CODE_OF_CONDUCT.md)
-* [Open issues](https://github.com/bigchaindb/bigchaindb/issues)
-* [Open pull requests](https://github.com/bigchaindb/bigchaindb/pulls)
-* [Gitter chatroom](https://gitter.im/bigchaindb/bigchaindb)
 
 ## Legal
 
