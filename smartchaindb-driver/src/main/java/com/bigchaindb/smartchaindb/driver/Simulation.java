@@ -131,6 +131,7 @@ public class Simulation {
 
             try {
                 tx = Transactions.doRequest(driver, null, reqMetaData, keys, null, null, null);
+                Thread.sleep(500);
 //                String owner = tx.getInputs().get(0).getOwnersBefore().get(0);
 //                produceOnKafka(reqMetaData.getMetadata(), tx.getId(), owner);
 
@@ -203,7 +204,7 @@ public class Simulation {
             MetaData creMetaData = new MetaData();
             creMetaData.setMetaData("requestCreationTimestamp", LocalDateTime.now(Clock.systemUTC()).toString());
             createId = Transactions.doCreate(driver, cre_assetData, creMetaData, keys);
-            Thread.sleep(5000);
+            Thread.sleep(500);
 
             //MetaData metaData1 = new MetaData();
             //metaData1.setMetaData("requestCreationTimestamp", LocalDateTime.now(Clock.systemUTC()).toString());
@@ -246,7 +247,7 @@ public class Simulation {
             MetaData metaData2 = new MetaData();
             metaData2.setMetaData("requestCreationTimestamp", LocalDateTime.now(Clock.systemUTC()).toString());
             bid = Transactions.doBid(driver, createId, rfqId, metaData2, keys);
-            Thread.sleep(2000);
+            Thread.sleep(500);
         } catch (Exception e) {
             e.printStackTrace();
         }
@@ -263,7 +264,7 @@ public class Simulation {
         for (int i = RFQ_COUNT * ID; i < RFQ_COUNT * (ID + 1); i++) {
             String rfqId = RFQs.get(i);
             List<String> bids = TransactionsApi.getBidsForRFQ(rfqId);
-            Thread.sleep(2000);
+            Thread.sleep(5000);
 
             System.out.println(bids);
             hmap.put(rfqId, bids);

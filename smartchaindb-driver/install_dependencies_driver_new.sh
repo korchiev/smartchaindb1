@@ -33,9 +33,4 @@ gradle -v
 gradle build
 
 
-#clone SmartchainDB Driver
-
-git clone https://github.ncsu.edu/nkorchi/smartchaindb-driver.git
-
-
 gradle run >  "../$(hostname).log"

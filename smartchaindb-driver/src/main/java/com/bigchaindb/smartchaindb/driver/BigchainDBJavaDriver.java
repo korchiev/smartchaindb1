@@ -58,10 +58,10 @@ public class BigchainDBJavaDriver {
         List<String> rfq_ids = new ArrayList<>();
         List<String> create_ids = new ArrayList<>();
         Transaction winningBid = null;
-        int rfq_count = 100;
-        int create_count = 2500;
-        int bid_count = 2500;
-        int bids_per_rfq = 25;
+        int rfq_count = 5000;
+        int create_count = 50000;
+        int bid_count =50000;
+        int bids_per_rfq = 10;
         int counter = 0;
         //create rfqs 
         for(int j = 0; j < rfq_count; j++) {
@@ -100,21 +100,21 @@ public class BigchainDBJavaDriver {
      */
     public static void setConfig() {
         // Single-Node Setup
-        BigchainDbConfigBuilder.baseUrl("http://165.232.123.159:9984/").setup();
+        // BigchainDbConfigBuilder.baseUrl("http://localhost:9984/").setup();
 
         // Multi-Node Setup
-        // List<Connection> connections = new ArrayList<>();
-        // for (String url : DriverConstants.VALIDATOR_NODES) {
-        //     Map<String, Object> attributes = new TreeMap<>();
-        //     attributes.put("baseUrl", url);
-        //     connections.add(new Connection(attributes));
-        // }
+        List<Connection> connections = new ArrayList<>();
+        for (String url : DriverConstants.VALIDATOR_NODES) {
+            Map<String, Object> attributes = new TreeMap<>();
+            attributes.put("baseUrl", url);
+            connections.add(new Connection(attributes));
+        }
 
 
-        //  BigchainDbConfigBuilder
-        //         .addConnections(connections)
-        //         .setTimeout(60000)
-        //         .setup();
+         BigchainDbConfigBuilder
+                .addConnections(connections)
+                .setTimeout(60000)
+                .setup();
     }
 
     /**
